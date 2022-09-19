@@ -1,0 +1,22 @@
+// Colors
+$mainBackgroundColor: #fafafa;
+$textColor: #2b2b3b;
+$darkBlue: #082988;
+$medBlue: #3375B0;
+$lightBlue: #B9CBD9;
+
+// Dimensions
+$minWidth: 240px;
+$maxWidth: 1200px;
+$mobileWidth: 555px; // this value is the exact amount of space so
+                     // that the nav bar does not occupy multiple lines
+
+// Font stacks
+$fonts: "Times New Roman", serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: $mobileWidth) {
+    @content;
+  }
+}

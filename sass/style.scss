@@ -1,0 +1,101 @@
+@import "reset";
+@import "variables";
+
+html {
+  font: {
+    size: 100%;
+    family: $fonts;
+  }
+}
+
+body {
+  background: $mainBackgroundColor;
+  font: 18px/1.3 $fonts;
+  color: $textColor;
+}
+.container {
+  max-width: $maxWidth;
+  padding: 0 10px 25px;
+  width: 100%;
+  display: grid;
+  grid-template: {
+    columns: 2fr 5fr;
+    rows: auto auto auto;
+    areas:
+      "logo title"
+      "blank subtitle"
+      "nav content";
+  }
+  // row-gap: 5px;
+  // padding: 0 10px 25px;
+}
+
+.logo {
+  grid-area: logo;
+  background-color: $darkBlue;
+  justify-self: stretch;
+  align-self: stretch;
+  img {
+    height: 70px;
+}
+}
+nav {
+  grid-area: nav;
+  justify-self: stretch;
+  font-size: 20px;
+  text-align: center;
+  ul {
+    list-style-type: none;
+    li {
+      a {
+        padding: 4px 10px;
+        display: block;
+        color: inherit;
+        text-decoration: none;
+      }
+      :hover {
+        background-color: $lightBlue;
+      }
+    }
+  }
+}
+header.title {
+  grid-area: title;
+  background-color: $medBlue;
+  justify-self: stretch;
+  align-self: stretch;
+  padding: 10px 15px;
+  color: white;
+  font-size: 40px;
+}
+header.subtitle {
+  grid-area: subtitle;
+  background-color: $lightBlue;
+  padding: 8px 15px;
+  a {
+    color: inherit;
+    text-decoration: none;
+    font-size: 25px;
+  }
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+}
+p {
+  margin: 10px 0;
+}
+ul {
+  list-style-type: disc;
+  margin: 10px 30px;
+}
+article {
+  grid-area: content;
+  padding: 10px 15px;
+  h2 {
+    font-size: 27px;
+  }
+}
+.blank {
+  background-color: $medBlue;
+}

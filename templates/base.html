@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Analysis Research Group</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="/style.css">
+  </head>
+
+  <body>
+    <div class="container">
+      <header class="logo">
+        <a href="https://www-maths.mcs.st-and.ac.uk"><img src=/sta-logo.gif></a>
+      </header>
+      <header class="title"><h1>Analysis Research Group</h1></header>
+      <header class="subtitle"><a href="https://www-maths.mcs.st-and.ac.uk">School of Mathematics and Statistics</a></header>
+      <div class="blank"></div>
+
+      <nav>
+        <ul>
+          <li><a class="active" href="index.html">Analysis Home</a></li>
+          <li><a href="members.html">Group Members</a></li>
+          <li><a href="research.html">Research</a></li>
+          <li><a href="postgraduate.html"> Postgraduate Opportunities</a></li>
+          <li><a href="Summer.html"> Summer School Projects</a></li>
+          <li><a href="seminars.html">Analysis Seminars</a></li>
+          <li><a href="links.html">Links</a></li>
+        </ul>
+      </nav>
+
+      <article>
+        <h2>{% block title %}{% endblock %}</h2>
+        {%- block content -%}{%- endblock -%}
+      </article>
+    </div>
+  </body>
+</html>
