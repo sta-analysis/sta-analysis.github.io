@@ -27,8 +27,6 @@ body {
       "blank subtitle"
       "nav content";
   }
-  // row-gap: 5px;
-  // padding: 0 10px 25px;
 }
 
 .logo {
@@ -39,6 +37,7 @@ body {
   text-align: center;
   a img {
     height: 70px;
+    object-fit: cover; // don't distort the image
   }
 }
 img {
