@@ -29,6 +29,8 @@ body {
       "blank subtitle"
       "nav content";
   }
+
+  // simplified header for mobile
   @include mobile {
     grid-template: {
       columns: auto 55px;
@@ -42,10 +44,16 @@ body {
 }
 
 // do not show logo, subtitle, and blank square on mobile
-.logo, header.subtitle, header.blank {
+.logo, header.subtitle, header#blank {
   @include mobile {
     display: none;
   }
+}
+
+// format blank
+#blank {
+  grid-area: blank;
+  background-color: $medBlue;
 }
 
 // format logo (top left)
@@ -60,9 +68,8 @@ body {
     object-fit: cover; // don't distort the image
   }
 }
-img {
-  width: 100%;
-}
+
+// format navigation pane
 nav {
   grid-area: nav;
   justify-self: stretch;
@@ -93,6 +100,8 @@ nav {
       }
     }
   }
+
+  // dropdown menu for mobile / small screens
   label, input {
     display: none;
   }
@@ -119,6 +128,8 @@ nav {
     }
   }
 }
+
+// title
 header.title {
   grid-area: title;
   background-color: $medBlue;
@@ -133,6 +144,7 @@ header.title {
   }
 }
 
+// subtitle
 header.subtitle {
   grid-area: subtitle;
   background-color: $lightBlue;
@@ -143,6 +155,47 @@ header.subtitle {
   }
 }
 
+// article-specific formatting
+article {
+  grid-area: content;
+  padding: 20px 15px;
+  @include mobile {
+    padding: 10px 8px;
+  }
+  h2 {
+    font-size: 27px;
+  }
+  h3 {
+    font-size: 22px;
+  }
+
+  ul {
+    list-style-type: disc;
+    margin: 10px 30px;
+  }
+
+  // formatting for abstracts
+  label {
+    cursor: pointer;
+    color: $themeColor;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    font-style: italic;
+
+    & + input,
+    & + input + p {
+      display: none;
+    }
+  }
+  input:checked + p {
+    display: block;
+    border: 2px solid $medBlue;
+    padding: 5px;
+    border-radius: 5px;
+  }
+}
+
+// headers
 h1, h2, h3, h4, h5 {
   font-weight: bold;
 }
@@ -158,6 +211,8 @@ h4 {
 p {
   margin: 12px 0;
 }
+
+// misc. text formatting
 strong {
   font-weight: bold;
 }
@@ -182,49 +237,17 @@ a {
     color: $themeColor;
   }
 }
-article ul {
-  list-style-type: disc;
-  margin: 10px 30px;
-}
-article {
-  grid-area: content;
-  padding: 20px 15px;
-  @include mobile {
-    padding: 10px 8px;
-  }
-  h2 {
-    font-size: 27px;
-  }
-  h3 {
-    font-size: 22px;
-  }
-  label {
-    cursor: pointer;
-    color: $themeColor;
-    text-decoration-line: underline;
-    text-decoration-style: dotted;
-    font-style: italic;
 
-    & + input,
-    & + input + p {
-      display: none;
-    }
-  }
-
-  input:checked + p {
-    display: block;
-    border: 2px solid $medBlue;
-    padding: 5px;
-    border-radius: 5px;
-  }
-}
-.blank {
-  background-color: $medBlue;
-}
+// seminar entries
 h4.sem-date {
   font-weight: normal;
 }
 .sem-entry {
   padding: 10px 0;
   border-bottom: 2px solid $lightBlue;
+}
+
+// misc. other formatting
+img {
+  width: 100%;
 }
