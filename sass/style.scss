@@ -1,18 +1,20 @@
 @import "reset";
 @import "variables";
 
+// primary HTML and body
 html {
   font: {
     size: 100%;
     family: $fonts;
   }
 }
-
 body {
   background: $mainBackgroundColor;
   font: 18px/1.3 $fonts;
   color: $textColor;
 }
+
+// main container defining grid structure and overall layout
 .container {
   max-width: $maxWidth;
   margin: 0 auto;
@@ -27,8 +29,26 @@ body {
       "blank subtitle"
       "nav content";
   }
+  @include mobile {
+    grid-template: {
+      columns: auto 55px;
+      rows: 55px auto;
+      areas:
+        "title nav"
+        "content content";
+    }
+    padding: 0 0 25px;
+  }
 }
 
+// do not show logo, subtitle, and blank square on mobile
+.logo, header.subtitle, header.blank {
+  @include mobile {
+    display: none;
+  }
+}
+
+// format logo (top left)
 .logo {
   grid-area: logo;
   background-color: $darkBlue;
@@ -73,6 +93,31 @@ nav {
       }
     }
   }
+  label, input {
+    display: none;
+  }
+  @include mobile {
+    label {
+      display: block;
+      cursor: pointer;
+      background-color: $lightBlue;
+      img {
+        padding: 5px;
+      }
+
+      & + input,
+      & + input + ul {
+        display: none;
+      }
+    }
+    input:checked + ul {
+      display: block;
+      position: relative;
+      float: right;
+      background-color: $lightBlue;
+      z-index: 1;
+    }
+  }
 }
 header.title {
   grid-area: title;
@@ -82,7 +127,12 @@ header.title {
   padding: 10px 15px;
   color: white;
   font-size: 40px;
+  @include mobile {
+    font-size: 30px;
+    padding: 10px 8px;
+  }
 }
+
 header.subtitle {
   grid-area: subtitle;
   background-color: $lightBlue;
@@ -139,34 +189,37 @@ article ul {
 article {
   grid-area: content;
   padding: 20px 15px;
+  @include mobile {
+    padding: 10px 8px;
+  }
   h2 {
     font-size: 27px;
   }
   h3 {
     font-size: 22px;
   }
+  label {
+    cursor: pointer;
+    color: $themeColor;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    font-style: italic;
+
+    & + input,
+    & + input + p {
+      display: none;
+    }
+  }
+
+  input:checked + p {
+    display: block;
+    border: 2px solid $medBlue;
+    padding: 5px;
+    border-radius: 5px;
+  }
 }
 .blank {
   background-color: $medBlue;
-}
-label {
-  cursor: pointer;
-  color: $themeColor;
-  text-decoration-line: underline;
-  text-decoration-style: dotted;
-  font-style: italic;
-
-  & + input,
-  & + input + p {
-    display: none;
-  }
-}
-
-input:checked + p {
-  display: block;
-  border: 2px solid $medBlue;
-  padding: 5px;
-  border-radius: 5px;
 }
 h4.sem-date {
   font-weight: normal;

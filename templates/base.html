@@ -24,6 +24,8 @@
       <div class="blank"></div>
 
       <nav>
+        <label for="nav-toggle" class="stack"><img src="/stack.svg"></label>
+        <input id="nav-toggle" type="checkbox">
         <ul>
           {%- set links = load_data(path="data/links.json") %}
           {%- for obj in links.nav -%}
