@@ -16,9 +16,9 @@ def parse_entry(entry):
             with open(abstract_file) as f:
                 abstract = f.read().strip()
         except FileNotFoundError:
-            abstract = None
+            abstract = ""
     else:
-        abstract = None
+        abstract = ""
 
     if name is not None:
         name = name.get_text()

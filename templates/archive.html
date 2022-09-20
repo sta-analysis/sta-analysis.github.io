@@ -4,7 +4,7 @@
 {% block description %}{{ section.description }}{% endblock %}
 {% block content %}
 {{ section.content | safe }}
-{%- set archive = load_data(path="data/seminars.json") -%}
+{%- set archive = load_data(path="data/archive.json") -%}
 {%- for day, entry in archive %}
 {{ fmt::format_abstract(day=day, entry=entry) }}
 {%- endfor %}

@@ -5,6 +5,7 @@ $darkBlue: #082988;
 $medBlue: #3375B0;
 $lightBlue: #B9CBD9;
 $themeColor: #3375B0;
+$fadeColor: #666;
 
 // Dimensions
 $minWidth: 240px;
@@ -14,6 +15,7 @@ $mobileWidth: 555px; // this value is the exact amount of space so
 
 // Font stacks
 $fonts: "Times New Roman", serif;
+$mathFonts: Georgia, "Times New Roman", serif;
 
 // Mobile breakpoints
 @mixin mobile {

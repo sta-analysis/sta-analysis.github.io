@@ -106,6 +106,24 @@ h4 {
 p {
   margin: 12px 0;
 }
+strong {
+  font-weight: bold;
+}
+em, i {
+  font-style: italic;
+}
+sup {
+  vertical-align: super;
+  font-size: 70%;
+}
+sub {
+  vertical-align: sub;
+  font-size: 70%;
+}
+var {
+  font-family: $mathFonts;
+  font-style: italic;
+}
 a {
   text-decoration: none;
   &, &:hover, &:active {
@@ -128,4 +146,30 @@ article {
 }
 .blank {
   background-color: $medBlue;
+}
+label {
+  cursor: pointer;
+  color: $themeColor;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  font-style: italic;
+
+  & + input,
+  & + input + p {
+    display: none;
+  }
+}
+
+input:checked + p {
+  display: block;
+  border: 2px solid $medBlue;
+  padding: 5px;
+  border-radius: 5px;
+}
+h4.sem-date {
+  font-weight: normal;
+}
+.sem-entry {
+  padding: 10px 0;
+  border-bottom: 2px solid $lightBlue;
 }
