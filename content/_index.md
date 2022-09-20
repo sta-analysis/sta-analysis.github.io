@@ -19,3 +19,6 @@ The group's interests include:
 - Fourier Analysis
 - Metric Number Theory
 - Differential Equations on Fractals
+
+### Current Members
+<img src="/analysis-group.jpg" alt="Members of the Analysis Group">

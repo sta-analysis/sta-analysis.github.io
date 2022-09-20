@@ -39,7 +39,10 @@ body {
   text-align: center;
   a img {
     height: 70px;
+  }
 }
+img {
+  width: 100%;
 }
 nav {
   grid-area: nav;
