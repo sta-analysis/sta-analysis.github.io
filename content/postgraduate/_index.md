@@ -1,7 +1,7 @@
 +++
 title = "Postgraduate Opportunities"
 template = "plain.html"
-description = "Postgraduate opportunities in the analysis group"
+description = "Postgraduate opportunities in the St Andrews Analysis Group"
 +++
 We welcome enquiries from potential research students and visitors who wish to work with our Analysis Group.
 Most of our British and European Union PhD students are wholly or partially funded through [EPSRC](https://www.epsrc.ac.uk/default.htm) Doctoral Training Grants and School or University studentships are sometimes available.

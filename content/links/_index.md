@@ -1,5 +1,5 @@
 +++
 title = "Links"
 template = "links.html"
-description = "Miscellaneous mathematical links"
+description = "A miscellaneous collection of useful mathematical links"
 +++

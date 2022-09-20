@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Analysis Research Group</title>
+    <title>{{ section.title }} - {{ config.extra.title }}</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
+
+    <meta property="og:title" content="{{ section.title }} - {{ config.extra.title }}">
+    <meta property="og:description" content="{{ section.description }}">
+
     <link rel="stylesheet" type="text/css" href="/style.css">
     <link rel="icon" href="/icon.svg" type="image/svg+xml">
     <link rel="icon" href="/favicon.ico" sizes="any">
@@ -15,13 +19,12 @@
       <header class="logo">
         <a href="https://www-maths.mcs.st-and.ac.uk"><img src=/sta-logo.gif></a>
       </header>
-      <header class="title"><h1>Analysis Research Group</h1></header>
+      <header class="title"><h1>{{ config.extra.title }}</h1></header>
       <header class="subtitle"><a href="https://www-maths.mcs.st-and.ac.uk">School of Mathematics and Statistics</a></header>
       <div class="blank"></div>
 
       <nav>
         <ul>
-
           {%- set links = load_data(path="data/links.json") %}
           {%- for obj in links.nav -%}
           {%- if not section.title %}{% set cur = false %}
@@ -30,7 +33,6 @@
           <li{% if cur %} class='active'{% endif %}><a href='{{ obj.url | safe }}'>{{ obj.name | safe }}</a></li>
           {%- endfor %}
         </ul>
-
       </nav>
 
       <article>

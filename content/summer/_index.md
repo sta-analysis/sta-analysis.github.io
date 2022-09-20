@@ -1,7 +1,7 @@
 +++
 title = "Summer School Projects"
 template = "plain.html"
-description = "Summer school opportunities within the analysis group"
+description = "Summer research opportunities within the St Andrews Analysis Group"
 +++
 Every summer we arrange internships lasting around 6 weeks for a number of undergraduates, both from St Andrews and other universities, who are thinking about doing a PhD in mathematics. Interested students should contact [Dr Richard Scott](mailto:rks4@st-andrews.ac.uk).
 There are various funding opportunities available, including:
