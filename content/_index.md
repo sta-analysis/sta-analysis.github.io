@@ -1,7 +1,7 @@
 +++
 title = "Analysis Home"
 template = "index.html"
-description = "Homepage of the St Andrews Analysis Research Group."
+description = "Homepage of the St Andrews Analysis Research Group"
 +++
 There is a strong tradition for Analysis at St Andrews, notably in the mid 20th century under the leadership of Professors Turnbull and Copson.
 Professor Copson retired in 1969, and the present Analysis Group was established in the mid-1990s with the appointment of Kenneth Falconer followed by Lars Olsen.

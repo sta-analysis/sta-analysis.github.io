@@ -1,0 +1,64 @@
+{
+    "staff": [
+        "cbleak",
+        "kfalconer",
+        "jfraser",
+        "njurga",
+        "ikolossvary",
+        "lolsen",
+        "lstuart",
+        "mtodd"
+    ],
+    "phd": [
+        "abanaji",
+        "arutar",
+        "bzhao"
+    ],
+    "rstaff": [
+        "sburrell",
+        "jhickman",
+        "xjin",
+        "tkempton",
+        "bstratmann",
+        "ayavicoli"
+    ],
+    "rphd": [
+        "llee",
+        "sburrell",
+        "dhowroyd",
+        "nkhalid",
+        "hyu",
+        "jhyde",
+        "vmijovic",
+        "stroscheit",
+        "cdonoven",
+        "afarkas",
+        "jfraser",
+        "gboore",
+        "smunday",
+        "lliu",
+        "tsamuel",
+        "mhille",
+        "jmiao",
+        "nsnigireva",
+        "iwerner",
+        "jhu",
+        "kfalk",
+        "blammering",
+        "jcole",
+        "morzechowski"
+    ],
+    "visitors": [
+        "jxiao",
+        "hchen",
+        "pshmerkin",
+        "jzhang",
+        "hli",
+        "khare"
+    ],
+    "emeritus": [
+        "jmccabe",
+        "gphillips"
+    ]
+    
+}

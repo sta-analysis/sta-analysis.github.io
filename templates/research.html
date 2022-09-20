@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}{{ section.title }}{% endblock %}
+{% block description %}{{ section.description }}{% endblock %}
+{% block content %}
+{{ section.content | safe }}
+{%- set research = load_data(path="data/research.json") -%}
+{%- for entry in research %}
+<h3>{{ entry.name }}</h3>
+<p>{{ entry.description }}</p>
+{%- endfor %}
+{% endblock %}

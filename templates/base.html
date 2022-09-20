@@ -18,14 +18,16 @@
 
       <nav>
         <ul>
-          <li><a class="active" href="index.html">Analysis Home</a></li>
-          <li><a href="members.html">Group Members</a></li>
-          <li><a href="research.html">Research</a></li>
-          <li><a href="postgraduate.html"> Postgraduate Opportunities</a></li>
-          <li><a href="Summer.html"> Summer School Projects</a></li>
-          <li><a href="seminars.html">Analysis Seminars</a></li>
-          <li><a href="links.html">Links</a></li>
+
+          {%- set links = load_data(path="data/links.json") %}
+          {%- for obj in links.nav -%}
+          {%- if not section.title %}{% set cur = false %}
+          {%- elif section.title  == obj.name %}{% set cur = true %}
+          {%- else %}{% set cur = false %}{% endif %}
+          <li{% if cur %} class='active'{% endif %}><a href='{{ obj.url | safe }}'>{{ obj.name | safe }}</a></li>
+          {%- endfor %}
         </ul>
+
       </nav>
 
       <article>

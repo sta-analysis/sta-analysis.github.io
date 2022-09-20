@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}{{ section.title }}{% endblock %}
+{% block description %}{{ section.description }}{% endblock %}
+{% block content %}
+{{ section.content | safe }}
+{%- set links = load_data(path="data/links.json") %}
+<h3>Maths on the Web</h3>
+<ul>
+  {%- for obj in links.web %}
+  <li><a href='{{ obj.url | safe }}'>{{ obj.name | safe }}</a></li>
+  {%- endfor %}
+</ul>
+<h3>Mathematical Journals</h3>
+<ul>
+  {%- for obj in links.journals %}
+  <li><a href='{{ obj.url | safe }}'>{{ obj.name | safe }}</a></li>
+  {%- endfor %}
+</ul>
+<h3>University of St Andrews</h3>
+<ul>
+  {%- for obj in links.sta %}
+  <li><a href='{{ obj.url | safe }}'>{{ obj.name | safe }}</a></li>
+  {%- endfor %}
+</ul>
+{% endblock %}

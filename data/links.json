@@ -1,0 +1,30 @@
+{
+    "nav": [
+        {"url": "/", "name": "Analysis Home"},
+        {"url": "/members/", "name": "Group Members"},
+        {"url": "/research/", "name": "Research"},
+        {"url": "/postgraduate/", "name": "Postgraduate Opportunities"},
+        {"url": "/summer/", "name": "Summer School Projects"},
+        {"url": "/seminars/", "name": "Analysis Seminars"},
+        {"url": "/links/", "name": "Links"}
+    ],
+    "web": [
+        {"url": "https://www.gap-system.org/Doc/manuals.html", "name": "The GAP Manual"},
+        {"url": "https://www.mathgenealogy.org/", "name": "The Mathematical Geneaology Project"},
+        {"url": "https://www.oakland.edu/enp/", "name": "Erdős Number Project"},
+        {"url": "https://www.ma.hw.ac.uk/uk_maths.html", "name":"UK Maths Department Web Sites "},
+        {"url": "https://www.mathontheweb.org/mathweb/mi-depts.html", "name": "World Maths Department Web Sites"}
+    ],
+    "journals": [
+        {"url": "https://arxiv.org/archive/math/", "name": "arXiv"},
+        {"url": "https://www.ams.org/mathscinet", "name": "MathSciNet"},
+        {"url": "https://zbmath.org/", "name": "zbMath"}
+    ],
+    "sta": [
+        {"url": "https://www-maths.mcs.st-andrews.ac.uk/", "name": "School of Mathematics and Statistics"},
+        {"url": "https://www-maths.mcs.st-andrews.ac.uk/pg/pure/index.shtml", "name": "Pure Mathematics Research"},
+        {"url": "https://mathshistory.st-andrews.ac.uk/", "name": "MacTutor History of Mathematics Archive"},
+        {"url": "http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Algebra/UnderConstruction/index.php", "name":"Algebra and Combinatorics Group"},
+        {"url": "https://theran.lt/pure-colloquium/", "name": "Pure Mathematics Colloquium"}
+    ]
+}
