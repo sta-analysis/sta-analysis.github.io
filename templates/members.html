@@ -8,7 +8,7 @@
 <h3>Staff</h3>
 <ul>
   {%- for name in members.staff %}
-  <li><h4><a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a></h4><p>{{ people[name].description }}</p></li>
+  <li><h4><a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% if people[name].title %} ({{ people[name].title }}){% endif %}</h4><p>{{ people[name].description }}</p></li>
   {%- endfor %}
 </ul>
 <h3>PhD Students</h3>
