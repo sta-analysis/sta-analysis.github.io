@@ -9,6 +9,7 @@ ssh analysis@twopi.mcs.st-andrews.ac.uk
 Ask someone in the group for the appropriate password.
 
 ## Building the webpage
+This site is built using the [Zola static site generator](https://www.getzola.org).
 In order to preview the site, run `zola serve`.
 In order to build a local version of the site, run `zola build`.
 Here, the `public` directory will contain the output site.
@@ -21,6 +22,7 @@ In fact, this script contains some useful automation in order to
 1. Build the site.
 2. Update the contents of the site to align with MCS.
 3. Upload the site to MCS at the `public` subdirectory.
+
 If you have [fish](https://fishshell.com/) installed on your device, you can just run `fish build_mcs_site.fish` to do this.
 Then, you can preview the site at [http://pi.mcs.st-andrews.ac.uk/pg/pure/Analysis/public/members.html](http://pi.mcs.st-andrews.ac.uk/pg/pure/Analysis/public/index.html).
 In order to update the actual contents, simply `ssh` into the server and move the contents of the `public` folder to the main folder: for instance,
