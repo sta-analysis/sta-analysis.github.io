@@ -1,6 +1,15 @@
-{% macro format_abstract(day, entry) -%}
+{% macro abstract(day, entry) -%}
 <div class="sem-entry">
 <h4 class="sem-date">{{ day | date(format="%B %e, %Y") }}</h4>
 <strong>{% if entry.name %}{{ entry.name }}{% else %}TBD{% endif %}</strong>: {% if entry.abstract %}<label for="ab-{{ day }}">{% if entry.title %}{{ entry.title | safe }}{% else %}TBD{% endif %}</label><input type="checkbox" id="ab-{{ day }}"><p>{{ entry.abstract | safe }}</p>{% else %}<em>{% if entry.title %}{{ entry.title | safe }}{% else %}TBD{% endif %}</em>{% endif %}
 {%- if entry.video %}<div class="sem-video">Recording: <a href="{{ entry.video }}">{{ entry.video }}</a></div>{% endif %}</div>
 {%- endmacro %}
+
+{% macro member(person_list, long=false, year=false) %}
+{% set people = load_data(path="data/people.json") -%}
+<ul>
+  {%- for name in person_list %}
+  <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}{{ people[name].name | safe }}{% endif %}{% if year %} ({{ people[name].year | safe }}){% endif %}{% if long %}{% if people[name].title %} ({{ people[name].title }}){% endif %}</h4><p>{{ people[name].description }}</p>{% endif %}</li>
+  {% endfor %}
+</ul>
+{% endmacro %}

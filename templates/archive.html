@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{%- import "macros/format_abstract.html" as fmt -%}
+{%- import "macros/format.html" as fmt -%}
 {% block title %}{{ section.title }}{% endblock %}
 {% block description %}{{ section.description }}{% endblock %}
 {% block content %}
@@ -10,7 +10,7 @@
 
 <h3>{{ semester }}</h3>{% for day, entry in archive %}
 
-{{ fmt::format_abstract(day=day, entry=entry) }}
+{{ fmt::abstract(day=day, entry=entry) }}
 {% endfor -%}
 {%- endfor %}
 {% endblock %}
