@@ -35,10 +35,4 @@
   <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}<h4>{{ people[name].name | safe }}{% endif %} ({{ people[name].year | safe }})</h4></li>
   {%- endfor %}
 </ul>
-<h3>Emeritus Staff</h3>
-<ul>
-  {%- for name in members.emeritus %}
-  <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}<h4>{{ people[name].name | safe }}{% endif %}</h4></li>
-  {%- endfor %}
-</ul>
 {% endblock %}
