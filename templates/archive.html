@@ -5,10 +5,12 @@
 {% block content %}
 {{ section.content | safe }}
 {%- set archive_list = load_data(path="data/archive.json") -%}
-{%- for semester, archive in archive_list -%}
-<h3>{{ semester }}</h3>
-{%- for day, entry in archive %}
+{%- for semester, archive in archive_list %}
+
+
+<h3>{{ semester }}</h3>{% for day, entry in archive %}
+
 {{ fmt::format_abstract(day=day, entry=entry) }}
-{%- endfor -%}
+{% endfor -%}
 {%- endfor %}
 {% endblock %}
