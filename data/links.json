@@ -19,8 +19,7 @@
         {"url": "https://zbmath.org/", "name": "zbMath"}
     ],
     "sta": [
-        {"url": "https://www-maths.mcs.st-andrews.ac.uk/", "name": "School of Mathematics and Statistics"},
-        {"url": "https://www-maths.mcs.st-andrews.ac.uk/pg/pure/index.shtml", "name": "Pure Mathematics Research"},
+        {"url": "https://www.st-andrews.ac.uk/mathematics-statistics/", "name": "School of Mathematics and Statistics"},
         {"url": "https://mathshistory.st-andrews.ac.uk/", "name": "MacTutor History of Mathematics Archive"},
         {"url": "http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Algebra/UnderConstruction/index.php", "name":"Algebra and Combinatorics Group"},
         {"url": "https://theran.lt/pure-colloquium/", "name": "Pure Mathematics Colloquium"}
