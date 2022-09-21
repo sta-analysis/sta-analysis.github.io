@@ -11,9 +11,7 @@
     "web": [
         {"url": "https://www.gap-system.org/Doc/manuals.html", "name": "The GAP Manual"},
         {"url": "https://www.mathgenealogy.org/", "name": "The Mathematical Geneaology Project"},
-        {"url": "https://www.oakland.edu/enp/", "name": "Erdős Number Project"},
-        {"url": "https://www.ma.hw.ac.uk/uk_maths.html", "name":"UK Maths Department Web Sites "},
-        {"url": "https://www.mathontheweb.org/mathweb/mi-depts.html", "name": "World Maths Department Web Sites"}
+        {"url": "https://www.oakland.edu/enp/", "name": "Erdős Number Project"}
     ],
     "journals": [
         {"url": "https://arxiv.org/archive/math/", "name": "arXiv"},
