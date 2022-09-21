@@ -33,8 +33,8 @@ body {
   // simplified header for mobile
   @include mobile {
     grid-template: {
-      columns: auto 50px;
-      rows: 56px auto;
+      columns: auto 53px;
+      rows: 53px auto;
       areas:
         "title nav"
         "content content";
