@@ -1,7 +1,11 @@
 # Analysis webpage
 This is the repository for the [St Andrews Analysis Group website](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/index.html).
+Jump to:
 
-## Editing and deploying the site
+- [Updating and deploying the site](#updating-and-deploying-the-site)
+- [Editing content](#editing-content)
+
+## Updating and deploying the site
 ### Accessing the server
 The easiest way to access the server is to be logged in on eduroam, and to `ssh` into the server.
 The address is `twopi.mcs.st-andrews.ac.uk` and the username is `analysis`.
