@@ -32,7 +32,7 @@
           {%- if not section.title %}{% set cur = false %}
           {%- elif section.title  == obj.name %}{% set cur = true %}
           {%- else %}{% set cur = false %}{% endif %}
-          <li{% if cur %} class='active'{% endif %}><a href='{{ obj.url | safe }}'>{{ obj.name | safe }}</a></li>
+          <li{% if cur %} class="active"{% endif %}><a href="{{ obj.url | safe }}">{{ obj.name | safe }}</a></li>
           {%- endfor %}
         </ul>
       </nav>
