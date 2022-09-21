@@ -1,6 +1,3 @@
-#!/usr/bin/env fish
-
-
 zola build
 for name in archive postgraduate seminars links research members summer
     mv public/$name/index.html public/$name.html
@@ -12,3 +9,4 @@ for name in archive postgraduate seminars links research members summer
 end
 sed -iE "s/\"\/\"/\"index.html\"/g" public/*.html
 sed -iE 's/="\//="/g' public/*.html
+rsync -a public analysis@twopi.mcs.st-andrews.ac.uk:webpage/
