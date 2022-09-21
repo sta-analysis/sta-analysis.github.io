@@ -5,6 +5,8 @@ Jump to:
 - [Updating and deploying the site](#updating-and-deploying-the-site)
 - [Editing content](#editing-content)
 
+This site is automatically built to a [preview page](https://analysis.rutar.org) hosted on my personal domain.
+
 ## Updating and deploying the site
 ### Accessing the server
 The easiest way to access the server is to be logged in on eduroam, and to `ssh` into the server.
