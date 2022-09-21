@@ -5,8 +5,8 @@ for name in archive postgraduate seminars links research members summer
 end
 rm -f public/404.html
 for name in archive postgraduate seminars links research members summer
-    sed -iE "s/\"\/$name\/\"/\"$name.html\"/g" public/*.html
+    sed -i "s/\"\/$name\/\"/\"$name.html\"/g" public/*.html
 end
-sed -iE "s/\"\/\"/\"index.html\"/g" public/*.html
-sed -iE 's/="\//="/g' public/*.html
+sed -i "s/\"\/\"/\"index.html\"/g" public/*.html
+sed -i 's/="\//="/g' public/*.html
 rsync -a public analysis@twopi.mcs.st-andrews.ac.uk:webpage/
