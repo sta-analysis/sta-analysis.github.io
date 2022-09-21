@@ -8,31 +8,31 @@
 <h3>Staff</h3>
 <ul>
   {%- for name in members.staff %}
-  <li><h4><a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% if people[name].title %} ({{ people[name].title }}){% endif %}</h4><p>{{ people[name].description }}</p></li>
+  <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}{{ people[name].name | safe }}{% endif %}{% if people[name].title %} ({{ people[name].title }}){% endif %}</h4><p>{{ people[name].description }}</p></li>
   {%- endfor %}
 </ul>
 <h3>PhD Students</h3>
 <ul>
   {%- for name in members.phd %}
-  <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}<h4>{{ people[name].name | safe }}{% endif %}</h4><p>{{ people[name].description }}</p></li>
+  <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}{{ people[name].name | safe }}{% endif %}</h4><p>{{ people[name].description }}</p></li>
   {%- endfor %}
 </ul>
 <h3>Recent Staff</h3>
 <ul>
   {%- for name in members.rstaff %}
-  <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}<h4>{{ people[name].name | safe }}{% endif %}</h4></li>
+  <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}{{ people[name].name | safe }}{% endif %}</h4></li>
   {%- endfor %}
 </ul>
 <h3>Recent PhD Students</h3>
 <ul>
   {%- for name in members.rphd %}
-  <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}<h4>{{ people[name].name | safe }}{% endif %} ({{ people[name].year | safe }})</h4></li>
+  <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}{{ people[name].name | safe }}{% endif %} ({{ people[name].year | safe }})</h4></li>
   {%- endfor %}
 </ul>
 <h3>Recent Visitors</h3>
 <ul>
   {%- for name in members.visitors %}
-  <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}<h4>{{ people[name].name | safe }}{% endif %} ({{ people[name].year | safe }})</h4></li>
+  <li><h4>{% if people[name].url %}<a href='{{ people[name].url | safe }}'>{{ people[name].name | safe }}</a>{% else %}{{ people[name].name | safe }}{% endif %} ({{ people[name].year | safe }})</h4></li>
   {%- endfor %}
 </ul>
 {% endblock %}
