@@ -16,6 +16,7 @@ $mobileWidth: 750px;
 // Font stacks
 $fonts: "Times New Roman", serif;
 $mathFonts: Georgia, "Times New Roman", serif;
+$monoFonts: Monaco, Consolas, monospace;
 
 // Mobile breakpoints
 @mixin mobile {

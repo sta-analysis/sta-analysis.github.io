@@ -250,6 +250,16 @@ h4.sem-date {
   padding: 10px 0;
   border-bottom: 2px solid $lightBlue;
 }
+.sem-video {
+  padding: 10px 0 0 0;
+  a {
+    padding: 1px;
+    font-family: $monoFonts;
+    font-size: 15px;
+    background-color: #e5e5e5;
+    border-radius: 2px;
+  }
+}
 
 // misc. other formatting
 img {
