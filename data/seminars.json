@@ -6,8 +6,8 @@
   },
   "2022-09-29": {
       "name": "Mike Todd",
-      "title": "",
-      "abstract": ""
+      "title": "Quantifying mixing and recurrence",
+      "abstract": "I’ll give an introduction to (exponential) decay of correlations in dynamical systems, how this can be proved and the relevant constants involved.  Moving to symbolic dynamics gives a clearer perspective on the constants involved here: I’ll discuss where they come from and how they might be improved."
   },
   "2022-10-04": {
       "name": "István Kolossváry",
