@@ -11,4 +11,5 @@ sed -i "s/\"\/\"/\"index.html\"/g" public/*.html
 sed -i 's/="\//="/g' public/*.html
 rsync -a public analysis@twopi.mcs.st-andrews.ac.uk:webpage/
 ssh analysis@twopi.mcs.st-andrews.ac.uk "mv ~/webpage/public/* ~/webpage/"
+ssh analysis@twopi.mcs.st-andrews.ac.uk "rmdir ~/webpage/public"
 echo "View updated site at: http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html"
