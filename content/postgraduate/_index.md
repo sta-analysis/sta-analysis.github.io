@@ -4,10 +4,10 @@ template = "plain.html"
 description = "Postgraduate opportunities in the St Andrews Analysis Group"
 +++
 We welcome enquiries from potential research students and visitors who wish to work with our Analysis Group.
-Most of our British and European Union PhD students are wholly or partially funded through [EPSRC](https://www.epsrc.ac.uk/default.htm) Doctoral Training Grants and School or University studentships are sometimes available.
+Most of our British and European Union PhD students are wholly or partially funded through [EPSRC](https://www.ukri.org/councils/epsrc/) Doctoral Training Grants and School or University studentships are sometimes available.
 Outstanding graduates of Scottish universities are eligible for the prestigious [Carnegie Trust](https://www.carnegie-trust.org/) Studentships.
 Possible sources of funding for overseas students not holding grants from their home country include:
-- [Commonwealth Scholarship and Fellowship Plan](https://cscuk.dfid.gov.uk/)
+- [Commonwealth Scholarship and Fellowship Plan](https://www.acu.ac.uk/get-involved/csfp/#:~:text=The%20Commonwealth%20Scholarship%20and%20Fellowship,opportunities%20for%20cultural%20and%20academic)
 - [British Chevening Scholarships](https://www.chevening.org/)
 - [British Marshall Scholarships](https://www.marshallscholarship.org/)
 
