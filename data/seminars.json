@@ -4,7 +4,7 @@
     "title": "Introducing the Fourier dimension spectrum",
     "abstract": "The Fourier dimension of a measure captures the rate at which its Fourier transform decays at infinity.  The Hausdorff dimension of a set, on the other hand, describes how the set fills up space on small scales by studying the cost of efficient covers.  Despite how different they appear at first sight, these notions are intimately connected.  Following the philosophy of 'dimension interpolation', I will introduce and discuss the 'Fourier dimension spectrum', which interpolates between the two notions. Time permitting, we will encounter applications to distance sets and sumsets."
   },
-  "2022-09-29": {
+  "2022-09-27": {
       "name": "Mike Todd",
       "title": "Quantifying mixing and recurrence",
       "abstract": "I’ll give an introduction to (exponential) decay of correlations in dynamical systems, how this can be proved and the relevant constants involved.  Moving to symbolic dynamics gives a clearer perspective on the constants involved here: I’ll discuss where they come from and how they might be improved."
