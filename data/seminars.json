@@ -11,8 +11,8 @@
   },
   "2022-10-04": {
       "name": "István Kolossváry",
-      "title": "",
-      "abstract": ""
+      "title": "Multifractal analysis of self-affine measures on a simple Branski carpet",
+      "abstract": "Baranski carpets exhibit interesting phenomena not witnessed by systems satisfying some sort of coordinate ordering property. We demonstrate that this is also true for multifractal analysis by looking at self-affine measures on a simple Baranski carpet. Namely, the multifractal formalism fails (i.e. the Legendre transform of the <var>L<sup>q</sup></var> spectrum is not equal to the multifractal spectrum), even though the carpet has no overlaps and its Hausdorff and box dimensions are equal. The spectrum even has a jump discontinuity in case of the natural measure."
   },
   "2022-10-11": {
       "name": "Aleksi Pyörälä",
