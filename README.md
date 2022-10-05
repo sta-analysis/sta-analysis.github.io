@@ -7,6 +7,21 @@ Jump to:
 
 This site is automatically built to a [preview page](https://analysis.rutar.org) hosted on my personal domain.
 
+## Pulling Remote Updates
+First, make sure you have [Zola](https://www.getzola.org/documentation/getting-started/installation/) and [fish](https://fishshell.com/) installed.
+Then clone this repository locally:
+```
+git clone https://github.com/sta-analysis/webpage && cd webpage
+```
+If the repository already exists, change to the directory and `git pull`.
+Make sure you have `ssh` access on the servers `analysis@twopi.mcs.st-andrews.ac.uk` and `jmf32@twopi.mcs.st-andrews.ac.uk`, or that you know the respective passwords.
+Update as desired, and then run
+```
+fish build_mcs_site.fish
+```
+and the sites will be updated!
+
+
 ## Updating and deploying the site
 ### Accessing the server
 The easiest way to access the server is to be logged in on eduroam, and to `ssh` into the server.
