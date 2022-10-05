@@ -1,5 +1,5 @@
 # Analysis webpage
-This is the repository for the [St Andrews Analysis Group website](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/index.html).
+This is the repository for the [St Andrews Analysis Group website](http://www.mcs.st-andrews.ac.uk/~jmf32/analysis/index.html).
 Jump to:
 
 - [Updating and deploying the site](#updating-and-deploying-the-site)
