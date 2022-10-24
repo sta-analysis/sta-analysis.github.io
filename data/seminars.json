@@ -19,18 +19,13 @@
       "title": "Normal numbers in self-conformal sets",
       "abstract": "During recent years, the prevalence of normal numbers in natural subsets of the reals has been an active research topic in fractal geometry. The general idea is that in the absence of any special arithmetic structure, almost all numbers in a given set should be normal, in every base. In our recent joint work with Balázs Bárány, Antti Käenmäki and Meng Wu we verify this for all self-conformal sets on the line. The result is a corollary of a uniform scaling property of self-conformal measures: roughly speaking, a measure is said to be uniformly scaling if the sequence of successive magnifications of the measure equidistributes, at almost every point, for a common distribution supported on the space of measures. Dynamical properties of these distributions often give information on the geometry of the uniformly scaling measure."
   },
-  "2022-10-25": {
-      "name": "Sanju Velani",
-      "title": "",
-      "abstract": ""
-  },
   "2022-11-01": {
-      "name": "",
+      "name": "Amlan Banaji",
       "title": "",
       "abstract": ""
   },
   "2022-11-08": {
-      "name": "Demi Allen",
+      "name": "Kenneth Falconer",
       "title": "",
       "abstract": ""
   },
