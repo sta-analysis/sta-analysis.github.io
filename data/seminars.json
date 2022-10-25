@@ -21,8 +21,8 @@
   },
   "2022-11-01": {
       "name": "Amlan Banaji",
-      "title": "",
-      "abstract": ""
+      "title": "Metric spaces where geodesics are never unique",
+      "abstract": "Geodesics are important objects in geometry, representing (in some sense) the shortest paths through a space. We introduce a class of metric spaces, called multigeodesic spaces, where between any two distinct points there exist multiple distinct minimising geodesics. We will prove a simple characterisation of multigeodesic normed spaces and deduce that L1 spaces provide an example. In general metric spaces, however, examples such as Laakso spaces show that a wider variety of behaviour is possible."
   },
   "2022-11-08": {
       "name": "Kenneth Falconer",
