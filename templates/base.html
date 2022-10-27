@@ -1,12 +1,19 @@
+{%- if section.title and section.description %}
+{%- set ltitle = section.title %}
+{%- set description = section.description %}
+{%- else %}
+{%- set ltitle = "Page Not Found" %}
+{%- set description = "404 - Page Not Found" %}
+{%- endif %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{{ section.title }} - {{ config.extra.title }}</title>
+    <title>{{ ltitle }} - {{ config.extra.title }}</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
 
-    <meta property="og:title" content="{{ section.title }} - {{ config.extra.title }}">
-    <meta property="og:description" content="{{ section.description }}">
+    <meta property="og:title" content="{{ ltitle }} - {{ config.extra.title }}">
+    <meta property="og:description" content="{{ description }}">
 
     <link rel="stylesheet" type="text/css" href="/style.css">
     <link rel="icon" href="/icon.svg" type="image/svg+xml">
@@ -17,14 +24,14 @@
   <body>
     <div class="container">
       <header class="logo">
-        <a href="https://www.st-andrews.ac.uk/"><img src="/sta-logo.gif"></a>
+        <a href="https://www.st-andrews.ac.uk/"><img src="/sta-logo.gif" alt="St Andrews Logo and Crest"></a>
       </header>
       <header class="title"><h1>{{ config.extra.title }}</h1></header>
       <header class="subtitle"><a href="https://www.st-andrews.ac.uk/mathematics-statistics/">School of Mathematics and Statistics</a></header>
       <div id="blank"></div>
 
       <nav>
-        <label for="nav-toggle" class="stack"><img src="/stack.svg"></label>
+        <label for="nav-toggle" class="stack"><img src="/stack.svg" alt="Dropdown Menu"></label>
         <input id="nav-toggle" type="checkbox">
         <ul>
           {%- set links = load_data(path="data/links.json") %}
