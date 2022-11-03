@@ -14,4 +14,3 @@ Possible sources of funding for overseas students not holding grants from their 
 Applications to all the above grants are made through the School, after the candidate has been offered a place. The group currently has no access to funding for Masters degrees. However, all suitably qualified postgraduate students, including M.Sc. students, are offered the opportunity of supplementing their income by undergraduate tutoring.
 
 For further information about postgraduate study in Pure Mathematics at the University of St Andrews, contact [Dr Richard Scott](mailto:maths-dopgr@st-andrews.ac.uk). If you are interested in postgraduate study within the Analysis Research Group you should, at an early stage, contact one of the staff [Prof Kenneth Falconer](mailto:kjf@st-andrews.ac.uk), [Prof Jonathan Fraser](mailto:jmf32@st-andrews.ac.uk), [Prof Lars Olsen](mailto:lo@st-andrews.ac.uk), or [Prof Mike Todd](mailto:m.todd@st-andrews.ac.uk).
-
