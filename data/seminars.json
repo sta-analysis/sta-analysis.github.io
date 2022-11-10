@@ -29,11 +29,6 @@
       "title": "Higher order transversality and <var>L<sup>q</sup></var> dimensions",
       "abstract": "I will talk about higher order transversality and applications to <var>L<sup>q</sup></var> dimension."
   },
-  "2022-11-15": {
-      "name": "Natalia Jurga",
-      "title": "",
-      "abstract": ""
-  },
   "2022-11-22": {
       "name": "Alex Rutar",
       "title": "",
@@ -41,6 +36,16 @@
   },
   "2022-11-29": {
       "name": "Lars Olsen",
+      "title": "",
+      "abstract": ""
+  },
+  "2022-12-06": {
+      "name": "Natalia Jurga",
+      "title": "",
+      "abstract": ""
+  },
+  "2022-12-08": {
+      "name": "Mark Holland",
       "title": "",
       "abstract": ""
   }
