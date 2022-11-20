@@ -31,8 +31,8 @@
   },
   "2022-11-22": {
       "name": "Alex Rutar",
-      "title": "",
-      "abstract": ""
+      "title": "<var>L<sup>q</sup></var>-spectra and multifractal analysis of measures arising from random substitutions",
+      "abstract": "A (deterministic) substitution consists of a finite alphabet along with a set of <em>transformation rules</em>. A classical example is the <em>Fibonacci substitution</em>, which is composed of the rules <var>a↦ab</var> and <var>b↦a</var>. Random substitutions allow multiple transformation rules for each letter, along with associated probabilities. Associated with a substitution is a shift-invariant ergodic frequency measure, which quantifies the relative occurrence of finite words as subwords of the substitution. Frequency measures are an interesting class of invariant measures which witness a form of self-similarity, while exhibiting complex overlapping phenomena. In this talk, I will provide a general introduction to random substitutions as well as their dimensional properties via the <var>L<sup>q</sup></var>-spectrum. I will also discuss a particular class of random substitutions for which the <var>L<sup>q</sup></var>-spectrum is analytic on <var>ℝ</var> and the complete multifractal formalism holds. This work is joint with Andrew Mitchell (University of Birmingham)."
   },
   "2022-11-29": {
       "name": "Lars Olsen",
