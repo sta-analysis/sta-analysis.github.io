@@ -36,8 +36,8 @@
   },
   "2022-11-29": {
       "name": "Lars Olsen",
-      "title": "",
-      "abstract": ""
+      "title": "Divergence points of Bedford-McMullen carpets",
+      "abstract": "If $\\mu$ is a Borel measure on $\\Bbb R$ and $x\\in\\Bbb R$, then the local dimension of $\\mu$ at $x$ is defined by $$\\lim_{r\\searrow}\\frac{\\log\\mu(B(x,r))}{\\log r}\\,;$$ provided the limit exists. Of course, the limit may not exist, and points $x$ for which the limit does not exist are known as divergence point. Divergence points of self-similar measures satisfying the Open Set Condition are by now well-understood, and in this talk we will investigate divergence points of a certain class of self-affine measure, namely, the self-affine measures on Bedford-McMullen carpets."
   },
   "2022-12-06": {
       "name": "Natalia Jurga",
@@ -46,7 +46,7 @@
   },
   "2022-12-08": {
       "name": "Mark Holland",
-      "title": "",
-      "abstract": ""
+      "title": "Dichotomy results for eventually always hitting time statistics and almost sure growth of extremes",
+      "abstract": "Suppose (f, X, μ) is a measure preserving dynamical system and φ : X → ℝ a measurable function. Consider the maximum process Mn :=max{X1,...,Xn}, where Xi = φ ○ fi-1 is a time series of observations on the system. Suppose that (un) is a non-decreasing sequence of real numbers, such that μ(X1 > un) → 0. For certain dynamical systems, we obtain a zero--one measure dichotomy for μ(Mn ≤ un, i.o.) depending on the sequence un. Specific examples are piecewise expanding interval maps including the Gauss map. For the broader class of non-uniformly hyperbolic dynamical systems, we make significant improvements on existing literature for characterising the sequences un. Our results on the permitted sequences un are commensurate with the optimal sequences (and series criteria) obtained by Klass(1985) for i.i.d. processes. Moreover, we also develop new series criteria on the permitted sequences in the case where the i.i.d. theory breaks down. Our analysis has strong connections to specific problems in eventual always hitting time statistics and extreme value theory. This work is joint with M. Kirsebom, P. Kunde and T. Persson."
   }
 }
