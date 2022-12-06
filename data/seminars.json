@@ -41,8 +41,8 @@
   },
   "2022-12-06": {
       "name": "Natalia Jurga",
-      "title": "",
-      "abstract": ""
+      "title": "Hausdorff dimension of the Rauzy gasket",
+      "abstract": "The Rauzy gasket is a fractal subset of the two dimensional simplex which is an important subset of parameter space in numerous dynamical and topological problems. Arnoux conjectured that the Hausdorff dimension of the Rauzy gasket is strictly less than 2, and since then there has been considerable interest in computing its Hausdorff dimension.<br><br>In this talk we will see how the Rauzy gasket can be understood as a “self-projective set” induced by a set of 3x3 matrices, and use tools from the theory of self-affine sets combined with linearisation techniques to establish an exact value for the Hausdorff dimension in terms of a critical exponent."
   },
   "2022-12-08": {
       "name": "Mark Holland",
