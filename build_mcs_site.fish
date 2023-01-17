@@ -24,9 +24,7 @@ rsync -a public jmf32@twopi.mcs.st-andrews.ac.uk:public_html
 # move files to correct locations
 ssh analysis@twopi.mcs.st-andrews.ac.uk "mv ~/webpage/public/* ~/webpage/"
 ssh analysis@twopi.mcs.st-andrews.ac.uk "rmdir ~/webpage/public"
-ssh jmf32@twopi.mcs.st-andrews.ac.uk "mv ~/public_html/public/* ~/public_html/analysis/"
 
 # display update information
 echo "Site updated at:"
 echo "  http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/index.html"
-echo "  http://www.mcs.st-andrews.ac.uk/~jmf32/analysis/index.html"

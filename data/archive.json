@@ -1,4 +1,56 @@
 {
+  "Autumn 2022": {
+    "2022-09-20": {
+      "name": "Jonathan Fraser",
+      "title": "Introducing the Fourier dimension spectrum",
+      "abstract": "The Fourier dimension of a measure captures the rate at which its Fourier transform decays at infinity.  The Hausdorff dimension of a set, on the other hand, describes how the set fills up space on small scales by studying the cost of efficient covers.  Despite how different they appear at first sight, these notions are intimately connected.  Following the philosophy of 'dimension interpolation', I will introduce and discuss the 'Fourier dimension spectrum', which interpolates between the two notions. Time permitting, we will encounter applications to distance sets and sumsets."
+    },
+    "2022-09-27": {
+      "name": "Mike Todd",
+      "title": "Quantifying mixing and recurrence",
+      "abstract": "I’ll give an introduction to (exponential) decay of correlations in dynamical systems, how this can be proved and the relevant constants involved.  Moving to symbolic dynamics gives a clearer perspective on the constants involved here: I’ll discuss where they come from and how they might be improved."
+    },
+    "2022-10-04": {
+      "name": "István Kolossváry",
+      "title": "Multifractal analysis of self-affine measures on a simple Branski carpet",
+      "abstract": "Baranski carpets exhibit interesting phenomena not witnessed by systems satisfying some sort of coordinate ordering property. We demonstrate that this is also true for multifractal analysis by looking at self-affine measures on a simple Baranski carpet. Namely, the multifractal formalism fails (i.e. the Legendre transform of the <var>L<sup>q</sup></var> spectrum is not equal to the multifractal spectrum), even though the carpet has no overlaps and its Hausdorff and box dimensions are equal. The spectrum even has a jump discontinuity in case of the natural measure."
+    },
+    "2022-10-11": {
+      "name": "Aleksi Pyörälä",
+      "title": "Normal numbers in self-conformal sets",
+      "abstract": "During recent years, the prevalence of normal numbers in natural subsets of the reals has been an active research topic in fractal geometry. The general idea is that in the absence of any special arithmetic structure, almost all numbers in a given set should be normal, in every base. In our recent joint work with Balázs Bárány, Antti Käenmäki and Meng Wu we verify this for all self-conformal sets on the line. The result is a corollary of a uniform scaling property of self-conformal measures: roughly speaking, a measure is said to be uniformly scaling if the sequence of successive magnifications of the measure equidistributes, at almost every point, for a common distribution supported on the space of measures. Dynamical properties of these distributions often give information on the geometry of the uniformly scaling measure."
+    },
+    "2022-11-01": {
+      "name": "Amlan Banaji",
+      "title": "Metric spaces where geodesics are never unique",
+      "abstract": "Geodesics are important objects in geometry, representing (in some sense) the shortest paths through a space. We introduce a class of metric spaces, called multigeodesic spaces, where between any two distinct points there exist multiple distinct minimising geodesics. We will prove a simple characterisation of multigeodesic normed spaces and deduce that <var>L<sup>1</sup></var> spaces provide an example. In general metric spaces, however, examples such as Laakso spaces show that a wider variety of behaviour is possible."
+    },
+    "2022-11-08": {
+      "name": "Kenneth Falconer",
+      "title": "Higher order transversality and <var>L<sup>q</sup></var> dimensions",
+      "abstract": "I will talk about higher order transversality and applications to <var>L<sup>q</sup></var> dimension."
+    },
+    "2022-11-22": {
+      "name": "Alex Rutar",
+      "title": "<var>L<sup>q</sup></var>-spectra and multifractal analysis of measures arising from random substitutions",
+      "abstract": "A (deterministic) substitution consists of a finite alphabet along with a set of <em>transformation rules</em>. A classical example is the <em>Fibonacci substitution</em>, which is composed of the rules <var>a↦ab</var> and <var>b↦a</var>. Random substitutions allow multiple transformation rules for each letter, along with associated probabilities. Associated with a substitution is a shift-invariant ergodic frequency measure, which quantifies the relative occurrence of finite words as subwords of the substitution. Frequency measures are an interesting class of invariant measures which witness a form of self-similarity, while exhibiting complex overlapping phenomena. In this talk, I will provide a general introduction to random substitutions as well as their dimensional properties via the <var>L<sup>q</sup></var>-spectrum. I will also discuss a particular class of random substitutions for which the <var>L<sup>q</sup></var>-spectrum is analytic on <var>ℝ</var> and the complete multifractal formalism holds. This work is joint with Andrew Mitchell (University of Birmingham)."
+    },
+    "2022-11-29": {
+      "name": "Lars Olsen",
+      "title": "Divergence points of Bedford-McMullen carpets",
+      "abstract": "If $\\mu$ is a Borel measure on $\\Bbb R$ and $x\\in\\Bbb R$, then the local dimension of $\\mu$ at $x$ is defined by $$\\lim_{r\\searrow}\\frac{\\log\\mu(B(x,r))}{\\log r}\\,;$$ provided the limit exists. Of course, the limit may not exist, and points $x$ for which the limit does not exist are known as divergence point. Divergence points of self-similar measures satisfying the Open Set Condition are by now well-understood, and in this talk we will investigate divergence points of a certain class of self-affine measure, namely, the self-affine measures on Bedford-McMullen carpets."
+    },
+    "2022-12-06": {
+      "name": "Natalia Jurga",
+      "title": "Hausdorff dimension of the Rauzy gasket",
+      "abstract": "The Rauzy gasket is a fractal subset of the two dimensional simplex which is an important subset of parameter space in numerous dynamical and topological problems. Arnoux conjectured that the Hausdorff dimension of the Rauzy gasket is strictly less than 2, and since then there has been considerable interest in computing its Hausdorff dimension.<br><br>In this talk we will see how the Rauzy gasket can be understood as a “self-projective set” induced by a set of 3x3 matrices, and use tools from the theory of self-affine sets combined with linearisation techniques to establish an exact value for the Hausdorff dimension in terms of a critical exponent."
+    },
+    "2022-12-08": {
+      "name": "Mark Holland",
+      "title": "Dichotomy results for eventually always hitting time statistics and almost sure growth of extremes",
+      "abstract": "Suppose (f, X, μ) is a measure preserving dynamical system and φ : X → ℝ a measurable function. Consider the maximum process Mn :=max{X1,...,Xn}, where Xi = φ ○ fi-1 is a time series of observations on the system. Suppose that (un) is a non-decreasing sequence of real numbers, such that μ(X1 > un) → 0. For certain dynamical systems, we obtain a zero--one measure dichotomy for μ(Mn ≤ un, i.o.) depending on the sequence un. Specific examples are piecewise expanding interval maps including the Gauss map. For the broader class of non-uniformly hyperbolic dynamical systems, we make significant improvements on existing literature for characterising the sequences un. Our results on the permitted sequences un are commensurate with the optimal sequences (and series criteria) obtained by Klass(1985) for i.i.d. processes. Moreover, we also develop new series criteria on the permitted sequences in the case where the i.i.d. theory breaks down. Our analysis has strong connections to specific problems in eventual always hitting time statistics and extreme value theory. This work is joint with M. Kirsebom, P. Kunde and T. Persson."
+    }
+  },
   "Summer 2022": {
     "2022-06-21": {
       "name": "Jeremy Tyson",

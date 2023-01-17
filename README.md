@@ -86,3 +86,4 @@ Possible keys include `name` (speaker name), `title` (title of the talk), `abstr
 You can use HTML inside the `abstract` entry, which will be rendered appropriately on the site.
 
 After the semester is done, add the contents of the `data/seminars.json` as a sub-dictionary (with key that is the appropriate semester title) in `data/archive.json`.
+In order to begin the next semester, make sure to update the semester title in `content/seminars/_index.md`.
