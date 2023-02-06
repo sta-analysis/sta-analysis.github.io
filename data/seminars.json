@@ -6,13 +6,13 @@
   },
   "2023-01-31": {
     "name": "Collin Bleak",
-    "title": "TBD",
-    "abstract": "TBD"
+    "title": "Embeddings into Finitely Presented Simple Groups",
+    "abstract": "In this talk, we describe a process whereby we can embed any hyperbolic group into a finitely presented infinite simple group.  This gives a proof of what is, in some sense, the “typical” case of the Boone-Higman Conjecture of 1973 (that a finitely generated group G has a solvable word problem if and only if G can be embedded into a finitely presented simple group).<br><br>The talk will proceed in three roughly independent parts: A short history of the Boone-Higman Conjecture,  a discussion of Hyperbolic groups and an embedding of these into the Rational group of Grigorchuk, Nekrashevych, and Suschanskii, and finally, a discussion of why the topological full group over this rational group is finitely presented and simple, or, at least provides a route to a further embedding in a group that is finitely presented and simple.<br><br>Joint with James Belk, Francesco Matucci, and Matthew Zaremsky."
   },
   "2023-02-07": {
     "name": "Mike Whittaker",
-    "title": "TBD",
-    "abstract": "TBD"
+    "title": "Poincaré duality of self-similar actions",
+    "abstract": "A self-similar group (G,X) consists of a group G acting faithfully on a homogeneous rooted tree such that the action satisfies a self-similarity condition. In this talk I will outline a generalisation of Nekrashevych's theorem that K-theoretic invariants of associated C*-algebras satisfy Poincaré duality. This result ties together ideas from operator algebras, dynamical systems and geometric group theory in a truly beautiful way. I'll use this as an excuse to explain some ideas and underlying themes behind studying C*-algebras, and no knowledge of operator algebras is required. This is joint work with Nathan Brownlowe, Alcides Buss, Daniel Gonçalves, Jeremy Hume, and Aidan Sims."
   },
   "2023-02-14": {
     "name": "Mike Todd",
