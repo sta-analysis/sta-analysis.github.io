@@ -19,7 +19,6 @@ sed -i 's/="\//="/g' public/*.html
 
 # copy public directory remotely
 rsync -a public analysis@twopi.mcs.st-andrews.ac.uk:webpage/
-rsync -a public jmf32@twopi.mcs.st-andrews.ac.uk:public_html
 
 # move files to correct locations
 ssh analysis@twopi.mcs.st-andrews.ac.uk "mv ~/webpage/public/* ~/webpage/"
