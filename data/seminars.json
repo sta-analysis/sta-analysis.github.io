@@ -31,8 +31,8 @@
   },
   "2023-03-21": {
     "name": "Amlan Banaji",
-    "title": "TBD",
-    "abstract": "TBD"
+    "title": "Recovering the interpolation between dimensions",
+    "abstract": "Two families of fractal dimensions are the Assouad spectrum (which lies between box and Assouad dimension) and intermediate dimensions (between Hausdorff and box dimension). There are many sets for which these families do not interpolate all the way between the respective dimensions, and we will explain how the definitions can be generalised to ensure full interpolation for all compact sets. Moreover, we will describe what is (and isn’t) known about these generalised dimensions for classes of sets including decreasing sequences with decreasing gaps, overlapping self-similar sets, and Mandelbrot percolation. The results on the Assouad-type dimensions are joint work in progress with Alex Rutar and Sascha Troscheit (Oulu, Finland)."
   },
   "2023-03-28": {
     "name": "Spyridon Dimoudis",
