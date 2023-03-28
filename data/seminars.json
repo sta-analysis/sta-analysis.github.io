@@ -36,8 +36,8 @@
   },
   "2023-03-28": {
     "name": "Spyridon Dimoudis",
-    "title": "TBD",
-    "abstract": "TBD"
+    "title": "Schatten-class perturbation theory of one-parameter semigroups",
+    "abstract": "The notion of equivalence classes of generators of one-parameter semigroups based on the convergence of the Dyson expansion can be traced back to the seminal work of Hille and Phillips, who, in Chapter XIII of the 1957 edition of their Functional Analysis monograph, developed the theory in minute detail. Following their approach of regarding the Dyson expansion as the central object, we will show how to construct a general framework for the perturbation of generators relative to the Schatten-von Neumann classes. This framework can be useful for determining spectral asymptotics of non-self-adjoint Schrödinger operators. Based on work in collaboration with Lyonell Boulton (Heriot-Watt University)."
   },
   "2023-04-04": {
     "name": "Boyuan Zhao",
