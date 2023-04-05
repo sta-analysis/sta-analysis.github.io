@@ -44,6 +44,11 @@
     "title": "Sequence matching for Gibbs measures and Renyi entropy",
     "abstract": "Given a topological Markov subshift and a probability measure with good mixing properties, one can predict, for any finite number of points, the asymptotic length <var>M<sub>n</sub></var> of the longest common substring observed in the first n letters. When the measure has the Gibbs property, <var>M<sub>n</sub></var> converges almost surely and the limit depends on the Renyi entropy of the measure."
   },
+  "2023-04-05": {
+    "name": "Simon Baker",
+    "title": "Fractal measures and Number Theory",
+    "abstract": "Self-similar measures are among the most well studied examples of fractal measures. In this talk I will discuss their Diophantine properties, and the measure that they give to the set of normal numbers in a given base. This talk will be partly based upon a joint work with Amir Algom and Pablo Shmerkin, and partly based upon a joint work with Demi Allen, Sam Chow, and Han Yu."
+  },
   "2023-04-11": {
     "name": "Kenneth Falconer",
     "title": "TBD",
