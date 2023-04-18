@@ -6,6 +6,7 @@
     },
     "cbleak": {
         "name": "Collin Bleak",
+        "url": "https://www.st-andrews.ac.uk/mathematics-statistics/people/cb211",
         "description": "My research is in studying infinite groups of homeomorphisms via properties of their actions. In this study I employ tools from various fields including algebra, theoretical computer science, combinatorics, symbolic dynamical systems, and analysis."
     },
     "rcouto": {
@@ -15,6 +16,7 @@
     },
     "sdimoudis": {
         "name": "Spyridon Dimoudis",
+        "url": "https://www.st-andrews.ac.uk/mathematics-statistics/people/sd307/",
         "description": "I am interested in operator and spectral theory and their applications in mathematical quantum mechanics, specifically, in the analysis of non-self-adjoint Schrödinger, and related, operators."
     },
     "kfalconer": {
@@ -42,6 +44,7 @@
     },
     "ikolossvary": {
         "name": "István Kolossváry",
+        "url": "https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/",
         "description": "My current research interest is in fractal geometry and geometric measure theory, mainly concentrated around the dimension theory of self-affine sets and measures."
     },
     "lolsen": {
