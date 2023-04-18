@@ -6,7 +6,6 @@
     },
     "cbleak": {
         "name": "Collin Bleak",
-        "url": "http://www-groups.mcs.st-and.ac.uk/~collin/",
         "description": "My research is in studying infinite groups of homeomorphisms via properties of their actions. In this study I employ tools from various fields including algebra, theoretical computer science, combinatorics, symbolic dynamical systems, and analysis."
     },
     "rcouto": {
@@ -20,14 +19,14 @@
     },
     "kfalconer": {
         "name": "Kenneth Falconer",
-        "url": "http://www.mcs.st-and.ac.uk/~kenneth/",
+        "url": "https://kennethfalconer.github.io/",
         "description": "My research centres around the geometry of fractals and multifractals, geometric measure theory, dimension theory, dynamical systems and probability. Specific topics include self-affine sets and measures, sections and projections of fractals, random fractals and stochastic processes, and applications of fractals to other areas."
     },
     "jfraser": {
         "name": "Jonathan Fraser",
         "short_name": "Jonathan Fraser",
         "year": "2013",
-        "url": "http://www.mcs.st-and.ac.uk/~jmf32/",
+        "url": "https://jonathan-fraser.github.io/homepage/",
         "title": "Head of Group",
         "description": "My research interests centre on fractal geometry and its connections with other areas of mathematics, such as: geometric measure theory, ergodic theory, Fourier analysis, and hyperbolic geometry. Particular topics include: self-affine sets, self-similar sets with overlaps, limit sets of Kleinian groups, and Fourier transforms of random measures associated with Brownian motion."
     },
@@ -43,7 +42,6 @@
     },
     "ikolossvary": {
         "name": "István Kolossváry",
-        "url": "http://www.mcs.st-andrews.ac.uk/~itk1/",
         "description": "My current research interest is in fractal geometry and geometric measure theory, mainly concentrated around the dimension theory of self-affine sets and measures."
     },
     "lolsen": {
@@ -63,7 +61,7 @@
     },
     "mtodd": {
         "name": "Mike Todd ",
-        "url": "http://www.mcs.st-and.ac.uk/~miket/",
+        "url": "https://mtoddm.github.io/",
         "description": "I work in ergodic theory and dynamical systems, applying ideas from probability and thermodynamic formalism to study expansion and recurrence properties of, mostly, smooth low dimensional systems. Topics include Return Time Statistics, Extreme Value Theory, statistical stability, equilibrium states, phase transitions and transience."
     },
     "bzhao": {
