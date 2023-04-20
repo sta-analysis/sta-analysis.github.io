@@ -61,7 +61,7 @@
   },
   "2023-04-25": {
     "name": "Alex Rutar",
-    "title": "TBD",
-    "abstract": "TBD"
+    "title": "Assouad dimension and tangents of dynamically invariant sets",
+    "abstract": "A tangent of a compact set is an accumulation point in Hausdorff distance given by 'zooming in' at a given point. For general compact sets, it is well-known that the Assouad dimension is characterized by dimensions of weak tangents (where the location of 'zooming in' is allowed to change), but not necessarily characterized by tangents. However, for sets satisfying some form of dynamical invariance, it is reasonable to expect that more can be said. In fact, one would hope that most points have tangents that are as large as possible. I will discuss such phenomena in general, and for some particular families of sets which arise as attractors of iterated function systems. This is based on ongoing joint work with Antti Käenmäki (Oulu)."
   }
 }
