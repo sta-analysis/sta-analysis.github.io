@@ -1,62 +1,66 @@
 {
-    "staff": [
-        "cbleak",
-        "sdimoudis",
-        "kfalconer",
-        "jfraser",
-        "njurga",
-        "ikolossvary",
-        "lolsen",
-        "lstuart",
-        "mtodd"
-    ],
-    "phd": [
-        "abanaji",
-        "rcouto",
-        "arutar",
-        "lstuart",
-        "bzhao"
-    ],
-    "rstaff": [
-        "sburrell",
-        "jhickman",
-        "xjin",
-        "tkempton",
-        "bstratmann",
-        "ayavicoli"
-    ],
-    "rphd": [
-        "llee",
-        "sburrell",
-        "dhowroyd",
-        "nkhalid",
-        "hyu",
-        "jhyde",
-        "vmijovic",
-        "stroscheit",
-        "cdonoven",
-        "afarkas",
-        "jfraser",
-        "gboore",
-        "smunday",
-        "lliu",
-        "tsamuel",
-        "mhille",
-        "jmiao",
-        "nsnigireva",
-        "iwerner",
-        "jhu",
-        "kfalk",
-        "blammering",
-        "jcole",
-        "morzechowski"
-    ],
-    "visitors": [
-        "jxiao",
-        "hchen",
-        "pshmerkin",
-        "jzhang",
-        "hli",
-        "khare"
-    ]
+  "staff": [
+    "bleak.c",
+    "dimoudis.s",
+    "falconer.k",
+    "fraser.j",
+    "jurga.n",
+    "kolossvary.i",
+    "olsen.l",
+    "todd.m"
+  ],
+  "phd": [
+    "couto.r",
+    "derry.l",
+    "orellana.a.de",
+    "rutar.a",
+    "shaabanian.s",
+    "zhao.b"
+  ],
+  "rstaff": [
+    "stuart.l",
+    "burrell.s",
+    "hickman.j",
+    "jin.x",
+    "kempton.t",
+    "stratmann.b",
+    "yavicoli.a"
+  ],
+  "rphd": [
+    "banaji.a",
+    "stuart.l",
+    "lee.l",
+    "burrell.s",
+    "howroyd.d",
+    "khalid.n",
+    "yu.h",
+    "hyde.j",
+    "mijovic.v",
+    "troscheit.s",
+    "donoven.c",
+    "farkas.a",
+    "fraser.j",
+    "boore.g",
+    "munday.s",
+    "liu.l",
+    "samuel.t",
+    "hille.m",
+    "miao.j",
+    "snigireva.n",
+    "werner.i",
+    "hu.j",
+    "falk.k",
+    "lammering.b",
+    "cole.j",
+    "orzechowski.m"
+  ],
+  "visitors": [
+    "zhang.s",
+    "xiao.j",
+    "chen.h",
+    "shmerkin.p",
+    "zhang.j",
+    "li.h",
+    "hare.k"
+  ]
 }
