@@ -1,67 +1,57 @@
 {
-  "2023-01-24": {
-    "name": "Jonathan Fraser",
-    "title": "More on the Fourier spectrum...",
-    "abstract": "In my most recent analysis seminar I introduced the Fourier spectrum, which is a continuously parameterised family of dimensions living in-between the Fourier and Hausdorff dimensions. In this talk I will speak about applications of this concept in a variety of areas."
+  "2023-09-19": {
+    "name": "TBA",
+    "title": "TBA",
+    "abstract": "TBA"
   },
-  "2023-01-31": {
-    "name": "Collin Bleak",
-    "title": "Embeddings into Finitely Presented Simple Groups",
-    "abstract": "In this talk, we describe a process whereby we can embed any hyperbolic group into a finitely presented infinite simple group.  This gives a proof of what is, in some sense, the “typical” case of the Boone-Higman Conjecture of 1973 (that a finitely generated group G has a solvable word problem if and only if G can be embedded into a finitely presented simple group).<br><br>The talk will proceed in three roughly independent parts: A short history of the Boone-Higman Conjecture,  a discussion of Hyperbolic groups and an embedding of these into the Rational group of Grigorchuk, Nekrashevych, and Suschanskii, and finally, a discussion of why the topological full group over this rational group is finitely presented and simple, or, at least provides a route to a further embedding in a group that is finitely presented and simple.<br><br>Joint with James Belk, Francesco Matucci, and Matthew Zaremsky."
+  "2023-09-26": {
+    "name": "TBA",
+    "title": "TBA",
+    "abstract": "TBA"
   },
-  "2023-02-07": {
-    "name": "Mike Whittaker",
-    "title": "Poincaré duality of self-similar actions",
-    "abstract": "A self-similar group (G,X) consists of a group G acting faithfully on a homogeneous rooted tree such that the action satisfies a self-similarity condition. In this talk I will outline a generalisation of Nekrashevych's theorem that K-theoretic invariants of associated C*-algebras satisfy Poincaré duality. This result ties together ideas from operator algebras, dynamical systems and geometric group theory in a truly beautiful way. I'll use this as an excuse to explain some ideas and underlying themes behind studying C*-algebras, and no knowledge of operator algebras is required. This is joint work with Nathan Brownlowe, Alcides Buss, Daniel Gonçalves, Jeremy Hume, and Aidan Sims."
+  "2023-10-03": {
+    "name": "TBA",
+    "title": "TBA",
+    "abstract": "TBA"
   },
-  "2023-02-14": {
-    "name": "Mike Todd",
-    "title": "Thermodynamic formalism for flows",
-    "abstract": "Given a dynamical system, Multifractal analysis can be used to study certain dynamically defined level sets. In this talk I will describe some work in progress which takes a more general thermodynamic formalism perspective on the level sets, in the context of flows."
+  "2023-10-10": {
+    "name": "TBA",
+    "title": "TBA",
+    "abstract": "TBA"
   },
-  "2023-03-07": {
-    "name": "István Kolossvary",
-    "title": "Assouad spectrum beyond Bedford-McMullen carpets",
-    "abstract": "When Fraser and Yu introduced the Assouad spectrum in 2018, one of the examples for which they calculated the spectrum were Bedford-McMullen carpets. Natural directions for generalisation are either to consider more general carpets on the plane or try higher dimensional sponges. The talk will focus on how new phenomena lead to additional phase transitions in the spectrum of these more general constructions compared to the single one for Bedford-McMullen carpets. Based on work in progress with Jonathan M. Fraser and Amlan Banaji."
+  "2023-10-24": {
+    "name": "TBA",
+    "title": "TBA",
+    "abstract": "TBA"
   },
-  "2023-03-14": {
-    "name": "Natalia Jurga",
-    "title": "Rigidity of growth of SL(2,R) semigroups",
-    "abstract": "In this talk we will be interested in understanding under what conditions do two finitely generated semigroups in SL(2,R) “look roughly the same”. After specifying the problem, we will discuss related questions from the literature and then outline a thermodynamic formalism approach for attacking the problem. This is based on ongoing work with Steve Cantrell (Chicago)."
+  "2023-10-31": {
+    "name": "TBA",
+    "title": "TBA",
+    "abstract": "TBA"
   },
-  "2023-03-21": {
-    "name": "Amlan Banaji",
-    "title": "Recovering the interpolation between dimensions",
-    "abstract": "Two families of fractal dimensions are the Assouad spectrum (which lies between box and Assouad dimension) and intermediate dimensions (between Hausdorff and box dimension). There are many sets for which these families do not interpolate all the way between the respective dimensions, and we will explain how the definitions can be generalised to ensure full interpolation for all compact sets. Moreover, we will describe what is (and isn’t) known about these generalised dimensions for classes of sets including decreasing sequences with decreasing gaps, overlapping self-similar sets, and Mandelbrot percolation. The results on the Assouad-type dimensions are joint work in progress with Alex Rutar and Sascha Troscheit (Oulu, Finland)."
+  "2023-11-7": {
+    "name": "TBA",
+    "title": "TBA",
+    "abstract": "TBA"
   },
-  "2023-03-28": {
-    "name": "Spyridon Dimoudis",
-    "title": "Schatten-class perturbation theory of one-parameter semigroups",
-    "abstract": "The notion of equivalence classes of generators of one-parameter semigroups based on the convergence of the Dyson expansion can be traced back to the seminal work of Hille and Phillips, who, in Chapter XIII of the 1957 edition of their Functional Analysis monograph, developed the theory in minute detail. Following their approach of regarding the Dyson expansion as the central object, we will show how to construct a general framework for the perturbation of generators relative to the Schatten-von Neumann classes. This framework can be useful for determining spectral asymptotics of non-self-adjoint Schrödinger operators. Based on work in collaboration with Lyonell Boulton (Heriot-Watt University)."
+  "2023-11-14": {
+    "name": "TBA",
+    "title": "TBA",
+    "abstract": "TBA"
   },
-  "2023-04-04": {
-    "name": "Boyuan Zhao",
-    "title": "Sequence matching for Gibbs measures and Renyi entropy",
-    "abstract": "Given a topological Markov subshift and a probability measure with good mixing properties, one can predict, for any finite number of points, the asymptotic length <var>M<sub>n</sub></var> of the longest common substring observed in the first n letters. When the measure has the Gibbs property, <var>M<sub>n</sub></var> converges almost surely and the limit depends on the Renyi entropy of the measure."
+  "2023-11-21": {
+    "name": "TBA",
+    "title": "TBA",
+    "abstract": "TBA"
   },
-  "2023-04-05": {
-    "name": "Simon Baker",
-    "title": "Fractal measures and Number Theory",
-    "abstract": "Self-similar measures are among the most well studied examples of fractal measures. In this talk I will discuss their Diophantine properties, and the measure that they give to the set of normal numbers in a given base. This talk will be partly based upon a joint work with Amir Algom and Pablo Shmerkin, and partly based upon a joint work with Demi Allen, Sam Chow, and Han Yu."
+  "2023-11-28": {
+    "name": "TBA",
+    "title": "TBA",
+    "abstract": "TBA"
   },
-  "2023-04-11": {
-    "name": "Kenneth Falconer",
-    "title": "Distances and patterns at small and large scales",
-    "abstract": "We will consider a number of questions of the form: when does a plane measurable set realise all small or large distances, or alternatively contain small or large similar copies of a given finite set?"
-  },
-  "2023-04-18": {
-    "name": "Lars Olsen",
-    "title": "Multifractal zeta-functions",
-    "abstract": "We discuss multifractal zeta-functions for Graph-Directed Self-Conformal Iterated Function Systems."
-  },
-  "2023-04-25": {
-    "name": "Alex Rutar",
-    "title": "Assouad dimension and tangents of dynamically invariant sets",
-    "abstract": "A tangent of a compact set is an accumulation point in Hausdorff distance given by 'zooming in' at a given point. For general compact sets, it is well-known that the Assouad dimension is characterized by dimensions of weak tangents (where the location of 'zooming in' is allowed to change), but not necessarily characterized by tangents. However, for sets satisfying some form of dynamical invariance, it is reasonable to expect that more can be said. In fact, one would hope that most points have tangents that are as large as possible. I will discuss such phenomena in general, and for some particular families of sets which arise as attractors of iterated function systems. This is based on ongoing joint work with Antti Käenmäki (Oulu)."
+  "2023-12-05": {
+    "name": "TBA",
+    "title": "TBA",
+    "abstract": "TBA"
   }
 }
