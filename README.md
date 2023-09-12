@@ -1,5 +1,5 @@
 # Analysis webpage
-This is the repository for the [St Andrews Analysis Group website](https://analysis.rutar.org).
+This is the repository for the [St Andrews Analysis Group website](https://sta-analysis.github.io).
 Jump to:
 
 - [Updating and deploying the site](#updating-and-deploying-the-site)
