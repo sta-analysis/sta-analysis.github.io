@@ -169,6 +169,11 @@
     "name": "George Phillips",
     "url": "http://www-maths.mcs.st-and.ac.uk/~gmp/"
   },
+  "pyorala.a": {
+    "name": "Aleksi Pyörälä",
+    "url": "https://www.oulu.fi/en/researchers/aleksi-pyorala",
+    "year": "2022"
+  },
   "rutar.a": {
     "name": "Alex Rutar",
     "url": "https://rutar.org",
@@ -236,6 +241,7 @@
   "zhang.s": {
     "name": "Shuqin Zhang",
     "description": "My research interests relate to multifractal geometry, in particular in-homogeneous self-similar measures.",
+    "title": "Visiting",
     "year": "2023-2024"
   },
   "zhao.b": {
