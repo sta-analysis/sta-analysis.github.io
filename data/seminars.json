@@ -1,8 +1,8 @@
 {
   "2023-09-19": {
     "name": "Alex Rutar",
-    "title": "TBA",
-    "abstract": "TBA"
+    "title": "Multifractal analysis of planar self-affine measures via convex optimization",
+    "abstract": "A key problem in the multifractal analysis of measures is to understand the structure of the set of points with non-typical local scaling behaviour: the multifractal formalism is a heuristic principle relating the structure of such sets with a type of large deviations bound associated with statistical averages related to the measure. In this talk, I will present an interpretation of the multifractal formalism for self-similar measures from the perspective of convex optimization. I will show then discuss how this formalism extends to planar self-affine measures. Naturally, there are many additional complications and exotic new phenomena are possible. The new results are based on joint work in progress with Thomas Jordan (Bristol) and István Kolossváry."
   },
   "2023-09-26": {
     "name": "István Kolossváry",
