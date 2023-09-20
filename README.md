@@ -10,14 +10,14 @@ Jump to:
 First, make sure you have [git](https://git-scm.com/) and [Zola](https://www.getzola.org/documentation/getting-started/installation/) installed.
 Then clone this repository locally:
 ```sh
-git clone https://github.com/sta-analysis/webpage && cd webpage
+git clone https://github.com/sta-analysis/sta-analysis.github.io && cd sta-analysis.github.io
 ```
 If the repository already exists, change to the directory and `git pull`.
 
 
 ## Building the site
 This site is built using the [Zola static site generator](https://www.getzola.org).
-In order to preview the site, run `zola serve`.
+In order to preview the site, run `zola serve` from the root of the directory.
 In order to build a local version of the site, run `zola build`.
 Here, the `public` directory will contain the output site.
 
