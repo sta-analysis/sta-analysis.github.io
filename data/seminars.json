@@ -6,8 +6,8 @@
   },
   "2023-09-26": {
     "name": "István Kolossváry",
-    "title": "TBA",
-    "abstract": "TBA"
+    "title": "Some variants of the variational principle",
+    "abstract": "A common theme in my recent projects has been to solve optimisation problems usually involving entropies and Lyapunov exponents. In each case the goal is to show a kind of variational principle. I will survey these problems over probability vectors from easier to more complex and show how they come up in the study of L^q dimensions, multifractal analysis and the Assouad spectrum."
   },
   "2023-10-03": {
     "name": "Mike Todd",
