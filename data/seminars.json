@@ -11,8 +11,8 @@
   },
   "2023-10-03": {
     "name": "Mike Todd",
-    "title": "TBA",
-    "abstract": "TBA"
+    "title": "Effective estimates on closeness of measures",
+    "abstract": "Given two invariant measures for a dynamical system, we can see how close they are to each other by integrating them both against some observable function and taking the difference.  In this talk I'll explain how ideas from thermodynamic formalism can give sharp estimates for these differences in terms of a fractional power of a pressure function.  The applications are to nonuniformly hyperbolic systems and show that the required fractional power depends on the speed of mixing of the system.  This is joint work with G Iommi and D Terhesiu."
   },
   "2023-10-10": {
     "name": "Shuqin Zhang",
