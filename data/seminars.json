@@ -21,8 +21,8 @@
   },
   "2023-10-24": {
     "name": "Argyrios Christodoulou",
-    "title": "TBA",
-    "abstract": "TBA"
+    "title": "Uniform hyperbolicity of matrix semigroups",
+    "abstract": "A semigroup of 2x2 matrices is called uniformly hyperbolic if norms of products in the semigroup grow exponentially with respect to product length. It can be shown that uniform hyperbolicity is  equivalent to the semigroup inducing a strongly contracting iterated function system on projective space. In this talk we give an overview of the geometry surrounding these objects, their interaction with other matrix semigroups and a formula for the Hausdorff dimension of their attractor."
   },
   "2023-10-31": {
     "name": "Lars Olsen",
