@@ -31,13 +31,13 @@
   },
   "2023-11-7": {
     "name": "Boyuan Zhao",
-    "title": "TBA",
-    "abstract": "TBA"
+    "title": "The Collet-Eckmann condition for unimodal maps and its implications",
+    "abstract": "Many aspects of the theory of uniformly hyperbolic interval maps are well-known, e.g. the existence of an acip and the rate of decay of correlations. For non-uniformly hyperbolic maps, similar results generally require some uniform expansivity on a non-trivial set. For certain types of unimodal maps, the Collet-Eckmann condition turns out to be a key feature that is able to characterise a large class of desired properties, which we discuss here."
   },
   "2023-11-14": {
     "name": "Mark Holland",
-    "title": "TBA",
-    "abstract": "TBA"
+    "title": "On Dynamical Borel Cantelli Lemms and Recurrence",
+    "abstract": "We take a measure preserving dyanamical system, and a sequence of shrinking targets (B_n), which we take to be nested sets. This talk will overview recent results concerning dynamical Borel Cantelli properties associated to infinitely often visits of orbits to (B_n). It is natural to take (B_n) to be a sequence of shrinking balls, but more general sets can be considered too. We highlight connections to quantative recurrence statistics and extreme value theory."
   },
   "2023-11-21": {
     "name": "Dmytro Karvatsky",
