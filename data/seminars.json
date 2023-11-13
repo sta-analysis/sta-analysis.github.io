@@ -37,7 +37,7 @@
   "2023-11-14": {
     "name": "Mark Holland",
     "title": "On Dynamical Borel Cantelli Lemmas and Recurrence",
-    "abstract": "We take a measure preserving dyanamical system, and a sequence of shrinking targets (B_n), which we take to be nested sets. This talk will overview recent results concerning dynamical Borel Cantelli properties associated to infinitely often visits of orbits to (B_n). It is natural to take (B_n) to be a sequence of shrinking balls, but more general sets can be considered too. We highlight connections to quantitative recurrence statistics and extreme value theory."
+    "abstract": "We take a measure preserving dynamical system, and a sequence of shrinking targets (B_n), which we take to be nested sets. This talk will overview recent results concerning dynamical Borel Cantelli properties associated to infinitely often visits of orbits to (B_n). It is natural to take (B_n) to be a sequence of shrinking balls, but more general sets can be considered too. We highlight connections to quantitative recurrence statistics and extreme value theory."
   },
   "2023-11-21": {
     "name": "Dmytro Karvatsky",
