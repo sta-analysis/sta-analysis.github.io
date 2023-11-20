@@ -42,11 +42,11 @@
   "2023-11-14": {
     "name": "Mark Holland",
     "title": "On Dynamical Borel Cantelli Lemmas and Recurrence",
-    "abstract": "We take a measure preserving dynamical system, and a sequence of shrinking targets (B_n), which we take to be nested sets. This talk will overview recent results concerning dynamical Borel Cantelli properties associated to infinitely often visits of orbits to (B_n). It is natural to take (B_n) to be a sequence of shrinking balls, but more general sets can be considered too. We highlight connections to quantitative recurrence statistics and extreme value theory."
+    "abstract": "We take a measure preserving dynamical system, and a sequence of shrinking targets (B<sub>n</sub>), which we take to be nested sets. This talk will overview recent results concerning dynamical Borel Cantelli properties associated to infinitely often visits of orbits to (B<sub>n</sub>). It is natural to take (B<sub>n</sub>) to be a sequence of shrinking balls, but more general sets can be considered too. We highlight connections to quantitative recurrence statistics and extreme value theory."
   },
   "2023-11-21": {
-    "name": "Dmytro Karvatsky",
-    "title": "TBA",
-    "abstract": "TBA"
+    "name": "Dmytro Karvatskyi",
+    "title": "On fractal properties of Cantorvals",
+    "abstract": "We study fractal properties of \"strange\" sets, which are called Cantorvals. Cantorvals are some combinations (mixed type) of intervals and Cantor sets. They have a complicated local structure and naturally appear in different fields of mathematics, such as dynamical systems, mathematical analysis, number theory and probability theory. In particular, we exhibit that the Guthrie-Nymann Cantorval X can be represented as a union of closed intervals X<sub>I</sub> having Lebesgue measure 1 and a Cantor set X<sub>C</sub> with zero Lebesgue measure and fractional Hausdorff dimension equal to log3/log4. Moreover, we also study the topological type of the set of subsums for convergent positive series connected with multigeometric sequences."
   }
 }
