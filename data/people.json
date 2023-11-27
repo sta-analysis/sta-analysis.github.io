@@ -34,7 +34,7 @@
     "url": "https://rbscouto.github.io/"
   },
   "derry.l": {
-    "description": "I am interested in C*-algebras and multifractal analysis.",
+    "description": "I am interested in C*-algebras, curvature measures, and multifractal analysis.",
     "name": "Luke Derry"
   },
   "dimoudis.s": {
@@ -102,6 +102,13 @@
     "description": "My research interests lie in the interplay between dynamical systems, ergodic theory and fractal geometry. More specific topics include: dimension theory of dynamical systems, random matrix products, self-affine sets, transfer operator methods and thermodynamic formalism. ",
     "name": "Natalia Jurga ",
     "url": "https://nataliajurga.wordpress.com/"
+  },
+  "kharvatskyi.d": {
+    "name": "Dmytro Kharvatskyi",
+    "url": "https://www.imath.kiev.ua/people/profile.php?pid=480&lang=en",
+    "description": "My research is devoted to the study of sets having a complicated local structure, such as fractals, Cantorvals, fat Cantor sets, etc. Such sets naturally appear in various branches of mathematics. In particular, they are attractors for some iterated function systems.",
+    "year": "2023-2024",
+    "title": "Visiting"
   },
   "kempton.t": {
     "name": "Tom Kempton",
@@ -185,8 +192,9 @@
     "year": "2010"
   },
   "shaabanian.s": {
-    "description": "TODO",
-    "name": "Saeed Shaabanian"
+    "description": "My tendency is Dynamical systems and Ergodic Theory, also I researched into the relation between ergodic theory and operator algebra.",
+    "name": "Saeed Shaabanian",
+    "url": "https://ss5071.wixsite.com/saeed-shaabanian"
   },
   "shmerkin.p": {
     "name": "Pablo Shmerkin",
