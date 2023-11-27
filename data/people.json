@@ -103,8 +103,8 @@
     "name": "Natalia Jurga ",
     "url": "https://nataliajurga.wordpress.com/"
   },
-  "kharvatskyi.d": {
-    "name": "Dmytro Kharvatskyi",
+  "karvatskyi.d": {
+    "name": "Dmytro Karvatskyi",
     "url": "https://www.imath.kiev.ua/people/profile.php?pid=480&lang=en",
     "description": "My research is devoted to the study of sets having a complicated local structure, such as fractals, Cantorvals, fat Cantor sets, etc. Such sets naturally appear in various branches of mathematics. In particular, they are attractors for some iterated function systems.",
     "year": "2023-2024",
@@ -121,7 +121,8 @@
   "kolossvary.i": {
     "description": "My current research interest is in fractal geometry and geometric measure theory, mainly concentrated around the dimension theory of self-affine sets and measures.",
     "name": "István Kolossváry",
-    "url": "https://ikolossvary.github.io"
+    "url": "https://ikolossvary.github.io",
+    "year": "2019-2023"
   },
   "lammering.b": {
     "name": "Birger Lammering",
