@@ -50,7 +50,7 @@
       "title": "On fractal properties of Cantorvals",
       "abstract": "We study fractal properties of \"strange\" sets, which are called Cantorvals. Cantorvals are some combinations (mixed type) of intervals and Cantor sets. They have a complicated local structure and naturally appear in different fields of mathematics, such as dynamical systems, mathematical analysis, number theory and probability theory. In particular, we exhibit that the Guthrie-Nymann Cantorval X can be represented as a union of closed intervals X<sub>I</sub> having Lebesgue measure 1 and a Cantor set X<sub>C</sub> with zero Lebesgue measure and fractional Hausdorff dimension equal to log3/log4. Moreover, we also study the topological type of the set of subsums for convergent positive series connected with multigeometric sequences."
     }
-  }  
+  },  
   "Spring 2023": {
     "2023-01-24": {
       "name": "Jonathan Fraser",
