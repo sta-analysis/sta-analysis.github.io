@@ -1,52 +1,52 @@
 {
-  "2023-09-19": {
-    "name": "Alex Rutar",
-    "title": "Multifractal analysis of planar self-affine measures via convex optimization",
-    "abstract": "A key problem in the multifractal analysis of measures is to understand the structure of the set of points with non-typical local scaling behaviour. The multifractal formalism is a heuristic principle relating the structure of such sets with a type of large deviations bound associated with statistical averages related to the measure. In this talk, I will present an interpretation of the multifractal formalism for self-similar measures from the perspective of convex optimization. I will then discuss how this interpretation extends to planar self-affine measures. Naturally, there are many additional complications and exotic new phenomena are possible. The new results are based on joint work in progress with Thomas Jordan (Bristol) and István Kolossváry."
-  },
-  "2023-09-26": {
-    "name": "István Kolossváry",
-    "title": "Some variants of the variational principle",
-    "abstract": "A common theme in my recent projects has been to solve optimisation problems usually involving entropies and Lyapunov exponents. In each case the goal is to show a kind of variational principle. I will survey these problems over probability vectors from easier to more complex and show how they come up in the study of <var>L<sup>q</sup></var> dimensions, multifractal analysis and the Assouad spectrum."
-  },
-  "2023-10-03": {
-    "name": "Mike Todd",
-    "title": "Effective estimates on closeness of measures",
-    "abstract": "Given two invariant measures for a dynamical system, we can see how close they are to each other by integrating them both against some observable function and taking the difference.  In this talk I'll explain how ideas from thermodynamic formalism can give sharp estimates for these differences in terms of a fractional power of a pressure function.  The applications are to nonuniformly hyperbolic systems and show that the required fractional power depends on the speed of mixing of the system.  This is joint work with G Iommi and D Terhesiu."
-  },
-  "2023-10-10": {
-    "name": "Shuqin Zhang",
-    "title": "Multifractal tube measures of in-homogeneous self-similar measures",
-    "abstract": "Minkowski volume refers to the study of the volumes of r-neighbourhoods of sets. lt is natural to extend the concept of Minkowski volume to multifractals, which we refer to as multifractal tube measures. In this talk, I will talk about the asymptotic behaviour of the q-th normalized total multifractal tube measures of in-homogeneous self-similar measures satisfying the In-homogeneous Open Set Condition. I will also talk about the convergence of the q-th normalized multifractal tube measures of in-homogeneous self-similar measures. These results are based on joint work in progress with Lars Olsen."
-  },
-  "2023-10-24": {
-    "name": "Argyrios Christodoulou",
-    "title": "Uniform hyperbolicity of matrix semigroups",
-    "abstract": "A semigroup of 2x2 matrices is called uniformly hyperbolic if norms of products in the semigroup grow exponentially with respect to product length. It can be shown that uniform hyperbolicity is  equivalent to the semigroup inducing a strongly contracting iterated function system on projective space. In this talk we give an overview of the geometry surrounding these objects, their interaction with other matrix semigroups and a formula for the Hausdorff dimension of their attractor."
-  },
-  "2023-10-31": {
-    "name": "Lars Olsen",
-    "title": "Prime counting formulas for Graph-Directed Self-Conformal Iterated Function Systems",
-    "abstract": "Prime counting formulas count the number of appropriate defined \"prime elements\" less than a given number, e.g. the number of prime numbers less than x or the number of prime geodesics whose length is less than x. We will develop a general theory of fractal and multifractal prime counting formulas for Graph-Directed Self-Conformal Iterated Function Systems. Several applications are presented, e.g. we will find explicit formulas for the q-th moment of self-conformal measures satisfying the Open Set Condition, and we will obtain a multifractal prime geodesic counting formula for classical Fuchsian Schottky groups."
-  },
-  "2023-11-7": {
-    "name": "Boyuan Zhao",
-    "title": "The Collet-Eckmann condition for unimodal maps and its implications",
-    "abstract": "Many aspects of the theory of uniformly hyperbolic interval maps are well-known, e.g. the existence of an acip and the rate of decay of correlations. For non-uniformly hyperbolic maps, similar results generally require some uniform expansivity on a non-trivial set. For certain types of unimodal maps, the Collet-Eckmann condition turns out to be a key feature that is able to characterise a large class of desired properties, which we discuss here."
-  },
-  "2023-11-7": {
-    "name": "Jeremy Tyson",
-    "title": "Dimension versus regularity for graphs",
+  "2024-01-23": {
+    "name": "Clarence Chen",
+    "title": "TBA",
     "abstract": ""
   },
-  "2023-11-14": {
-    "name": "Mark Holland",
-    "title": "On Dynamical Borel Cantelli Lemmas and Recurrence",
-    "abstract": "We take a measure preserving dynamical system, and a sequence of shrinking targets (B<sub>n</sub>), which we take to be nested sets. This talk will overview recent results concerning dynamical Borel Cantelli properties associated to infinitely often visits of orbits to (B<sub>n</sub>). It is natural to take (B<sub>n</sub>) to be a sequence of shrinking balls, but more general sets can be considered too. We highlight connections to quantitative recurrence statistics and extreme value theory."
+  "2024-01-30": {
+    "name": "Natalia Jurga",
+    "title": "TBA",
+    "abstract": ""
   },
-  "2023-11-21": {
+  "2024-02-06": {
+    "name": "Ana de Orellana",
+    "title": "TBA",
+    "abstract": ""
+  },
+  "2023-02-13": {
+    "name": "Jonathan Fraser",
+    "title": "TBA",
+    "abstract": ""
+  },
+  "2024-02-20": {
+    "name": "Luke Derry",
+    "title": "TBA",
+    "abstract": ""
+  },
+  "2024-03-05": {
     "name": "Dmytro Karvatskyi",
-    "title": "On fractal properties of Cantorvals",
-    "abstract": "We study fractal properties of \"strange\" sets, which are called Cantorvals. Cantorvals are some combinations (mixed type) of intervals and Cantor sets. They have a complicated local structure and naturally appear in different fields of mathematics, such as dynamical systems, mathematical analysis, number theory and probability theory. In particular, we exhibit that the Guthrie-Nymann Cantorval X can be represented as a union of closed intervals X<sub>I</sub> having Lebesgue measure 1 and a Cantor set X<sub>C</sub> with zero Lebesgue measure and fractional Hausdorff dimension equal to log3/log4. Moreover, we also study the topological type of the set of subsums for convergent positive series connected with multigeometric sequences."
+    "title": "TBA",
+    "abstract": ""
+  },
+  "2024-03-12": {
+    "name": "Kenneth Falconer",
+    "title": "TBA",
+    "abstract": ""
+  },
+  "2024-03-19": {
+    "name": "Roope Anttila",
+    "title": "TBA",
+    "abstract": ""
+  },
+  "2024-03-26": {
+    "name": "Vilma Orgoványi",
+    "title": "TBA",
+    "abstract": ""
+  },
+  "2024-04-02": {
+    "name": "Saeed Shaabanian",
+    "title": "TBA",
+    "abstract": ""
   }
 }
