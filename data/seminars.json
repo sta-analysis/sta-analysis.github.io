@@ -11,8 +11,8 @@
   },
   "2024-02-06": {
     "name": "Ana de Orellana",
-    "title": "TBA",
-    "abstract": ""
+    "title": "The Fourier spectrum under orthogonal projections",
+    "abstract": "Since Marstrand’s work on orthogonal projections in the 1950s, exceptional set estimates for such projections have been widely studied. Salem sets, i.e. sets for which the Fourier and Hausdorff dimension coincide, have no such exceptions. Thus, one might expect that the Fourier dimension could be used to improve exceptional set estimates. In this talk we will tackle this problem and show how the Fourier spectrum can be used to provide more information. Joint work with Jonathan Fraser."
   },
   "2024-02-13": {
     "name": "Jonathan Fraser",
