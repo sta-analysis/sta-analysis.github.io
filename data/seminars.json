@@ -16,8 +16,8 @@
   },
   "2024-02-13": {
     "name": "Jonathan Fraser",
-    "title": "TBA",
-    "abstract": ""
+    "title": "Fourier decay of product measures",
+    "abstract": "Product sets and measures are useful constructions in many contexts.  They can be used to build examples with exotic behaviour (e.g. take the product of two measures with very different properties) and can provide ''toy models'' for more difficult problems (e.g. the product of a x2 invariant measure with a x3 invariant measure is a simple example of a measure invariant under the non-conformal toral endomorphism (x2, x3) ).  The Fourier transform of a measure provides a lot of useful geometric information and we will discuss the simple question: can one effectively describe the Fourier decay of a product measure MxN in terms of the Fourier decay of M and N?"
   },
   "2024-02-20": {
     "name": "Luke Derry",
