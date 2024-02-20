@@ -21,8 +21,8 @@
   },
   "2024-02-20": {
     "name": "Luke Derry",
-    "title": "TBA",
-    "abstract": ""
+    "title": "C*-algebras and a non-commutative box dimension",
+    "abstract": "C*-algebras are a fundamental object of study in functional analysis. Noncommutative geometry aims to give a description of C*-algebras by taking the duality between geometric spaces and their commutative algebras of functions and then extending geometric properties to the noncommutative case. In this talk we will demonstrate how this can be done for the box dimension of a compact metric space and calculate the box dimension of some noncommutative C*-algebras."
   },
   "2024-03-05": {
     "name": "Dmytro Karvatskyi",
