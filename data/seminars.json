@@ -26,8 +26,8 @@
   },
   "2024-03-05": {
     "name": "Dmytro Karvatskyi",
-    "title": "TBA",
-    "abstract": ""
+    "title": "Geometry of the set of subsums of a numerical series",
+    "abstract": "We study the geometry of the set of subsums for a convergent positive series. Depending on the properties of a series, this set might be a finite union of intervals, a fractal set, or a combination thereof, which is called a Cantorval. In particular, we find some sufficient conditions for the set of subsums to be a Cantorval."
   },
   "2024-03-12": {
     "name": "Kenneth Falconer",
