@@ -31,21 +31,26 @@
   },
   "2024-03-12": {
     "name": "Kenneth Falconer",
-    "title": "TBA",
-    "abstract": ""
+    "title": "Fractal percolation on statistically self-affine sets",
+    "abstract": "A statistically self-similar set is a random set <var>F</var> based on a hierarchy of subsquares of the unit square. If each square is selected independently with probability <var>p</var>,  there is a critical probability <var>p<sub>c</sub></var> at which <var>F</var> undergoes a topological phase transition, changing as <var>p</var> increases through <var>p<sub>c</sub></var> from being totally disconnected to there being a positive probability of 'percolation' that is of <var>F</var> containing connecting opposite sides of the unit square. We will review this process and then consider such phenomena on statistically self-affine sets based on rectangular grids and compare this with the statistically self-similar case. This is joint work with Tianyi Feng."
   },
   "2024-03-19": {
     "name": "Roope Anttila",
-    "title": "TBA",
-    "abstract": ""
+    "title": "Pointwise Assouad dimension for measures",
+    "abstract": "The Assouad dimension of a measure is a notion of dimension which quantifies the doubling properties of the measure. In this talk, I introduce an analogous pointwise variant which quantifies the pointwise doubling properties of the measure. I will discuss some of the basic properties of the pointwise Assouad dimension in the general setting, and then specialise to the setting of self-similar measures satisfying the open set condition. In the latter setting, I will first discuss the typical behaviour of the pointwise Assouad dimension and then provide a complete description of the atypical behaviour via multifractal analysis. As a corollary, we see that any self-similar measure under the open set condition is doubling in a set of full dimension. The talk is partially based on a joint work with Ville Suomala."
   },
   "2024-03-26": {
-    "name": "Vilma Orgoványi",
+    "name": "Philipp Gohlke",
     "title": "TBA",
     "abstract": ""
   },
   "2024-04-02": {
     "name": "Saeed Shaabanian",
+    "title": "TBA",
+    "abstract": ""
+  },
+  "2024-04-09": {
+    "name": "Vilma Orgoványi",
     "title": "TBA",
     "abstract": ""
   }
