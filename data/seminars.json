@@ -41,8 +41,8 @@
   },
   "2024-03-26": {
     "name": "Philipp Gohlke",
-    "title": "TBA",
-    "abstract": ""
+    "title": "Rauzy fractals of (random) substitutions",
+    "abstract": "We study objects that are invariant under the action of a substitution. A long standing open problem (known as the Pisot substitution conjecture) is to verify that certain combinatorial assumptions imply that the translation on such self-similar objects is conjugate to a rotation on a multidimensional torus. Rauzy fractals provide a natural geometric model for such a torus rotation. We will go through some of the classical constructions and interpret the Rauzy fractal itself as a self-affine object. Generalising these constructions to random substitutions provides us with a convenient way to interpolate continuously between the Rauzy fractals associated to several substitution systems (joint work with A. Mitchell, D. Rust and T. Samuel)."
   },
   "2024-04-02": {
     "name": "Saeed Shaabanian",
