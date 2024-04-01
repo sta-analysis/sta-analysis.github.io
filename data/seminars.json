@@ -46,8 +46,8 @@
   },
   "2024-04-02": {
     "name": "Saeed Shaabanian",
-    "title": "TBA",
-    "abstract": ""
+    "title": "Orbit equivalence of ergodic group actions",
+    "abstract": "Group action is a part of Dynamical Systems and Ergodic theory and studying it like all other parts enriches our understanding of randomness and long-term behaviour in a dynamical system. We know that classification always helps us in mathematics to better understand and examine the characteristics of different classes. For this reason, by defining an equivalence relation on the ergodic group actions, we create a classification on them, which makes us later find different properties of each class of the ergodic group actions. The name of this equivalence relation is the orbit equivalence relation. The results of these studies directly lead to the diagnosis of entropy of dynamical systems. In this talk, we have a brief overview of the important definitions to find two orbit equivalent ergodic group actions and then we deal with their classification."
   },
   "2024-04-09": {
     "name": "Vilma Orgoványi",
