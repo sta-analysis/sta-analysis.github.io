@@ -51,7 +51,7 @@
   },
   "2024-04-09": {
     "name": "Vilma Orgoványi",
-    "title": "TBA",
-    "abstract": ""
+    "title": "Lebesgue measure of some random self-similar sets",
+    "abstract": "In this talk we examine the positivity of Lebesgue measure of a family of random self similar-sets. The family contains homogeneous self-similar sets on the line, such that the common contraction ratio is a reciprocal of a non-negative integer and every translation is integer, which we randomize analogously to the Mandlebrot percolation. Throughout the talk we explain how the problem of positivity of Lebesgue measure of such sets is connected to the extinction problem of multitype branching processes in random environments. Joint work with Károly Simon."
   }
 }
