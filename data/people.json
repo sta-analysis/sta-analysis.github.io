@@ -256,6 +256,7 @@
   },
   "zhao.b": {
     "description": "My interests in mathematics are generally in ergodic theory, symbolic dynamics, and low-dimensional interval maps with possible applications to cryptography.",
-    "name": "Boyuan Zhao"
+    "name": "Boyuan Zhao",
+    "url": "https://boyuanzhao.github.io"
   }
 }
