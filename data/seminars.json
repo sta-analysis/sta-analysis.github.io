@@ -1,57 +1,52 @@
 {
-  "2024-01-23": {
-    "name": "Clarence Chen",
-    "title": "Lower Assouad-type dimensions: old and new",
-    "abstract": "The lower Assouad-type dimensions, the natural dual to well-studied Assouad-type dimensions, is a family of fractal dimensions describing and quantifying the coarse parts of a set. In this talk, we will recall the definition of lower Assouad-type dimensions with their properties, then show some ongoing progress on the generalised lower Assouad dimension, including the interpolation and attainable forms on lower Assouad-type dimensions."
+  "2024-09-24": {
+    "name": "Boyuan Zhou",
+    "title": "Strongly positive recurrence for countable Markov shifts",
+    "abstract": "A standard approach in the study of dynamical systems is to show the map asymptotically behaves like an independent system hence classical theorems like CLT holds for observables with reasonable regularity. For non-uniformly hyperbolic maps with a countable Markov partition, the system can be studied symbolically via a countable Markov subshift, and we provide a new characterisation of strongly positive recurrence for the CMS which guarantees the exitence of an equilibrium state with the exponential mixing property."
   },
-  "2024-01-30": {
-    "name": "Natalia Jurga",
-    "title": "Bifurcation loci in SL(2,R)<sup>N</sup>",
-    "abstract": "Given a parametrised family of dynamical systems, its bifurcation locus is the set of parameters which describes the boundary between different types of stable dynamics. Bifurcation loci have been subject to a wealth of study in complex dynamics, the most well known example being the Mandelbrot set. In this talk we will discuss an analogous notion for linear cocycles."
+  "2024-10-01": {
+    "name": "Mike Todd",
+    "title": "TBC",
+    "abstract": ""
   },
-  "2024-02-06": {
-    "name": "Ana de Orellana",
-    "title": "The Fourier spectrum under orthogonal projections",
-    "abstract": "Since Marstrand’s work on orthogonal projections in the 1950s, exceptional set estimates for such projections have been widely studied. Salem sets, i.e. sets for which the Fourier and Hausdorff dimension coincide, have no such exceptions. Thus, one might expect that the Fourier dimension could be used to improve exceptional set estimates. In this talk we will tackle this problem and show how the Fourier spectrum can be used to provide more information. Joint work with Jonathan Fraser."
+  "2024-10-08": {
+    "name": "Victor Donnay",
+    "title": "TBC",
+    "abstract": ""
   },
-  "2024-02-13": {
-    "name": "Jonathan Fraser",
-    "title": "Fourier decay of product measures",
-    "abstract": "Product sets and measures are useful constructions in many contexts.  They can be used to build examples with exotic behaviour (e.g. take the product of two measures with very different properties) and can provide ''toy models'' for more difficult problems (e.g. the product of a x2 invariant measure with a x3 invariant measure is a simple example of a measure invariant under the non-conformal toral endomorphism (x2, x3) ).  The Fourier transform of a measure provides a lot of useful geometric information and we will discuss the simple question: can one effectively describe the Fourier decay of a product measure MxN in terms of the Fourier decay of M and N?"
+  "2024-10-15": {
+    "name": "Steve Senger",
+    "title": "TBC",
+    "abstract": ""
   },
-  "2024-02-20": {
+  "2024-10-29": {
+    "name": "Joseph Feneuil",
+    "title": "TBC",
+    "abstract": ""
+  },
+  "2024-11-05": {
+    "name": "Firdavs Rakhmonov",
+    "title": "TBC",
+    "abstract": ""
+  },
+  "2024-11-12": {
     "name": "Luke Derry",
-    "title": "C*-algebras and a non-commutative box dimension",
-    "abstract": "C*-algebras are a fundamental object of study in functional analysis. Noncommutative geometry aims to give a description of C*-algebras by taking the duality between geometric spaces and their commutative algebras of functions and then extending geometric properties to the noncommutative case. In this talk we will demonstrate how this can be done for the box dimension of a compact metric space and calculate the box dimension of some noncommutative C*-algebras."
+    "title": "TBC",
+    "abstract": ""
   },
-  "2024-03-05": {
-    "name": "Dmytro Karvatskyi",
-    "title": "Geometry of the set of subsums of a numerical series",
-    "abstract": "We study the geometry of the set of subsums for a convergent positive series. Depending on the properties of a series, this set might be a finite union of intervals, a fractal set, or a combination thereof, which is called a Cantorval. In particular, we find some sufficient conditions for the set of subsums to be a Cantorval."
+  "2024-11-19": {
+    "name": "Jonathan Fraser",
+    "title": "TBC",
+    "abstract": ""
   },
-  "2024-03-12": {
-    "name": "Kenneth Falconer",
-    "title": "Fractal percolation on statistically self-affine sets",
-    "abstract": "A statistically self-similar set is a random set <var>F</var> based on a hierarchy of subsquares of the unit square. If each square is selected independently with probability <var>p</var>,  there is a critical probability <var>p<sub>c</sub></var> at which <var>F</var> undergoes a topological phase transition, changing as <var>p</var> increases through <var>p<sub>c</sub></var> from being totally disconnected to there being a positive probability of 'percolation' that is of <var>F</var> containing connecting opposite sides of the unit square. We will review this process and then consider such phenomena on statistically self-affine sets based on rectangular grids and compare this with the statistically self-similar case. This is joint work with Tianyi Feng."
-  },
-  "2024-03-19": {
-    "name": "Roope Anttila",
-    "title": "Pointwise Assouad dimension for measures",
-    "abstract": "The Assouad dimension of a measure is a notion of dimension which quantifies the doubling properties of the measure. In this talk, I introduce an analogous pointwise variant which quantifies the pointwise doubling properties of the measure. I will discuss some of the basic properties of the pointwise Assouad dimension in the general setting, and then specialise to the setting of self-similar measures satisfying the open set condition. In the latter setting, I will first discuss the typical behaviour of the pointwise Assouad dimension and then provide a complete description of the atypical behaviour via multifractal analysis. As a corollary, we see that any self-similar measure under the open set condition is doubling in a set of full dimension. The talk is partially based on a joint work with Ville Suomala."
-  },
-  "2024-03-26": {
-    "name": "Philipp Gohlke",
-    "title": "Rauzy fractals of (random) substitutions",
-    "abstract": "We study objects that are invariant under the action of a substitution. A long standing open problem (known as the Pisot substitution conjecture) is to verify that certain combinatorial assumptions imply that the translation on such self-similar objects is conjugate to a rotation on a multidimensional torus. Rauzy fractals provide a natural geometric model for such a torus rotation. We will go through some of the classical constructions and interpret the Rauzy fractal itself as a self-affine object. Generalising these constructions to random substitutions provides us with a convenient way to interpolate continuously between the Rauzy fractals associated to several substitution systems (joint work with A. Mitchell, D. Rust and T. Samuel)."
-  },
-  "2024-04-02": {
+  "2024-11-26": {
     "name": "Saeed Shaabanian",
-    "title": "Orbit equivalence of ergodic group actions",
-    "abstract": "Group action is a part of Dynamical Systems and Ergodic theory and studying it like all other parts enriches our understanding of randomness and long-term behaviour in a dynamical system. We know that classification always helps us in mathematics to better understand and examine the characteristics of different classes. For this reason, by defining an equivalence relation on the ergodic group actions, we create a classification on them, which makes us later find different properties of each class of the ergodic group actions. The name of this equivalence relation is the orbit equivalence relation. The results of these studies directly lead to the diagnosis of entropy of dynamical systems. In this talk, we have a brief overview of the important definitions to find two orbit equivalent ergodic group actions and then we deal with their classification."
+    "title": "TBC",
+    "abstract": ""
   },
-  "2024-04-09": {
-    "name": "Vilma Orgoványi",
-    "title": "Lebesgue measure of some random self-similar sets",
-    "abstract": "In this talk we examine the positivity of Lebesgue measure of a family of random self similar-sets. The family contains homogeneous self-similar sets on the line, such that the common contraction ratio is a reciprocal of a non-negative integer and every translation is integer, which we randomize analogously to the Mandlebrot percolation. Throughout the talk we explain how the problem of positivity of Lebesgue measure of such sets is connected to the extinction problem of multitype branching processes in random environments. Joint work with Károly Simon."
+  "2024-12-03": {
+    "name": "Lars Olsen",
+    "title": "TBC",
+    "abstract": ""
   }
 }
