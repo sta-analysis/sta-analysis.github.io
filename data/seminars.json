@@ -6,18 +6,18 @@
   },
   "2024-10-01": {
     "name": "Mike Todd",
-    "title": "TBC",
-    "abstract": ""
+    "title": "Multivariate extremes in dynamics",
+    "abstract": "In applications extreme events can occur in different variables and can also influence each other (eg extreme atmospheric pressure and extreme rainfall at the same, or nearly the same, time).  The theory can be interpreted in dynamical context in terms of hitting times to different sets, the interesting cases occurring when hits to one set influence hits to another.  I will present some simple interval maps which exhibit these phenomena - under the bonnet we're using ideas such as copulas, stable dependence functions and Pickands dependence function from Extreme Value Theory.  This is joint work with R Aimino, A.C. Freitas and J.M. Freitas."
   },
   "2024-10-08": {
     "name": "Victor Donnay",
-    "title": "TBC",
-    "abstract": ""
+    "title": "Surfaces in R<sup>3</sup> with Anosov Geodesic Flow",
+    "abstract": "Geodesic flow on surfaces of negative curvature were the prototypical example of chaotic dynamical systems. Metrics of negative curvature can only be realized on surfaces of genus ≥2 and can never be isometrically embedded in R<sup>3</sup>. In the 1980-90s, metrics were developed with positive curvature on the sphere and torus (and other genus surfaces) that were embeddable for which the geodesic flow was ergodic with positive Lyapunov exponents almost everywhere (non-uniform hyperbolicity). However, these examples were not structurally stable: under a small perturbation one could produce regions of stability and destroy ergodicity. In this talk, we describe joint work with Dan Visscher in which we construct embedded surfaces whose geodesic flow is Anosov: it is both strongly chaotic (ergodic and uniformly hyperbolic) and retains this property under small perturbations of the metric. While there are no known obstructions to such surfaces existing for genus ≥2, our examples have significantly higher genus. In honor of the fractal group at St. Andrews, I will also talk about a community math project my students and I did – creating the world’s largest Sierpinski triangle out of 89,000 K’NEX pieces."
   },
   "2024-10-15": {
     "name": "Steve Senger",
-    "title": "TBC",
-    "abstract": ""
+    "title": "Point configurations determined by dot products in different settings",
+    "abstract": "A classical problem due to Erdős asks for lower bounds on the number of distinct distances determined by a large finite set of points in the plane. While this was resolved in 2010 by Guth and Katz, the analogous problem for dot products is still wide open. We discuss recent results and barriers to progress for corresponding problems in the settings of finite fields and fractal subsets."
   },
   "2024-10-29": {
     "name": "Joseph Feneuil",
