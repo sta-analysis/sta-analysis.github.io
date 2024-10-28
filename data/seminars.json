@@ -21,23 +21,23 @@
   },
   "2024-10-29": {
     "name": "Joseph Feneuil",
-    "title": "TBC",
-    "abstract": ""
+    "title": "How to characterize uniformly rectifiable sets with solutions on the complement?",
+    "abstract": "Uniformly rectifiable sets are often viewed as good sets for singular integrals, potential theory, and geometric measure theory. Roughly speaking, those sets have big overlaps with Lipschitz images at every scale. In this talk, I will survey several equivalent characterizations of uniform rectifiability of an Ahlfors regular set and highlight a characterization in terms of oscillation of the Green function for a class of elliptic operators on the complement of the set. In contrast to some earlier characterization of uniform rectifiability via elliptic solutions that are only valid for sets of co-dimension 1, this Green function characterization holds also in the higher co-dimensional setting. This is based on joint works with Guy David, Linhan Li, and Svitlana Mayboroda."
   },
   "2024-11-05": {
-    "name": "Firdavs Rakhmonov",
+    "name": "Luke Derry",
     "title": "TBC",
     "abstract": ""
   },
   "2024-11-12": {
-    "name": "Luke Derry",
+    "name": "Firdavs Rakhmonov",
     "title": "TBC",
     "abstract": ""
   },
   "2024-11-19": {
     "name": "Jonathan Fraser",
-    "title": "TBC",
-    "abstract": ""
+    "title": "The Furstenberg set problem",
+    "abstract": "Given s, t>0, an (s,t)-Furstenberg set is a subset X of the plane for which there is a collection of lines of Hausdorff dimension at least t such that X intersects every line from the collection in a set of Hausdorff dimension at least s.  The Furstenberg set problem (solved in 2023 by Ren and Wang) is to determine the smallest possible Hausdorff dimension of an (s,t)-Furstenberg set.  I will discuss and motivate this problem, and go on to discuss some variants."
   },
   "2024-11-26": {
     "name": "Saeed Shaabanian",
