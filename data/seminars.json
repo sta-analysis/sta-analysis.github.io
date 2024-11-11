@@ -26,13 +26,13 @@
   },
   "2024-11-05": {
     "name": "Luke Derry",
-    "title": "TBC",
-    "abstract": ""
+    "title": "Fractal curvature measures",
+    "abstract": "The classical Steiner formula is used to define the curvature measures associated with a polyconvex subset X of R^d. In this talk, I will give an overview of these curvature measures before presenting some results due to Steffen Winter and Martina  Zähle which extend these ideas to the fractal setting. I will also talk about current joint work with Lars Olsen on multifractal curvatures."
   },
   "2024-11-12": {
     "name": "Firdavs Rakhmonov",
-    "title": "TBC",
-    "abstract": ""
+    "title": "The quotient set of the quadratic distance set over finite fields",
+    "abstract": "In 2022, Thang Pham obtained an interesting qualitative result for the quotient sets of distance sets using group actions. However, this result has several limitations. In this talk, I will discuss improvements and extensions of Pham's result to arbitrary dimensions with general non-degenerate quadratic forms. As a corollary, we generalize sharp results on the Falconer-type problem for quotient sets of distance sets. This is joint work with Alex Iosevich and Doowon Koh."
   },
   "2024-11-19": {
     "name": "Jonathan Fraser",
