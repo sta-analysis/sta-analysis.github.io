@@ -41,8 +41,8 @@
   },
   "2024-11-26": {
     "name": "Saeed Shaabanian",
-    "title": "TBC",
-    "abstract": ""
+    "title": "A natural connection between recurrence laws in ϕ-mixing dynamical systems",
+    "abstract": ": Dynamical systems is the study of how systems behave over time. One of these behaviours is the recurrence of a point to its initial position or to a nearby location. This behaviour can be studied through two laws: hitting time and escape rate. Hitting time is the recurrence law to neighbourhoods which shrink to a point, while the escape rate is the rate at which points escape through a fixed set, thought of as a hole. In this talk, I will discuss the connection between these two laws and how one can transition between them when the system is ϕ-mixing i.e. with the help of a decaying function ϕ, the system, which has been converted to a probability space with a probability measure, asymptotically behaves like an independent process."
   },
   "2024-12-03": {
     "name": "Lars Olsen",
