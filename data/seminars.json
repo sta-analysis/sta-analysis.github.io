@@ -1,6 +1,6 @@
 {
   "2024-09-24": {
-    "name": "Boyuan Zhou",
+    "name": "Boyuan Zhao",
     "title": "Strongly positive recurrence for countable Markov shifts",
     "abstract": "A standard approach in the study of dynamical systems is to show the map asymptotically behaves like an independent system hence classical theorems like CLT holds for observables with reasonable regularity. For non-uniformly hyperbolic maps with a countable Markov partition, the system can be studied symbolically via a countable Markov subshift, and we provide a new characterisation of strongly positive recurrence for the CMS which guarantees the exitence of an equilibrium state with the exponential mixing property."
   },
