@@ -60,6 +60,9 @@
     "name": "Abel Farkas",
     "year": "2015"
   },
+  "feng.t": {
+    "name": "Tianyi Feng",
+  },
   "fraser.j": {
     "description": "My research interests centre on fractal geometry and its connections with other areas of mathematics, such as: geometric measure theory, ergodic theory, Fourier analysis, and hyperbolic geometry. Particular topics include: self-affine sets, self-similar sets with overlaps, limit sets of Kleinian groups, and Fourier transforms of random measures associated with Brownian motion.",
     "name": "Jonathan Fraser",
@@ -182,10 +185,14 @@
     "url": "https://www.oulu.fi/en/researchers/aleksi-pyorala",
     "year": "2022"
   },
+  "rakhmonov.f": {
+    "name": "Firdavs Rakhmonov"
+  },
   "rutar.a": {
     "description": "I am primarily interested in fractal geometry and dynamical systems, including (but not limited to) the geometry of self-similar and self-affine sets and associated invariant measures, multifractal analysis, and general dimension theory and dimension interpolation.",
     "name": "Alex Rutar",
-    "url": "https://rutar.org"
+    "url": "https://rutar.org",
+    "year": "2024"
   },
   "samuel.t": {
     "name": "Tony Samuel",
@@ -233,6 +240,12 @@
   "xiao.j": {
     "name": "Jian-Ci Xiao",
     "year": "2020-2021"
+  },
+  "xu.y": {
+    "name": "Yunlong Xu"
+  },
+  "yang.l": {
+    "name": "Lijian Yang"
   },
   "yavicoli.a": {
     "name": "Alexia Yavicoli",
