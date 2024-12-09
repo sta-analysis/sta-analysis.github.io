@@ -4,6 +4,12 @@
 {% block content %}
 {{ section.content | safe }}
 {%- set links = load_data(path="data/links.json") %}
+<h3>Analysis Networks</h3>
+<ul>
+  {%- for obj in links.networks %}
+  <li><a href='{{ obj.url | safe }}'>{{ obj.name | safe }}</a></li>
+  {%- endfor %}
+</ul>
 <h3>Maths on the Web</h3>
 <ul>
   {%- for obj in links.web %}
