@@ -1,21 +1,25 @@
 {
-  "staff": [
-    "bleak.c",
-    "dimoudis.s",
+  "core": [
     "falconer.k",
     "fraser.j",
     "jurga.n",
-    "karvatskyi.d",
     "olsen.l",
     "todd.m"
+  ],
+  "staff": [
+    "bleak.c",
+    "dimoudis.s",
+    "karvatskyi.d",
+    "rakhmonov.f"
   ],
   "phd": [
     "couto.r",
     "orellana.a.de",
     "derry.l",
-    "rutar.a",
+    "feng.t",
     "shaabanian.s",
-    "zhang.s",
+    "xu.y",
+    "yang.l",
     "zhao.b"
   ],
   "rstaff": [
@@ -29,6 +33,8 @@
     "yavicoli.a"
   ],
   "rphd": [
+    "rutar.a",
+    "zhang.s",
     "banaji.a",
     "stuart.l",
     "lee.l",
