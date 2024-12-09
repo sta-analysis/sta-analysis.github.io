@@ -8,6 +8,12 @@
         {"url": "/seminars/", "name": "Analysis Seminars"},
         {"url": "/links/", "name": "Links"}
     ],
+    "networks":[
+        {"url":"https://sites.google.com/view/lms-hanpde-network/home", "name": "LMS Harmonic Analysis and PDE network"},
+        {"url":"https://people.maths.bris.ac.uk/~matmj/LMSergodicmeetings.html", "name": "One Day Ergodic Theory Meetings"},
+        {"url":"https://www.oneworldfractals.org/", "name": "One World Fractals"},
+        {"url":"https://sites.google.com/view/scottish-dynamics-network/home", "name": "Scottish Dynamics Network"}
+    ],
     "web": [
         {"url": "https://www.gap-system.org/Doc/manuals.html", "name": "The GAP Manual"},
         {"url": "https://www.mathgenealogy.org/", "name": "The Mathematical Geneaology Project"},
