@@ -6,7 +6,7 @@
     "year": "2023"
   },
   "bleak.c": {
-    "description": "My research is in studying infinite groups of homeomorphisms via properties of their actions. In this study I employ tools from various fields including algebra, theoretical computer science, combinatorics, symbolic dynamical systems, and analysis.",
+    "description": "My research is in studying infinite groups of homeomorphisms via properties of their actions. In this study I employ tools from various fields including algebra, theoretical computer science, combinatorics, symbolic dynamical systems, and analysis. Collin sits in the Algebra and Combinatorics Research Group.",
     "name": "Collin Bleak",
     "url": "https://www.st-andrews.ac.uk/mathematics-statistics/people/cb211"
   },
@@ -78,7 +78,8 @@
   },
   "hickman.j": {
     "name": "Jonathan Hickman",
-    "url": "https://www.maths.ed.ac.uk/~jhickman/"
+    "url": "https://www.maths.ed.ac.uk/~jhickman/",
+    "year": "PDRA, 2018-2019"
   },
   "hille.m": {
     "name": "Martial Hille",
@@ -99,12 +100,19 @@
   },
   "jin.x": {
     "name": "Xiong Jin",
-    "url": "https://personalpages.manchester.ac.uk/staff/xiong.jin/"
+    "url": "https://personalpages.manchester.ac.uk/staff/xiong.jin/",
+    "year": "Newton International Fellow, 2011-13"
   },
   "jurga.n": {
     "description": "My research interests lie in the interplay between dynamical systems, ergodic theory and fractal geometry. More specific topics include: dimension theory of dynamical systems, random matrix products, self-affine sets, transfer operator methods and thermodynamic formalism. ",
     "name": "Natalia Jurga ",
     "url": "https://nataliajurga.wordpress.com/"
+  },
+  "jurga.npdra": {
+    "description": "My research interests lie in the interplay between dynamical systems, ergodic theory and fractal geometry. More specific topics include: dimension theory of dynamical systems, random matrix products, self-affine sets, transfer operator methods and thermodynamic formalism. ",
+    "name": "Natalia Jurga ",
+    "url": "https://nataliajurga.wordpress.com/",
+    "year": "PDRA and Leverhulme Early Career Fellow, 2020-25"
   },
   "karvatskyi.d": {
     "name": "Dmytro Karvatskyi",
@@ -115,7 +123,8 @@
   },
   "kempton.t": {
     "name": "Tom Kempton",
-    "url": "http://personalpages.manchester.ac.uk/staff/thomas.kempton/"
+    "url": "http://personalpages.manchester.ac.uk/staff/thomas.kempton/",
+    "year": "PDRA, 2013-16"
   },
   "khalid.n": {
     "name": "Nayab Khalid",
@@ -125,7 +134,7 @@
     "description": "My current research interest is in fractal geometry and geometric measure theory, mainly concentrated around the dimension theory of self-affine sets and measures.",
     "name": "István Kolossváry",
     "url": "https://ikolossvary.github.io",
-    "year": "2019-2023"
+    "year": "PDRA, 2019-2023"
   },
   "lammering.b": {
     "name": "Birger Lammering",
@@ -215,7 +224,9 @@
     "year": "2008"
   },
   "stratmann.b": {
-    "name": "Bernd Stratmann"
+    "name": "Bernd Stratmann",
+    "url": "math.uni-bremen.de/bos/",
+    "year": "Faculty, 1996-2010"
   },
   "stuart.l": {
     "description": "I am interested in fractals and dimension theory, in particular limit sets of geometrically finite Kleinian groups and Julia sets of parabolic rational maps.",
@@ -249,7 +260,8 @@
   },
   "yavicoli.a": {
     "name": "Alexia Yavicoli",
-    "url": "https://alexiayavicoli.org/"
+    "url": "https://alexiayavicoli.org/",
+    "year": "Swiss International Fellow, 2011-13"
   },
   "yu.h": {
     "name": "Han Yu",
