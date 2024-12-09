@@ -5,8 +5,12 @@
 {% block content %}
 {{ section.content | safe }}
 {%- set members = load_data(path="data/members.json") -%}
-<h3>Staff</h3>
+<h3>Core Faculty</h3>
+{{ fmt::member(person_list=members.core, long=true, sort=true) }}
+
+<h3>Further Staff</h3>
 {{ fmt::member(person_list=members.staff, long=true, sort=true) }}
+
 
 <h3>PhD Students</h3>
 {{ fmt::member(person_list=members.phd, long=true, sort=true) }}
