@@ -62,7 +62,8 @@
     "year": "2015"
   },
   "feng.t": {
-    "name": "Tianyi Feng"
+    "name": "Tianyi Feng",
+    "description": "I am interested in dimension theory, dynamical systems and their connections to fractal geometry."
   },
   "fraser.j": {
     "description": "My research interests centre on fractal geometry and its connections with other areas of mathematics, such as: geometric measure theory, ergodic theory, Fourier analysis, and hyperbolic geometry. Particular topics include: self-affine sets, self-similar sets with overlaps, limit sets of Kleinian groups, and Fourier transforms of random measures associated with Brownian motion.",
@@ -196,7 +197,9 @@
     "year": "2022"
   },
   "rakhmonov.f": {
-    "name": "Firdavs Rakhmonov"
+    "name": "Firdavs Rakhmonov",
+    "url": "https://sites.google.com/view/frakhmon/home",
+    "description": "My research primarily focuses on additive combinatorics, combinatorial number theory, discrete geometry, discrete Fourier analysis, fractal geometry, and geometric measure theory. Currently, I am investigating problems in vector spaces over finite fields and exploring analogous results in the continuous setting."
   },
   "rutar.a": {
     "description": "I am primarily interested in fractal geometry and dynamical systems, including (but not limited to) the geometry of self-similar and self-affine sets and associated invariant measures, multifractal analysis, and general dimension theory and dimension interpolation.",
