@@ -1,4 +1,56 @@
 {
+  "Autumn "2024":{
+    "2024-09-24": {
+    "name": "Boyuan Zhao",
+    "title": "Strongly positive recurrence for countable Markov shifts",
+    "abstract": "A standard approach in the study of dynamical systems is to show the map asymptotically behaves like an independent system hence classical theorems like CLT holds for observables with reasonable regularity. For non-uniformly hyperbolic maps with a countable Markov partition, the system can be studied symbolically via a countable Markov subshift, and we provide a new characterisation of strongly positive recurrence for the CMS which guarantees the exitence of an equilibrium state with the exponential mixing property."
+    },
+  "2024-10-01": {
+    "name": "Mike Todd",
+    "title": "Multivariate extremes in dynamics",
+    "abstract": "In applications extreme events can occur in different variables and can also influence each other (eg extreme atmospheric pressure and extreme rainfall at the same, or nearly the same, time).  The theory can be interpreted in dynamical context in terms of hitting times to different sets, the interesting cases occurring when hits to one set influence hits to another.  I will present some simple interval maps which exhibit these phenomena - under the bonnet we're using ideas such as copulas, stable dependence functions and Pickands dependence function from Extreme Value Theory.  This is joint work with R Aimino, A.C. Freitas and J.M. Freitas."
+    },
+  "2024-10-08": {
+    "name": "Victor Donnay",
+    "title": "Surfaces in R<sup>3</sup> with Anosov Geodesic Flow",
+    "abstract": "Geodesic flow on surfaces of negative curvature were the prototypical example of chaotic dynamical systems. Metrics of negative curvature can only be realized on surfaces of genus ≥2 and can never be isometrically embedded in R<sup>3</sup>. In the 1980-90s, metrics were developed with positive curvature on the sphere and torus (and other genus surfaces) that were embeddable for which the geodesic flow was ergodic with positive Lyapunov exponents almost everywhere (non-uniform hyperbolicity). However, these examples were not structurally stable: under a small perturbation one could produce regions of stability and destroy ergodicity. In this talk, we describe joint work with Dan Visscher in which we construct embedded surfaces whose geodesic flow is Anosov: it is both strongly chaotic (ergodic and uniformly hyperbolic) and retains this property under small perturbations of the metric. While there are no known obstructions to such surfaces existing for genus ≥2, our examples have significantly higher genus. In honor of the fractal group at St. Andrews, I will also talk about a community math project my students and I did – creating the world’s largest Sierpinski triangle out of 89,000 K’NEX pieces."
+    },
+  "2024-10-15": {
+    "name": "Steve Senger",
+    "title": "Point configurations determined by dot products in different settings",
+    "abstract": "A classical problem due to Erdős asks for lower bounds on the number of distinct distances determined by a large finite set of points in the plane. While this was resolved in 2010 by Guth and Katz, the analogous problem for dot products is still wide open. We discuss recent results and barriers to progress for corresponding problems in the settings of finite fields and fractal subsets."
+    },
+  "2024-10-29": {
+    "name": "Joseph Feneuil",
+    "title": "How to characterize uniformly rectifiable sets with solutions on the complement?",
+    "abstract": "Uniformly rectifiable sets are often viewed as good sets for singular integrals, potential theory, and geometric measure theory. Roughly speaking, those sets have big overlaps with Lipschitz images at every scale. In this talk, I will survey several equivalent characterizations of uniform rectifiability of an Ahlfors regular set and highlight a characterization in terms of oscillation of the Green function for a class of elliptic operators on the complement of the set. In contrast to some earlier characterization of uniform rectifiability via elliptic solutions that are only valid for sets of co-dimension 1, this Green function characterization holds also in the higher co-dimensional setting. This is based on joint works with Guy David, Linhan Li, and Svitlana Mayboroda."
+    },
+  "2024-11-05": {
+    "name": "Luke Derry",
+    "title": "Fractal curvature measures",
+    "abstract": "The classical Steiner formula is used to define the curvature measures associated with a polyconvex subset X of R^d. In this talk, I will give an overview of these curvature measures before presenting some results due to Steffen Winter and Martina  Zähle which extend these ideas to the fractal setting. I will also talk about current joint work with Lars Olsen on multifractal curvatures."
+    },
+  "2024-11-12": {
+    "name": "Firdavs Rakhmonov",
+    "title": "The quotient set of the quadratic distance set over finite fields",
+    "abstract": "In 2022, Thang Pham obtained an interesting qualitative result for the quotient sets of distance sets using group actions. However, this result has several limitations. In this talk, I will discuss improvements and extensions of Pham's result to arbitrary dimensions with general non-degenerate quadratic forms. As a corollary, we generalize sharp results on the Falconer-type problem for quotient sets of distance sets. This is joint work with Alex Iosevich and Doowon Koh."
+    },
+  "2024-11-19": {
+    "name": "Jonathan Fraser",
+    "title": "The Furstenberg set problem",
+    "abstract": "Given s, t>0, an (s,t)-Furstenberg set is a subset X of the plane for which there is a collection of lines of Hausdorff dimension at least t such that X intersects every line from the collection in a set of Hausdorff dimension at least s.  The Furstenberg set problem (solved in 2023 by Ren and Wang) is to determine the smallest possible Hausdorff dimension of an (s,t)-Furstenberg set.  I will discuss and motivate this problem, and go on to discuss some variants."
+    },
+  "2024-11-26": {
+    "name": "Saeed Shaabanian",
+    "title": "A natural connection between recurrence laws in ϕ-mixing dynamical systems",
+    "abstract": ": Dynamical systems is the study of how systems behave over time. One of these behaviours is the recurrence of a point to its initial position or to a nearby location. This behaviour can be studied through two laws: hitting time and escape rate. Hitting time is the recurrence law to neighbourhoods which shrink to a point, while the escape rate is the rate at which points escape through a fixed set, thought of as a hole. In this talk, I will discuss the connection between these two laws and how one can transition between them when the system is ϕ-mixing i.e. with the help of a decaying function ϕ, the system, which has been converted to a probability space with a probability measure, asymptotically behaves like an independent process."
+    },
+  "2024-12-03": {
+    "name": "Lars Olsen",
+    "title": "What does a \"generic\" measure look like?",
+    "abstract": "We will explore what a generic Borel measure on a compact metric space looks like. We will give three answers: (1) a topological answer, (2) a measure theoretical answer, and finally (3) an algebraic answer."
+    }
+  },
   "Spring 2024": {
     "2024-01-23": {
     "name": "Clarence Chen",
