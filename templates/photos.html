@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{%import "macros/format.html" as fmt -%}
+{% block title %}{{ section.title }}{% endblock %}
+{% block description %}{{ section.description }}{% endblock %}
+{% block content %}
+{{ section.content | safe }}
+{%- set photo_list = load_data(path="data/photos.json") -%}
+{%- for title, image in photo_list %}
+{{ fmt::photo(title=title, image=image) }}
+{%- endfor %}
+
+{% endblock %}
