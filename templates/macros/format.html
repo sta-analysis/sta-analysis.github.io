@@ -20,3 +20,8 @@
   {% endfor %}
 </ul>
 {% endmacro %}
+
+{% macro photo(title, image) %}
+<h4> {{ image.description }} </h4>
+<img loading = "lazy" src= "{{ image.pic }}" alt = "{{ image.description }}">
+{% endmacro %}
