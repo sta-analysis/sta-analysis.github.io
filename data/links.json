@@ -6,6 +6,7 @@
         {"url": "/postgraduate/", "name": "Postgraduate Opportunities"},
         {"url": "/summer/", "name": "Summer School Projects"},
         {"url": "/seminars/", "name": "Analysis Seminars"},
+        {"url": "/photos/", "name": "Photos"},
         {"url": "/links/", "name": "Links"}
     ],
     "networks":[
