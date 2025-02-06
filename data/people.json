@@ -71,7 +71,7 @@
     "description": "I am interested in dimension theory, dynamical systems and their connections to fractal geometry."
   },
   "fraser.j": {
-    "description": "My research interests centre on fractal geometry and its connections with other areas of mathematics, such as: geometric measure theory, ergodic theory, Fourier analysis, and hyperbolic geometry. Particular topics include: self-affine sets, self-similar sets with overlaps, limit sets of Kleinian groups, and Fourier transforms of random measures associated with Brownian motion.",
+    "description": "My research interests centre on fractal geometry and its connections with other areas of mathematics, including: geometric measure theory, dynamical systems, Fourier analysis, hyperbolic geometry, and combinatorics. I often work with dynamically defined fractals, including self-affine sets and Kleinian limit sets, and am interested in several geometric problems related to projections.",
     "name": "Jonathan Fraser",
     "short_name": "Jonathan Fraser",
     "title": "Head of Group",
@@ -271,7 +271,7 @@
   },
   "yang.l": {
     "name": "Lijian Yang",
-    "description": "My research interests are fractal geometry and Fourier analysis"
+    "description": "My research interests are fractal geometry and Fourier analysis."
   },
   "yavicoli.a": {
     "name": "Alexia Yavicoli",
