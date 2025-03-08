@@ -21,8 +21,8 @@
   },
   "2025-03-11": {
     "name": "Antti Kaemaki",
-    "title": "TBD",
-    "abstract": ""
+    "title": "Hausdorff dimension of self-affine sponges with random contractions",
+    "abstract": "We compute the almost sure Hausdorff dimension of random self-affine sponges in R^d without imposing any separation conditions. In this context, randomness arises from the matrices in the defining semigroup, which are random yet the corresponding affine maps share a fixed point. This setup reveals a novel phenomenon: the almost sure Hausdorff dimension---even in the separated self-similar case---depends on the specific way randomness is introduced into the matrices. This talk presents ongoing research conducted with Balázs Bárány and Michal Rams."
   },
   "2025-03-18": {
     "name": "Lijian Yang",
