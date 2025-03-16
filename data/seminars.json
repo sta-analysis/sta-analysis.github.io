@@ -26,8 +26,8 @@
   },
   "2025-03-18": {
     "name": "Lijian Yang",
-    "title": "TBD",
-    "abstract": ""
+    "title": "Hausdorff Dimensions of Restricted Besicovitch Sets",
+    "abstract": "We investigate a special class of Kakeya sets by considering the collection of midpoints of unit line segments. Given an upper bound on the dimension of this midpoint collection, we establish a lower bound on the Hausdorff dimension of the corresponding Kakeya set. As a corollary, we obtain a result that implies the Kakeya conjecture under certain conditions. Joint work with Jonathan Fraser."
   },
   "2025-03-25": {
     "name": "Natalia Jurga",
