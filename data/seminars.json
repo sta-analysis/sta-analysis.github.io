@@ -31,8 +31,8 @@
   },
   "2025-03-25": {
     "name": "Natalia Jurga",
-    "title": "TBD",
-    "abstract": ""
+    "title": "Quantitative equidistribution for dynamical systems",
+    "abstract": "One of the fundamental features of an ergodic  dynamical system (T,X,m) is that for almost every x in X, the sequence of empirical distributions along its orbit converges to the measure m. In this talk we will discuss a quantitative version of this fact and its connection to the fractal properties of the measure m. This is ongoing work with Mike Todd."
   },
   "2025-04-01": {
     "name": "Tianyi Feng",
