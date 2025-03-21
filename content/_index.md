@@ -17,7 +17,5 @@ The group's interests include:
 - Metric Number Theory
 - Differential Equations on Fractals
 
-NEW: We are currently advertising a permanent lectureship in the Group. You can find more details and apply <a href = "https://www.vacancies.st-andrews.ac.uk/Vacancies/W/3242/0/445467/889/lecturer-in-mathematics-ac2578rs">here</a>. The closing date for applications is March 14th. Please pass this information on to anyone you think might be interested and feel free to reach out if you have any questions.
-
 ### Current Members
 <img loading="lazy" src="/analysis-group.jpg" alt="Members of the Analysis Group">
