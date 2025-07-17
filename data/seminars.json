@@ -53,5 +53,10 @@
     "name": "Collin Bleak",
     "title": "Embedding certain automatic groups into the rational group R.",
     "abstract": "We introduce left-continuous automatic groups as a subclass of the well-known automatic groups.  The class of left-continuous automatic groups is a bit mysterious as a subclass of the automatic groups, but, we know at least that the class contains the CAT(0) Cubical Complex groups (CCC groups), which themselves represent a broad class of groups of topical interest.  Our main theorem states that all left-continuous automatic groups embed as subgroups of the rational group R, a group introduced in 2000 by Grigorchuk, Nekrashevych, and Suschanskii.  We will provide definitions and examples of these various groups along the way, and have some discussion as well of different forms of boundaries of groups.  We also discuss how similar embedding theorems have been of use in larger programs of discovery.  Joint work with Belk, Chatterji, Matucci and Perego."
+  },
+  "2025-06-19": {
+    "name": "De-Jun Feng",
+    "title": "IFS attractors with distinct fractal dimensions",
+    "abstract": "In this talk, I will present some recent progress on a folklore question regarding the dimensional regularity of IFS attractors in Euclidean spaces. This is based on joint work with Simon Baker, Amlan Banaj, Chun-Kit Lai and Ying Xiong."
   }
 }
