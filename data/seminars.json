@@ -2,7 +2,7 @@
   "2025-09-10": {
     "name": "Simon Baker",
     "title": "Expansions in non-integer bases",
-    "abstract": "A seemingly innocuous generalisation of binary expansions involves replacing 2 with a parameter q satisfying 1<q<2. This change leads to substantially different behaviour. For instance, a Lebesgue typical point has uncountably many expansions in base q. Moreover, for any integer k, there exists q and x such that x has precisely k expansions in base q. This is contrary to the case of binary expansions where every point has a unique expansion apart from a countable set of exceptions with precisely two. In this talk I will discuss some recent results on those bases that admit points with precisely k expansions. This talk will be based upon joint work with George Bender."
+    "abstract": "A seemingly innocuous generalisation of binary expansions involves replacing 2 with a parameter q satisfying 1 < q < 2. This change leads to substantially different behaviour. For instance, a Lebesgue typical point has uncountably many expansions in base q. Moreover, for any integer k, there exists q and x such that x has precisely k expansions in base q. This is contrary to the case of binary expansions where every point has a unique expansion apart from a countable set of exceptions with precisely two. In this talk I will discuss some recent results on those bases that admit points with precisely k expansions. This talk will be based upon joint work with George Bender."
   },
   "2025-09-23": {
     "name": "TBA",
