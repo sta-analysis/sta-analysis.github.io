@@ -9,6 +9,6 @@ The intention is to provide a background in analysis, with an emphasis on the re
 The seminar takes place **on Tuesday afternoons at 15:00** in **Tutorial Room 1A** of the Mathematics Institute.
 A historical list of seminars can be found [here](/archive/).
 
-**NB** Simon Baker's seminar on the 10^{th} of September will take place in **Lecture Theatre C** of the Mathematics Institute.
+**NB** Simon Baker's seminar on the 10<sup>th</sup> of September will take place in **Lecture Theatre C** of the Mathematics Institute.
 
 ### Spring 2025
