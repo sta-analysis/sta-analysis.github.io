@@ -1,5 +1,6 @@
 {
   "core": [
+    "cantrell.s",
     "falconer.k",
     "fraser.j",
     "jurga.n",
@@ -7,6 +8,7 @@
     "todd.m"
   ],
   "staff": [
+    "anttila.r",
     "bleak.c",
     "dimoudis.s",
     "karvatskyi.d",
@@ -15,11 +17,12 @@
   "phd": [
     "orellana.a.de",
     "derry.l",
+    "despinoy.f",
     "feng.t",
+    "liu.y",
     "shaabanian.s",
     "xu.y",
     "yang.l",
-    "zhao.b"
   ],
   "rstaff": [
     "jurga.npdra",
@@ -31,6 +34,7 @@
     "stratmann.b"
   ],
   "rphd": [
+    "zhao.b",
     "couto.r",
     "rutar.a",
     "zhang.s",
