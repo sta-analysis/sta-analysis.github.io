@@ -276,7 +276,8 @@
     "year": "2020-2021"
   },
   "xu.y": {
-    "name": "Yunlong Xu"
+    "name": "Yunlong Xu",
+    "url": "https://yunlong0925.github.io/"
   },
   "yang.l": {
     "name": "Lijian Yang",
@@ -306,6 +307,7 @@
   "zhao.b": {
     "description": "My interests in mathematics are generally in ergodic theory, symbolic dynamics, and low-dimensional interval maps with possible applications to cryptography.",
     "name": "Boyuan Zhao",
-    "url": "https://boyuanzhao.github.io"
+    "url": "https://boyuanzhao.github.io",
+    "year": "2025"
   }
 }
