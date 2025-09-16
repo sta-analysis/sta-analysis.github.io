@@ -24,6 +24,9 @@
     "url": "https://stuartburrell.github.io/",
     "year": "2020"
   },
+  "cantrell.s": {
+    "name": "Stephen Cantrell"
+  },
   "chen.h": {
     "name": "Haipeng Chen",
     "url": "https://sites.google.com/view/hpchen0703",
@@ -42,6 +45,9 @@
   "derry.l": {
     "description": "I am interested in C*-algebras, curvature measures, and multifractal analysis.",
     "name": "Luke Derry"
+  },
+  "despinoy.f": {
+    "name": "Fabian Despinoy"
   },
   "dimoudis.s": {
     "description": "I am interested in operator and spectral theory and their applications in mathematical quantum mechanics, specifically, in the analysis of non-self-adjoint Schrödinger, and related, operators.",
@@ -159,6 +165,9 @@
   "liu.l": {
     "name": "Lining Liu",
     "year": "2010"
+  },
+  "liu.y": {
+    "name": "Yuyang Liu"
   },
   "mccabe.j": {
     "description": "My research interests have generally been in rational approximation, and pade approximation and the related continued fractions in particular. In collaboration with others, mainly overseas and including my Ph.D students, I have worked on strong moment problems.",
