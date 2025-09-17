@@ -1,4 +1,8 @@
 {
+    "2024":{
+        "pic": "/2024.jpg",
+        "description": "The Research Group in 2024"
+    },
     "2023": {
         "pic": "/2023.jpg",
         "description": "The Research Group in 2023"
@@ -23,4 +27,5 @@
         "pic": "/kenneth97.jpg",
         "description": "Professor Kenneth Falconer with Mark Orzechowski, the first PhD student from the Group, in 1997" 
     }
+
 }
