@@ -5,47 +5,52 @@
     "abstract": "A seemingly innocuous generalisation of binary expansions involves replacing 2 with a parameter q satisfying 1 < q < 2. This change leads to substantially different behaviour. For instance, a Lebesgue typical point has uncountably many expansions in base q. Moreover, for any integer k, there exists q and x such that x has precisely k expansions in base q. This is contrary to the case of binary expansions where every point has a unique expansion apart from a countable set of exceptions with precisely two. In this talk I will discuss some recent results on those bases that admit points with precisely k expansions. This talk will be based upon joint work with George Bender."
   },
   "2025-09-23": {
-    "name": "TBA",
+    "name": "Selim Ghazouani",
     "title": "",
     "abstract": ""
   },
   "2025-09-30": {
-    "name": "TBA",
+    "name": "Jonathan Fraser",
     "title": "",
     "abstract": ""  
   },
   "2025-10-07": {
-    "name": "TBA",
+    "name": "Stephen Canatrell",
     "title": "",
     "abstract": ""
   },
   "2025-10-14": {
-    "name": "TBA",
+    "name": "Mike Todd",
     "title": "",
     "abstract": ""
   },
   "2025-10-28": {
-    "name": "TBA",
+    "name": "Ana de Orellana",
     "title": "",
     "abstract": ""
   },
   "2025-11-04": {
-    "name": "TBA",
+    "name": "Saeed Shaabanian",
     "title": "",
     "abstract": ""
   },
   "2025-11-11": {
-    "name": "TBA",
+    "name": "Roope Anttila",
     "title": "",
     "abstract": ""
   },
   "2025-11-18": {
-    "name": "TBA",
+    "name": "Firdavs Rakhmonov",
     "title": "",
     "abstract": ""
   },
   "2025-11-25": {
-    "name": "TBA",
+    "name": "Lauritz Streck",
+    "title": "",
+    "abstract": ""
+  },
+  "2025-12-02": {
+    "name": "Natalia Jurga",
     "title": "",
     "abstract": ""
   }
