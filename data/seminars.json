@@ -6,8 +6,8 @@
   },
   "2025-09-23": {
     "name": "Selim Ghazouani",
-    "title": "",
-    "abstract": ""
+    "title": "Speculations and problems about parabolic dynamical systems",
+    "abstract": "I will make an attempt at defining what a parabolic dynamical system is and will try to explain why, despite their relative unimportance in the modern theory of dynamical systems, they provide one with very entertaining questions to think about. Roughly speaking, a parabolic system it is a dynamical system for which nearby points drift apart at polynomial speed. An enticing feature of such systems is that they are all very different from one another, unlike hyperbolic systems which tend to enjoy fairly universal dynamical properties. The talk will build upon extensive numerical experiments, to illustrate known theorems as well as to invite open problems/conjectures."
   },
   "2025-09-30": {
     "name": "Jonathan Fraser",
