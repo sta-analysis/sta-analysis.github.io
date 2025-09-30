@@ -11,8 +11,8 @@
   },
   "2025-09-30": {
     "name": "Jonathan Fraser",
-    "title": "",
-    "abstract": ""  
+    "title": "Dimension interpolation: the story so far",
+    "abstract": "Dimension interpolation is a general approach to understanding and characterising fractal objects.  The idea is to carefully define 'dimension functions' which live in-between familiar notions of fractal dimension, such as Hausdorff dimension, box dimension etc, with the hope of gaining more information than the individual notions provide in isolation.  I will motivate and survey this area by discussing several examples and applications."  
   },
   "2025-10-07": {
     "name": "Stephen Cantrell",
