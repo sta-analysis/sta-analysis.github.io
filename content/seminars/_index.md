@@ -9,6 +9,6 @@ The intention is to provide a background in analysis, with an emphasis on the re
 The seminar takes place **on Tuesday afternoons at 15:00** in **Tutorial Room 1A** of the Mathematics Institute.
 A historical list of seminars can be found [here](/archive/).
 
-**NB** Alex Rutar's seminar on the 16<sup>th</sup> of October will take place at 14:00 in Lecture Theatre D of the Mathematics Institute.
+**NB:** Alex Rutar's seminar on the 16<sup>th</sup> of October will take place at 14:00 in Lecture Theatre D of the Mathematics Institute.
 
 ### Spring 2025
