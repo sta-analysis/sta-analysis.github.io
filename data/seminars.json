@@ -1,11 +1,11 @@
 {
   "2025-09-10": {
-    "name": "Simon Baker",
+    "name": "Simon Baker (Loughborough University)",
     "title": "Expansions in non-integer bases",
     "abstract": "A seemingly innocuous generalisation of binary expansions involves replacing 2 with a parameter q satisfying 1 < q < 2. This change leads to substantially different behaviour. For instance, a Lebesgue typical point has uncountably many expansions in base q. Moreover, for any integer k, there exists q and x such that x has precisely k expansions in base q. This is contrary to the case of binary expansions where every point has a unique expansion apart from a countable set of exceptions with precisely two. In this talk I will discuss some recent results on those bases that admit points with precisely k expansions. This talk will be based upon joint work with George Bender."
   },
   "2025-09-23": {
-    "name": "Selim Ghazouani",
+    "name": "Selim Ghazouani (UCL)",
     "title": "Speculations and problems about parabolic dynamical systems",
     "abstract": "I will make an attempt at defining what a parabolic dynamical system is and will try to explain why, despite their relative unimportance in the modern theory of dynamical systems, they provide one with very entertaining questions to think about. Roughly speaking, a parabolic system it is a dynamical system for which nearby points drift apart at polynomial speed. An enticing feature of such systems is that they are all very different from one another, unlike hyperbolic systems which tend to enjoy fairly universal dynamical properties. The talk will build upon extensive numerical experiments, to illustrate known theorems as well as to invite open problems/conjectures."
   },
@@ -25,7 +25,7 @@
     "abstract": "Fourier restriction is a field of harmonic analysis that establishes the connection between Fourier analysis and the geometric properties of measures. In the last 20 years, much work has been done on the Fourier restriction problem in the fractal setting, and this has helped us understand precisely which conditions we need on the sets for the problem to make sense. Bilinear Fourier restriction estimates arose from the world of PDEs, but are of interest mainly as a means to obtain better estimates for the linear setting. In this talk we will review the history of both the linear and bilinear Fourier restriction problems, and see the first bilinear estimates for fractal measures. Joint work with Itamar Oliveira."
   },
   "2025-10-16": {
-    "name": "Alex Rutar (University of Jv&auml;skyl&auml;, Finland)",
+    "name": "Alex Rutar (University of Jvaskyla;, Finland)",
     "title": "Conformal attractors, inhomogeneous iterated function systems, and branching functions",
     "abstract": "The goal of this talk is to present common themes in the dimension theory of attractors of infinitely-generated self-conformal sets, and attractors of inhomogeneous finite self-conformal IFSs. In both cases, the structure of these attractors at a fixed (small, but finite) scale depends on the structure of some associated set (for infinite IFSs, the set of fixed points of the maps; and for inhomogeneous IFSs, the condensation set) at many scales simultaneously. A useful formalization when working with multi-scale properties of a set is the branching function: a Lipschitz function which encodes the asymptotics of the covering numbers at each fixed scale. I will introduce the theory of branching functions and explain how (modulo the usual technical assumptions) the branching function of the attractor depends only on the branching function of the associated set, as well as the Hausdorff dimension of the attractor. This can be used, for example, to give sharp bounds on lower box dimension which can have surprising consequences: for instance, the box dimension of the attractor exists if and only if either the upper box dimension of the associated set is at most the Hausdorff dimension of the attractor or the box dimension of the associated set exists."
   },
