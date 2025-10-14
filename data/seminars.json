@@ -21,8 +21,13 @@
   },
   "2025-10-14": {
     "name": "Ana de Orellana",
-    "title": "",
-    "abstract": ""
+    "title": "Curvature, transversality, and fractals",
+    "abstract": "Fourier restriction is a field of harmonic analysis that establishes the connection between Fourier analysis and the geometric properties of measures. In the last 20 years, much work has been done on the Fourier restriction problem in the fractal setting, and this has helped us understand precisely which conditions we need on the sets for the problem to make sense. Bilinear Fourier restriction estimates arose from the world of PDEs, but are of interest mainly as a means to obtain better estimates for the linear setting. In this talk we will review the history of both the linear and bilinear Fourier restriction problems, and see the first bilinear estimates for fractal measures. Joint work with Itamar Oliveira."
+  },
+  "2025-10-16": {
+    "name": "Alex Rutar (University of Jv&auml;skyl&auml;, Finland)",
+    "title": "Conformal attractors, inhomogeneous iterated function systems, and branching functions",
+    "abstract": "The goal of this talk is to present common themes in the dimension theory of attractors of infinitely-generated self-conformal sets, and attractors of inhomogeneous finite self-conformal IFSs. In both cases, the structure of these attractors at a fixed (small, but finite) scale depends on the structure of some associated set (for infinite IFSs, the set of fixed points of the maps; and for inhomogeneous IFSs, the condensation set) at many scales simultaneously. A useful formalization when working with multi-scale properties of a set is the branching function: a Lipschitz function which encodes the asymptotics of the covering numbers at each fixed scale. I will introduce the theory of branching functions and explain how (modulo the usual technical assumptions) the branching function of the attractor depends only on the branching function of the associated set, as well as the Hausdorff dimension of the attractor. This can be used, for example, to give sharp bounds on lower box dimension which can have surprising consequences: for instance, the box dimension of the attractor exists if and only if either the upper box dimension of the associated set is at most the Hausdorff dimension of the attractor or the box dimension of the associated set exists."
   },
   "2025-10-28": {
     "name": "Mike Todd",
