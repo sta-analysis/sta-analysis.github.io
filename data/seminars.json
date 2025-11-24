@@ -44,7 +44,7 @@
     "title": "Curves,  combinatorics and the exact overlaps conjecture",
     "abstract": "The exact overlaps conjecture concerning the dimension of self-similar measures has received significant attention over the years and was resolved by Varju in the case of one free parameter (Annals, 2019). Subsequently, Rapaport and Varju worked on the case of two free parameters and reduced the exact overlaps conjecture to a question about the entropy of certain curves in the parameter space (Duke, 2024). We present a partial answer to their question in the case of the IFS (ax, ax+1, ax+t, ax+1+t), corresponding to a convolution of two Bernoulli convolutions, and discuss the kind of combinatorial obstacles that need to be overcome for a full resolution."
   },
-   "2025-11-18 (1pm)": {
+   "2025-11-19": {
     "name": "Jonathan Hickman (University of Edinburgh)",
     "title": "Counting integer points near space curves",
     "abstract": "I will present joint work with Rajula Srivastava (UW Madison) on counting integer points which lie in a neighbourhood of a space curve. Our argument involves elementary Fourier analytic methods, which recover the previous best known result in R3 due to Huang and give new bounds in all higher dimensions. A key ingredient is a variant of a classical oscillatory integral estimate due to Arkhipov-Chubarikov-Karatsuba."
