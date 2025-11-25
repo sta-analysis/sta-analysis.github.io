@@ -244,6 +244,9 @@ a {
 // seminar entries
 h4.sem-date {
   font-weight: normal;
+  em {
+    text-decoration: underline;
+  }
 }
 .sem-entry {
   padding: 10px 0;

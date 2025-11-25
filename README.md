@@ -49,6 +49,8 @@ Both of these templates use the macro file found in `template/macros/format.html
 In order to add new talks, input the appropriate date key in `data/seminars.json`, along with the relevant information as it becomes available.
 Possible keys include `name` (speaker name), `title` (title of the talk), `abstract` (abstract of the talk), and `video` (a URL for a recording of the talk).
 You can use HTML inside the `abstract` entry, which will be rendered appropriately on the site.
+If there is something exceptional and you want to add a note about it, you can use the `exception` key.
+The value will be included in brackets with some emphasis following the seminar date.
 
 > [!TIP]
 > By default, each talk must occur at a unique time.

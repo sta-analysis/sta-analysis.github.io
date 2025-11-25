@@ -1,6 +1,6 @@
 {% macro abstract(day, entry) -%}
 <div class="sem-entry">
-<h4 class="sem-date">{{ day | date(format="%B %e, %Y") }}</h4>
+    <h4 class="sem-date">{{ day | date(format="%B %e, %Y") }}{% if entry.exception %} <em>({{ entry.exception | safe }})</em>{% endif %}</h4>
 <strong>{% if entry.name %}{{ entry.name }}{% else %}TBD{% endif %}</strong>: {% if entry.abstract %}<label for="ab-{{ day }}">{% if entry.title %}{{ entry.title | safe }}{% else %}TBD{% endif %}</label><input type="checkbox" id="ab-{{ day }}"><p>{{ entry.abstract | safe }}</p>{% else %}<em>{% if entry.title %}{{ entry.title | safe }}{% else %}TBD{% endif %}</em>{% endif %}
 {%- if entry.video %}<div class="sem-video">Recording: <a href="{{ entry.video }}">{{ entry.video }}</a></div>{% endif %}</div>
 {%- endmacro %}
