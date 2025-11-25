@@ -46,13 +46,13 @@ The seminar list is generated from `content/seminars/_index.md` with the templat
 The seminar list is generated from `content/archive/_index.md` with the template `templates/archive.html`.
 Both of these templates use the macro file found in `template/macros/format.html`.
 
-> [!TIP]
-> By default, each talk must occur at a unique time.
-> If you want to input multiple talks on the same day, you can disambiguate the talks by also adding the time in ISO 8601 format, like `2025-11-18T17:00:00Z`
-
 In order to add new talks, input the appropriate date key in `data/seminars.json`, along with the relevant information as it becomes available.
 Possible keys include `name` (speaker name), `title` (title of the talk), `abstract` (abstract of the talk), and `video` (a URL for a recording of the talk).
 You can use HTML inside the `abstract` entry, which will be rendered appropriately on the site.
+
+> [!TIP]
+> By default, each talk must occur at a unique time.
+> If you want to input multiple talks on the same day, you can disambiguate the talks by also adding the time in ISO 8601 format, like `2025-11-18T17:00:00Z`
 
 After the semester is done, add the contents of the `data/seminars.json` as a sub-dictionary (with key that is the appropriate semester title) in `data/archive.json`.
 In order to begin the next semester, make sure to update the semester title in `content/seminars/_index.md`.
