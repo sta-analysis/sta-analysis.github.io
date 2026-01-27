@@ -60,11 +60,7 @@
     "title": "Dvoretzky covering problem for general measures on the real line",
     "abstract": "A random covering set is the set of points covered infinitely often by a random collection of balls with radii given by a predetermined sequence of positive real numbers and centers chosen independently at random with respect to a fixed measure. In 1956, in the context of the Lebesgue measure on the unit circle, Aryeh Dvoretzky posed the following question: When does the random covering set fully cover the support of the measure with probability one? This question was answered in 1972 by Shepp, who showed that, for the Lebesgue measure, a necessary and sufficient condition for full covering is given by the divergence of a certain series which only depends on the sequence of radii. Prior to Shepp's work, a necessary condition for full covering was found by Billard in 1965, and a few years after this, Kahane noticed that this condition, now commonly known in the literature as Billard's condition, easily extends to arbitrary Borel probability measures. In this talk, I will discuss an ongoing joint project with Markus Myllyoja, where we show that Billard's condition is also sufficient for full covering for any Borel probability measure on the real line. If time permits, I will end by discussing an application to the Dvoretzky covering problem on self-conformal sets."
   }
-}
-
-
-
-{
+},
   "Spring 2025": {
     "2025-02-04": {
       "name": "Thierry de Pauw",
