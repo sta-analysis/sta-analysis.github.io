@@ -1,63 +1,59 @@
 {
-  "2025-09-10": {
-    "name": "Simon Baker (Loughborough University)",
-    "title": "Expansions in non-integer bases",
-    "abstract": "A seemingly innocuous generalisation of binary expansions involves replacing 2 with a parameter q satisfying 1 < q < 2. This change leads to substantially different behaviour. For instance, a Lebesgue typical point has uncountably many expansions in base q. Moreover, for any integer k, there exists q and x such that x has precisely k expansions in base q. This is contrary to the case of binary expansions where every point has a unique expansion apart from a countable set of exceptions with precisely two. In this talk I will discuss some recent results on those bases that admit points with precisely k expansions. This talk will be based upon joint work with George Bender."
+  "2026-02-03": {
+    "name": "Steve Cantrell",
+    "title": "TBC",
+    "abstract": "TBC"
   },
-  "2025-09-23": {
-    "name": "Selim Ghazouani (UCL)",
-    "title": "Speculations and problems about parabolic dynamical systems",
-    "abstract": "I will make an attempt at defining what a parabolic dynamical system is and will try to explain why, despite their relative unimportance in the modern theory of dynamical systems, they provide one with very entertaining questions to think about. Roughly speaking, a parabolic system it is a dynamical system for which nearby points drift apart at polynomial speed. An enticing feature of such systems is that they are all very different from one another, unlike hyperbolic systems which tend to enjoy fairly universal dynamical properties. The talk will build upon extensive numerical experiments, to illustrate known theorems as well as to invite open problems/conjectures."
+  "2026-02-10": {
+    "name": "Lars Olsen",
+    "title": "TBC",
+    "abstract": "TBC"
   },
-  "2025-09-30": {
-    "name": "Jonathan Fraser",
-    "title": "Dimension interpolation: the story so far",
-    "abstract": "Dimension interpolation is a general approach to understanding and characterising fractal objects.  The idea is to carefully define 'dimension functions' which live in-between familiar notions of fractal dimension, such as Hausdorff dimension, box dimension etc, with the hope of gaining more information than the individual notions provide in isolation.  I will motivate and survey this area by discussing several examples and applications."  
+  "2026-02-17": {
+    "name": "Haocong Song",
+    "title": "TBC"
+    "abstract": "TBC"
   },
-  "2025-10-07": {
-    "name": "Stephen Cantrell",
-    "title": "Understanding geometries through probability and dynamics",
-    "abstract": "I'll explain how it's possible to use tools from dynamical systems to study geometric problems. We'll also discuss how it's possible to use ideas from probability theory (such as Markov chains and random walks) to compare various geometric objects.  I'll present lots of simple motivating examples!"
+  "2026-02-24": {
+    "name": "Lijiang Yang",
+    "title": "TBC",
+    "abstract": "TBC"},
+  "2026-03-10": {
+    "name": "Yuyang Liu",
+    "title": "TBC",
+    "abstract": "TBC" },
+  "2026-03-17": {
+    "name": "Natalia Jurga",
+    "title": "TBC",
+    "abstract": "TBC"
   },
-  "2025-10-14": {
-    "name": "Ana de Orellana",
-    "title": "Curvature, transversality, and fractals",
-    "abstract": "Fourier restriction is a field of harmonic analysis that establishes the connection between Fourier analysis and the geometric properties of measures. In the last 20 years, much work has been done on the Fourier restriction problem in the fractal setting, and this has helped us understand precisely which conditions we need on the sets for the problem to make sense. Bilinear Fourier restriction estimates arose from the world of PDEs, but are of interest mainly as a means to obtain better estimates for the linear setting. In this talk we will review the history of both the linear and bilinear Fourier restriction problems, and see the first bilinear estimates for fractal measures. Joint work with Itamar Oliveira."
+  "2026-03-24": {
+    "name": "Fabian Despinoy",
+    "title": "TBC",
+    "abstract": "TBC"},
+  "2026-03-31": {
+    "name": "Yunlong Xu",
+    "title": "TBC",
+    "abstract": "TBC"
   },
-  "2025-10-16": {
-    "name": "Alex Rutar (University of Jväskylä, Finland)",
-    "exception": "2pm Thursday, Lecture Theatre D",
-    "title": "Conformal attractors, inhomogeneous iterated function systems, and branching functions",
-    "abstract": "The goal of this talk is to present common themes in the dimension theory of attractors of infinitely-generated self-conformal sets, and attractors of inhomogeneous finite self-conformal IFSs. In both cases, the structure of these attractors at a fixed (small, but finite) scale depends on the structure of some associated set (for infinite IFSs, the set of fixed points of the maps; and for inhomogeneous IFSs, the condensation set) at many scales simultaneously. A useful formalization when working with multi-scale properties of a set is the branching function: a Lipschitz function which encodes the asymptotics of the covering numbers at each fixed scale. I will introduce the theory of branching functions and explain how (modulo the usual technical assumptions) the branching function of the attractor depends only on the branching function of the associated set, as well as the Hausdorff dimension of the attractor. This can be used, for example, to give sharp bounds on lower box dimension which can have surprising consequences: for instance, the box dimension of the attractor exists if and only if either the upper box dimension of the associated set is at most the Hausdorff dimension of the attractor or the box dimension of the associated set exists."
+  "2026-04-07": {
+    "name": "Tianyi)",
+    "title": "TBC",
+    "abstract": "TBC"
   },
-  "2025-10-28": {
-    "name": "Mike Todd",
-    "title": "Birkhoff spectrum for nonintegrable observables",
-    "abstract": "Given a dynamical system and some observable, consider the dimension of the sets of points with the same Birkhoff averages with respect to that observable: the Birkhoff spectrum.  When the observable is unbounded, the spectrum can behave in very different ways to the classical, bounded, case; for example the graph of the spectrum can be asymptotic to a maximum value, rather than reaching it and then decreasing.  I will present joint work with Iommi and Zhao considering a class of such cases and computing the form of this asymptotic limit, hopefully giving some ideas of thermodynamic formalism tools we use."
+  "2026-04-14": {
+    "name": "Luke Derry",
+    "title": "TBC",
+    "abstract": "TBC"
   },
-  "2025-11-04": {
-    "name": "Saeed Shaabanian",
-    "title": "Covering time for Countable Markov Shifts",
-    "abstract": "Suppose we have a countable Markov shift equipped with a Gibbs measure. If the orbit of almost every point in this system is dense, a natural question arises regarding the rate at which these orbits become dense. For interval maps, this rate was obtained by N. Jurga and M. Todd. In this talk, we discuss how to estimate the covering rate for symbolic dynamics, how different metrics affect this rate, and, as it turns out, how this rate is related to the Minkowski dimension of the system."
-  },
-  "2025-11-11": {
-    "name": "Lauritz Streck (University of Edinburgh)",
-    "title": "Curves, combinatorics and the exact overlaps conjecture",
-    "abstract": "The exact overlaps conjecture concerning the dimension of self-similar measures has received significant attention over the years and was resolved by Varju in the case of one free parameter (Annals, 2019). Subsequently, Rapaport and Varju worked on the case of two free parameters and reduced the exact overlaps conjecture to a question about the entropy of certain curves in the parameter space (Duke, 2024). We present a partial answer to their question in the case of the IFS (ax, ax+1, ax+t, ax+1+t), corresponding to a convolution of two Bernoulli convolutions, and discuss the kind of combinatorial obstacles that need to be overcome for a full resolution."
-  },
-  "2025-11-18T16:00:00Z": {
-    "name": "Firdavs Rakhmonov",
-    "title": "Averages of the discrete Fourier transform, Salem sets, and applications",
-    "abstract": "The discrete Fourier transform (DFT) has proven to be a fundamental tool for solving combinatorial and geometric problems in discrete settings. In general, sets whose DFTs admit uniform bounds are easier to analyze, but obtaining such bounds is sometimes impossible, even when many points satisfy strong pointwise estimates. One can replace the need for uniform bounds with L^p averages of the DFT. It turns out that this new approach has several interesting applications to the Fourier restriction problem and the study of orthogonal projections. This talk is based on a series of works with Jon Fraser."
-  },
-   "2025-11-18T17:00:00Z": {
-    "name": "Jonathan Hickman (University of Edinburgh)",
-    "title": "Counting integer points near space curves",
-    "abstract": "I will present joint work with Rajula Srivastava (UW Madison) on counting integer points which lie in a neighbourhood of a space curve. Our argument involves elementary Fourier analytic methods, which recover the previous best known result in R3 due to Huang and give new bounds in all higher dimensions. A key ingredient is a variant of a classical oscillatory integral estimate due to Arkhipov-Chubarikov-Karatsuba."
-  },
-  "2025-11-25": {
-    "name": "Roope Anttila",
-    "title": "Dvoretzky covering problem for general measures on the real line",
-    "abstract": "A random covering set is the set of points covered infinitely often by a random collection of balls with radii given by a predetermined sequence of positive real numbers and centers chosen independently at random with respect to a fixed measure. In 1956, in the context of the Lebesgue measure on the unit circle, Aryeh Dvoretzky posed the following question: When does the random covering set fully cover the support of the measure with probability one? This question was answered in 1972 by Shepp, who showed that, for the Lebesgue measure, a necessary and sufficient condition for full covering is given by the divergence of a certain series which only depends on the sequence of radii. Prior to Shepp's work, a necessary condition for full covering was found by Billard in 1965, and a few years after this, Kahane noticed that this condition, now commonly known in the literature as Billard's condition, easily extends to arbitrary Borel probability measures. In this talk, I will discuss an ongoing joint project with Markus Myllyoja, where we show that Billard's condition is also sufficient for full covering for any Borel probability measure on the real line. If time permits, I will end by discussing an application to the Dvoretzky covering problem on self-conformal sets."
+   "2026-04-21": {
+    "name": "Sascha Troscheit (Uppsala University)",
+    "title": "TBC",
+    "abstract": "TBC"
+   },
+  "2026-04-28": {
+    "name": "Kenneth Falconer",
+    "title": "TBC",
+    "abstract": "TBC"
   }
 }
