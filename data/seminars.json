@@ -6,9 +6,10 @@
   },
   "2026-02-10": {
     "name": "Lars Olsen",
-    "The Baire Hierarchy, multifractal decomposition sets and Π<sub>γ</sub><sup>0</sup>-completeness",
-    "abstract": "This talk will discuss the position of the so-called \"multifractal decomposition sets\" in the Baire Hierarchy. In particular, we will prove that \"multifractal decomposition sets\" are the building blocks from which all other &Pi;<sub>&gamma;</sub><sup>0</sup>-sets can be constructed; more, precisely, \"multifractal decomposition sets\" are &Pi;<sub>&gamma;</sub><sup>0</sup>-complete.\n\nAs an application we find the position of the classical Eggleston-Besicovitch set in the Baire Hierarchy."
-  },
+    "title": "The Baire Hierarchy, multifractal decomposition sets and Π<sub>γ</sub><sup>0</sup>-completeness",
+      "abstract": "This talk will discuss the position of the so-called \"multifractal decomposition sets\" in the Baire Hierarchy. In particular, we will prove that \"multifractal decomposition sets\" are the building blocks from which all other &Pi;<sub>&gamma;</sub><sup>0</sup>-sets can be constructed; more, precisely, \"multifractal decomposition sets\" are &Pi;<sub>&gamma;</sub><sup>0</sup>-complete.\n\nAs an application we find the position of the classical Eggleston-Besicovitch set in the Baire Hierarchy.",
+      "video": ""
+    },
   " 2026-02-17": {
     "name": "Haocong Song",
     "title": "TBC",
