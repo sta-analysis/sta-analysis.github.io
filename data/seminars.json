@@ -1,4 +1,9 @@
 {
+  "2026-01-13": {
+    "name": "Henna Koivusalo",
+    "title": "On cut and project sets and substitutions",
+    "abstract": "Cut and project sets are obtained by taking an irrational slice through a lattice and projecting it to a lower dimensional subspace. This usually results in a set which has no translational period, even though it retains a lot of the regularity of the lattice. As such, cut and project sets are one of the archetypical examples of point sets featuring aperiodic order. The other canonical method for generating aperiodic order is via substitutions; point sets generated from an inflation-redecoration process. Many classical examples of aperiodic order, e.g. the famous Penrose tiling, have a description from both methods. It is hence fundamental to the theory of aperiodically ordered point sets to answer the question: What property characterises those cut and project sets which have a substitution description. In this talk I will give an overview of the definition and basic properties of cut and project sets, discuss classical examples of aperiodic order, define the notion of `pattern with a substitution rule', and finally come to a new result of mine, answering the question above. This work is joint with Jamie Walton (Nottingham) and Edmund Harriss (Arkansas)."
+  },
   "2026-02-03": {
     "name": "Steve Cantrell",
     "title": "Regularity of the pressure for quasi-morphisms on subshifts",
