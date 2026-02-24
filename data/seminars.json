@@ -23,13 +23,13 @@
   "2026-02-24T14:00:00Z": {
     "name": "Kevin Hughes (Edinburgh Napier University)",
     "exception": "2pm, Lecture Theatre D",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "Estimates for the plunge region of limiting operators",
+    "abstract": "A version of the uncertainty principle tells us that a nonzero function on Euclidean space cannot be compactly supported while its Fourier transform is compactly supported. This does not align with our perception of communications where signals are often treated as being localized in both physical space and frequency space. Trying to understand this, Landau, Pollack, Slepian and Widom studied the asymptotic eigenvalue distribution of time-frequency limiting operators. Their operators have eigenvalues in the interval (0,1) with the properties that 1) there are a predictable number of eigenvalues close to 1, 2) almost all eigenvalues decay quickly to 0 and 3) there is a "plunge region" between the first two phenomena where the eigenvalues "plunge" down towards 0. I will survey some recent work with and by A. Israel (UT Austin) and A. Mayeli (CUNY) on estimating the number of eigenvalues in the plunge region for analogous limiting operators in higher dimensions. See arXiv:1502.04404, arXiv:2301.09616, arXiv:2301.11685, arXiv:2403.13092, and arXiv:2601.21224."
   },
   "2026-02-24T15:00:00Z": {
     "name": "Lijiang Yang",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "Fourier Dimension and Kakeya-Type Sets in the Plane",
+    "abstract": "The Fourier dimension of a Borel set is defined through the decay rate of the Fourier transforms of measures supported on the set. In this talk, I will discuss several basic properties of the Fourier dimension and compute it for a number of examples. In particular, I will show that every Kakeya set in the plane has Fourier dimension 2. We will also study the range of possible Fourier dimensions for certain restricted Kakeya-type sets. More precisely, suppose the direction set has Hausdorff dimension at least t, and in each such direction we consider a subset of a unit line segment whose Fourier dimension is at least s. I will show that the Fourier dimension of such a set is bounded below by 2st/(s+2t) and may be as small as min{s,2t}. Joint work with Jon."
   },
   "2026-03-10": {
     "name": "Yuyang Liu",
