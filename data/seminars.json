@@ -32,7 +32,7 @@
     "abstract": "The Fourier dimension of a Borel set is defined through the decay rate of the Fourier transforms of measures supported on the set. In this talk, I will discuss several basic properties of the Fourier dimension and compute it for a number of examples. In particular, I will show that every Kakeya set in the plane has Fourier dimension 2. We will also study the range of possible Fourier dimensions for certain restricted Kakeya-type sets. More precisely, suppose the direction set has Hausdorff dimension at least t, and in each such direction we consider a subset of a unit line segment whose Fourier dimension is at least s. I will show that the Fourier dimension of such a set is bounded below by 2st/(s+2t) and may be as small as min{s,2t}. Joint work with Jon."
   },
   "2026-03-10": {
-    "name": "Yuyang Liu",
+    "name": "Fabian Despinoy",
     "title": "TBC",
     "abstract": "TBC"
   },
@@ -42,7 +42,7 @@
     "abstract": "TBC"
   },
   "2026-03-24": {
-    "name": "Fabian Despinoy",
+    "name": "Yuyang Liu",
     "title": "TBC",
     "abstract": "TBC"
   },
