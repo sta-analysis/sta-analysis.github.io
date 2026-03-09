@@ -33,13 +33,13 @@
   },
   "2026-03-10": {
     "name": "Fabian Despinoy",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "On Measures of Maximal Dimension ",
+    "abstract": " The dimension of a fractal can often be understood by considering the measures that the set supports. We will examine some classical dimension results in the field, moving through similarity, non-linear and then to self-affine iterated function systems while exploring the appearances of measures of maximal dimension via thermodynamic formalism. We will then move to the real projective line and after a brief introduction into projective iterated function systems, a short summary-proof of the existence of one of these measures will be provided."
   },
   "2026-03-17": {
     "name": "Natalia Jurga",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "Exceptional sets in parameter spaces of dynamical systems",
+    "abstract": "Many dynamical systems arise naturally as parametrised families. One can then study the associated parameter space and ask how qualitative properties of the dynamics are reflected geometrically within it. In this talk I will discuss three examples where classification problems lead to intricate subsets of parameter space: the Mandelbrot set in complex dynamics, the Rauzy gasket arising from interval exchange transformations, and a tiling structure associated with the topological classification of a family of self-similar sets. Although these examples arise in very different settings, they exhibit striking parallels in how parameter spaces organise qualitative changes in the underlying dynamics."
   },
   "2026-03-24": {
     "name": "Yuyang Liu",
