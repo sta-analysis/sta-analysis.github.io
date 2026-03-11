@@ -75,7 +75,9 @@
   },
   "feng.t": {
     "name": "Tianyi Feng",
-    "description": "I am interested in dimension theory, dynamical systems and their connections to fractal geometry."
+    "description": "I am interested in dimension theory, dynamical systems and their connections to fractal geometry.",
+    "url": "https://feng-tianyi.github.io/",
+    "year": "2024"
   },
   "fraser.j": {
     "description": "My research interests centre on fractal geometry and its connections with other areas of mathematics, including: geometric measure theory, dynamical systems, Fourier analysis, hyperbolic geometry, and combinatorics. I often work with dynamically defined fractals, including self-affine sets and Kleinian limit sets, and am interested in several geometric problems related to projections.",
