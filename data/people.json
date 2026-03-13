@@ -26,7 +26,9 @@
     "year": "2020"
   },
   "cantrell.s": {
-    "name": "Stephen Cantrell"
+    "name": "Stephen Cantrell",
+    "url": "https://sjcantrell.github.io/",
+    "description": "My research interests lie in the intersection between ergodic theory and geometry. I use a variety of techniques from different areas of maths, including symbolic dynamics, thermodynamic formalism, analytic number theory and combinatorics to tackle problems coming from geometry. The geometrical settings I consider include geometric group theory, the study of Anosov representations as well as flows on manifolds. I am particularly interested in rigidity results (i.e. results that classify geometric structures) and counting problems."
   },
   "chen.h": {
     "name": "Haipeng Chen",
