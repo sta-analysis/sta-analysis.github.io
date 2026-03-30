@@ -49,8 +49,8 @@
   "2026-03-31T14:00:00Z": {
     "name": "José Alves (Porto University)",
     "exception": "2pm, Lecture Theatre D",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "A Smooth Path Through a Rough Landscape",
+    "abstract": "We address the linear response problem for Bernoulli convolutions across the entire parameter range, including both absolutely continuous and singular invariant measures. Our approach relies on a geometric representation via a fat baker map, viewed as a skew-product system with contracting fibres. We introduce a  sectional transfer operator that acts on sections of  probability measures on the fibres and show that it is a contraction in the Wasserstein-1 distance. This yields the existence and uniqueness of a fixed point corresponding to the physical invariant distribution. We further prove a smooth dependence of this fixed point on the parameter in a suitable Banach space, establishing the linear response uniformly across the regular and singular regimes. Our approach also provides a linear response for solenoidal attractors with intermittency. Joint work with Wael Bahsoun."
   },
   "2026-03-31T15:00:00Z": {
     "name": "Tianyi Feng",
