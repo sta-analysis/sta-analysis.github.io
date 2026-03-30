@@ -70,8 +70,8 @@
   "2026-04-21T14:00:00Z": {
     "name": "Markus Myllyoja (University of Oulu)",
     "exception": "2pm, Lecture Theatre B",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "Hitting probabilities of random covering sets and the Ekström–Persson conjecture",
+    "abstract": "We consider the Ekström–Persson conjecture regarding the Hausdorff dimension of random covering sets formed by balls and driven by general probability measures. The conjecture relates the dimension of typical random covering sets to multifractal properties of the driving probability measure, and it has been previously shown to hold when the balls forming the random covering sets are not too large. In this talk, we focus on the remaining case where the balls are not not too large, and we show that the conjectured value is always a lower bound for the dimension. We also demonstrate that the conjecture is not true in general, and that a previously established upper bound can in fact be attained. The lower bound for the dimension is achieved by studying the so-called hitting probability problem, where the objective is to decide whether or not a given (compact) deterministic set intersects typical random covering sets. The talk is based on a joint work with Esa Järvenpää and Stéphane Seuret."
    },
    "2026-04-21T15:00:00Z": {
     "name": "Sascha Troscheit (Uppsala University)",
