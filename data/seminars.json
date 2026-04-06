@@ -57,15 +57,10 @@
     "title": "The Assouad dimension and spectrum of Furstenberg-type sets",
     "abstract": "For s in [0,1] and t in [0,2], an (s,t)-Furstenberg set X is a subset of the plane where there exists a family of lines of Hausdorff dimension at least t, such that the intersection between every line in the family and X is of Hausdorff dimension at least s. An interesting question to consider is how small the set X can be. I will give an overview of the problem and discuss some variants,  particularly concerning the Assouad dimension and spectrum."
   },
-  "2026-04-07": {
-    "name": "Kenneth Falconer",
-    "title": "TBC",
-    "abstract": "TBC"
-  },
   "2026-04-14": {
-    "name": "Luke Derry",
-    "title": "TBC",
-    "abstract": "TBC"
+    "name": "Kenneth Falconer",
+    "title": "Symmetry and enumeration of self-similar fractals",
+    "abstract": "After a short introduction to IFS and self-similar fractals we will use a little group theory to count the number of self-similar sets in certain classes."
   },
   "2026-04-21T14:00:00Z": {
     "name": "Markus Myllyoja (University of Oulu)",
