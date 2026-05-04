@@ -75,7 +75,7 @@
    },
   "2026-05-05": {
     "name": "Yunlong Xu",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "Dimensions of orbital sets in inhomogeneous parabolic carpets",
+    "abstract": "Consider a parabolic iterated function system acting on the unit interval or the unit square and let C be a nonempty compact subset of the unit interval or the unit square. We investigate the upper box dimensions of the orbital set of C. In the inhomogeneous parabolic Cantor set case, it will be the maximum of the upper box dimension of the attractor and the upper box dimension of C under some natural assumptions. In the inhomogeneous parabolic carpet case, it will depend on the minimal roots of certain inhomogeneous pressure functions and the upper box dimension of C. This is based on joint work with Jonathan Fraser."
   }
 }
