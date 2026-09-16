@@ -35,11 +35,6 @@
     "url": "https://sjcantrell.github.io/",
     "description": "My research interests lie in the intersection between ergodic theory and geometry. I use a variety of techniques from different areas of maths, including symbolic dynamics, thermodynamic formalism, analytic number theory and combinatorics to tackle problems coming from geometry. The geometrical settings I consider include geometric group theory, the study of Anosov representations as well as flows on manifolds. I am particularly interested in rigidity results (i.e. results that classify geometric structures) and counting problems."
   },
-  "chen.c": {
-    "name": "Haipeng (Clarence) Chen",
-    "url": "https://sites.google.com/view/hpchen0703",
-    "year": "2026"
-  },
   "chen.h": {
     "name": "Haipeng Chen",
     "url": "https://sites.google.com/view/hpchen0703",
@@ -98,10 +93,6 @@
     "title": "Head of Group",
     "url": "https://jonathan-fraser.github.io/homepage/",
     "year": "2013"
-  },
-  "hall.n": {
-    "name": "Nathaniel Hall",
-    "year": "2026"
   },
   "hare.k": {
     "name": "Kathryn Hare",
@@ -294,19 +285,11 @@
     "name": "Jeremy Tyson",
     "url": "https://publish.illinois.edu/jeremy-tyson/",
     "year": "2024"
-  },
-  "vlietvan.j": {
-    "name": "Johannes van Vliet",
-    "year": "2026"
   }, 
   "wang.b": {
     "name": "Binqian Wang",
     "year": "2026"
-  }, 
-  "witde.c": {
-    "name": "Corey de Wit",
-    "year": "2026"
-  },  
+  },   
   "werner.i": {
     "name": "Ivan Werner",
     "year": "2004"
