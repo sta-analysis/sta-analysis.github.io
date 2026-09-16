@@ -25,10 +25,20 @@
     "url": "https://stuartburrell.github.io/",
     "year": "2020"
   },
+  "bushling.r": {
+    "name": "Ryan Bushling",
+    "url": "https://sites.google.com/view/rbushling/home",
+    "year": "2026"
+  },
   "cantrell.s": {
     "name": "Stephen Cantrell",
     "url": "https://sjcantrell.github.io/",
     "description": "My research interests lie in the intersection between ergodic theory and geometry. I use a variety of techniques from different areas of maths, including symbolic dynamics, thermodynamic formalism, analytic number theory and combinatorics to tackle problems coming from geometry. The geometrical settings I consider include geometric group theory, the study of Anosov representations as well as flows on manifolds. I am particularly interested in rigidity results (i.e. results that classify geometric structures) and counting problems."
+  },
+  "chen.c": {
+    "name": "Haipeng (Clarence) Chen",
+    "url": "https://sites.google.com/view/hpchen0703/",
+    "year": "2019-2020"
   },
   "chen.h": {
     "name": "Haipeng Chen",
@@ -88,6 +98,10 @@
     "title": "Head of Group",
     "url": "https://jonathan-fraser.github.io/homepage/",
     "year": "2013"
+  },
+  "hall.n": {
+    "name": "Nathaniel Hall",
+    "year": "2026"
   },
   "hare.k": {
     "name": "Kathryn Hare",
@@ -193,6 +207,10 @@
     "url": "https://saramunday.wordpress.com/2015/05/30/hello-world/",
     "year": "2011"
   },
+  "myllyoja.m": {
+    "name": "Markus Myllyoja",
+    "year": "2026"
+  },
   "olsen.l": {
     "description": "My research covers all aspects of fractal and multifractal geometry and geometric measure theory, including work on self-affine sets and measures, fractals defined by digits of numbers, typical structure of fractal sets and measures, etc.",
     "name": "Lars Olsen",
@@ -277,10 +295,18 @@
     "url": "https://publish.illinois.edu/jeremy-tyson/",
     "year": "2024"
   },
+  "vlietvan.j": {
+    "name": "Johannes van Vliet",
+    "year": "2026"
+  }, 
   "wang.b": {
     "name": "Binqian Wang",
     "year": "2026"
-  },    
+  }, 
+  "witde.c": {
+    "name": "Corey de Wit",
+    "year": "2026"
+  },  
   "werner.i": {
     "name": "Ivan Werner",
     "year": "2004"
