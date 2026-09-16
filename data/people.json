@@ -185,6 +185,10 @@
     "name": "Lining Liu",
     "year": "2010"
   },
+    "liu.p": {
+    "name": "Peizhe Liu",
+    "year": "2026"
+  },
   "liu.y": {
     "name": "Yuyang Liu",
     "description": "I am interested in curvature measure, multifractal analysis and probability theory."
@@ -224,10 +228,6 @@
   "orzechowski.m": {
     "name": "Mark Orzechowski",
     "year": "1997"
-  },
-  "liu.p": {
-    "name": "Peizhe Liu",
-    "year": "2026"
   },
   "phillips.g": {
     "name": "George Phillips",
