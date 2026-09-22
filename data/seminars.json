@@ -1,8 +1,8 @@
 {
   "2026-09-22": {
     "name": "Steve Cantrell",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "A moduli space of quasi-morphisms on subshifts of finite type",
+    "abstract": "We introduce and discuss a moduli space of functions (quasi-morphisms) on subshifts of finite type which we equip with a metric that measures the `distortion' required to move from one function to another. We’ll discuss the fundamental properties of this space and explain how pressure curves form geodesics (locally length minimising paths) connecting quasi-morphisms."
   },
   "2026-09-29": {
     "name": "Antti Käenmäki",
