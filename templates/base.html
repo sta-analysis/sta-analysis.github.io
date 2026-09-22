@@ -1,4 +1,4 @@
-{%- if section.title and section.description %}
+{%- if section and section.title and section.description %}
 {%- set ltitle = section.title %}
 {%- set description = section.description %}
 {%- else %}
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width">
 
     <meta property="og:title" content="{{ ltitle }} - {{ config.extra.title }}">
-    <meta property="og:description" content="{{ description }}">
+    <meta property="og:description" content="{% block description %}{{ description }}{% endblock %}">
 
     <link rel="stylesheet" type="text/css" href="/style.css">
     <link rel="icon" href="/icon.svg" type="image/svg+xml">
@@ -36,7 +36,7 @@
         <ul>
           {%- set links = load_data(path="data/links.json") %}
           {%- for obj in links.nav -%}
-          {%- if not section.title %}{% set cur = false %}
+          {%- if not section or not section.title %}{% set cur = false %}
           {%- elif section.title  == obj.name %}{% set cur = true %}
           {%- else %}{% set cur = false %}{% endif %}
           <li{% if cur %} class="active"{% endif %}><a href="{{ obj.url | safe }}">{{ obj.name | safe }}</a></li>

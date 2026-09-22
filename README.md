@@ -17,6 +17,7 @@ If the repository already exists, change to the directory and `git pull`.
 
 ## Building the site
 This site is built using the [Zola static site generator](https://www.getzola.org).
+Use Zola **0.23.6**, matching the version used by the deployment workflow.
 In order to preview the site, run `zola serve` from the root of the directory.
 In order to build a local version of the site, run `zola build`.
 Here, the `public` directory will contain the output site.
@@ -34,7 +35,7 @@ There are 5 lists:
 - *visitors* (for recent visitors, which is rendered with the name and dates of visit)
 
 This page is generated from `content/members/_index.md` with the template `templates/members.html`.
-This template uses the macro file found in `template/macros/format.html`.
+This template uses the components defined in `templates/components/format.html`.
 
 In order to add new members and change the existing state, simply modify the `data/members.json`.
 Ensure that the corresponding key can be found in the `data/people.json` file!
@@ -44,7 +45,7 @@ There are two seminar lists: the current seminars, and the seminar archive.
 The `data/seminars.json` contains the list of seminars for the current semester, and the `data/archive.json` contains the historic lists of seminars.
 The seminar list is generated from `content/seminars/_index.md` with the template `templates/seminars.html`.
 The seminar list is generated from `content/archive/_index.md` with the template `templates/archive.html`.
-Both of these templates use the macro file found in `template/macros/format.html`.
+Both of these templates use the components defined in `templates/components/format.html`.
 
 In order to add new talks, input the appropriate date key in `data/seminars.json`, along with the relevant information as it becomes available.
 Possible keys include `name` (speaker name), `title` (title of the talk), `abstract` (abstract of the talk), and `video` (a URL for a recording of the talk).

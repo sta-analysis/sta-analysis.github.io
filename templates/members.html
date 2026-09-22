@@ -1,27 +1,26 @@
 {% extends "base.html" %}
-{%- import "macros/format.html" as fmt -%}
 {% block title %}{{ section.title }}{% endblock %}
 {% block description %}{{ section.description }}{% endblock %}
 {% block content %}
 {{ section.content | safe }}
 {%- set members = load_data(path="data/members.json") -%}
 <h3>Core Faculty</h3>
-{{ fmt::member(person_list=members.core, long=true, sort=true) }}
+{{<fmt.member person_list={members.core} long={true} sort={true} />}}
 
 <h3>Further Staff</h3>
-{{ fmt::member(person_list=members.staff, long=true, sort=true) }}
+{{<fmt.member person_list={members.staff} long={true} sort={true} />}}
 
 
 <h3>PhD Students</h3>
-{{ fmt::member(person_list=members.phd, long=true, sort=true) }}
+{{<fmt.member person_list={members.phd} long={true} sort={true} />}}
 
 <h3>Recent Staff</h3>
-{{ fmt::member(person_list=members.rstaff, long=false, year = true) }}
+{{<fmt.member person_list={members.rstaff} long={false} year={true} />}}
 
 <h3>Recent PhD Students</h3>
-{{ fmt::member(person_list=members.rphd, long=false, year=true) }}
+{{<fmt.member person_list={members.rphd} long={false} year={true} />}}
 
 <h3>Recent Visitors</h3>
-{{ fmt::member(person_list=members.visitors, long=false, year=true) }}
+{{<fmt.member person_list={members.visitors} long={false} year={true} />}}
 
 {% endblock %}

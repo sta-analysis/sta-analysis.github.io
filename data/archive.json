@@ -349,12 +349,12 @@
       "title": "Prime counting formulas for Graph-Directed Self-Conformal Iterated Function Systems",
       "abstract": "Prime counting formulas count the number of appropriate defined \"prime elements\" less than a given number, e.g. the number of prime numbers less than x or the number of prime geodesics whose length is less than x. We will develop a general theory of fractal and multifractal prime counting formulas for Graph-Directed Self-Conformal Iterated Function Systems. Several applications are presented, e.g. we will find explicit formulas for the q-th moment of self-conformal measures satisfying the Open Set Condition, and we will obtain a multifractal prime geodesic counting formula for classical Fuchsian Schottky groups."
     },
-    "2023-11-7": {
+    "2023-11-07": {
       "name": "Boyuan Zhao",
       "title": "The Collet-Eckmann condition for unimodal maps and its implications",
       "abstract": "Many aspects of the theory of uniformly hyperbolic interval maps are well-known, e.g. the existence of an acip and the rate of decay of correlations. For non-uniformly hyperbolic maps, similar results generally require some uniform expansivity on a non-trivial set. For certain types of unimodal maps, the Collet-Eckmann condition turns out to be a key feature that is able to characterise a large class of desired properties, which we discuss here."
     },
-    "2023-11-7": {
+    "2023-11-07": {
       "name": "Jeremy Tyson",
       "title": "Dimension versus regularity for graphs",
       "abstract": ""
