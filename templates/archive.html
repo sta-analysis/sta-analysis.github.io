@@ -4,12 +4,20 @@
 {% block content %}
 {{ section.content | safe }}
 {%- set archive_list = load_data(path="data/archive.json") -%}
-{%- for semester, archive in archive_list %}
+{# zola does weird sorting by default #}
+{%- set seasons = {"Spring": 1, "Summer": 2, "Autumn": 3, "Fall": 3} -%}
+{%- set semesters = [] -%}
+{%- for semester in archive_list | keys -%}
+{%- set parts = semester | split(pat=" ") -%}
+{%- set_global semesters = [...semesters, {"name": semester, "order": parts[1] ~ "-" ~ seasons[parts[0]]}] -%}
+{%- endfor -%}
+{%- for semester in semesters | sort(attribute="order") | reverse %}
+{%- set archive = archive_list[semester.name] %}
 
 
-<h3>{{ semester }}</h3>{% for day, entry in archive %}
+<h3>{{ semester.name }}</h3>{% for day in archive | keys | sort %}
 
-{{<fmt.abstract day={day} entry={entry} />}}
+{{<fmt.abstract day={day} entry={archive[day]} />}}
 {% endfor -%}
 {%- endfor %}
 {% endblock %}
