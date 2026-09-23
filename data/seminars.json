@@ -6,8 +6,8 @@
   },
   "2026-09-29": {
     "name": "Antti Käenmäki",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "Exponential separation of self-conformal systems",
+    "abstract": "Exponential separation rules out a dimension drop for planar self-conformal sets and measures, by a recent theorem of Feng and Rapaport, but it is hard to verify for a concrete non-linear system. Bárány, Kolossváry, and Troscheit made it checkable on the real line through a dual iterated function system; the quantity their condition separates is the pre-Schwarzian derivative. I will explain how this carries the construction to the plane and one level higher, to the Schwarzian, and how the resulting conditions are C^2-open and dense, making the absence of a dimension drop C^2-generic in the plane."
   },
   "2026-10-06": {
     "name": "Markus Myllyoja",
