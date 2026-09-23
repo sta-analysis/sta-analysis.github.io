@@ -18,4 +18,4 @@ The group's interests include:
 - Differential Equations on Fractals
 
 ### Current Members
-<img loading="lazy" src="/analysis-group.jpg" alt="Members of the Analysis Group">
+<img loading="lazy" src="/2026.jpg" alt="Members of the Analysis Group">
