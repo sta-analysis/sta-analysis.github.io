@@ -1,33 +1,33 @@
 {
-    "93-2025":{
+    "984-2025":{
         "pic": "/2025.jpg",
         "description": "The Research Group in 2025"
     },
-    "94-2024":{
+    "985-2024":{
         "pic": "/2024.jpg",
         "description": "The Research Group in 2024"
     },
-    "95-2023": {
+    "986-2023": {
         "pic": "/2023.jpg",
         "description": "The Research Group in 2023"
     },
-    "96-Conference": {
+    "987-Conference": {
         "pic": "/turing23.jpg",
         "description": "A photo featuring several alumni of the Research Group in 2023"
     },
-    "97-2021": {
+    "988-2021": {
         "pic": "/2021.jpg",
         "description": "The Research Group in 2021"
     },
-    "98-2019": {
+    "989-2019": {
         "pic": "/2019.jpg",
         "description": "The Research Group in 2019"
     },
-    "99-2018": {
+    "990-2018": {
         "pic": "/2018.jpg",
         "description": "The Research Group in 2018"
     },
-    "100-kenneth97": {
+    "991-kenneth97": {
         "pic": "/kenneth97.jpg",
         "description": "Professor Kenneth Falconer with Mark Orzechowski, the first PhD student from the Group, in 1997" 
     }
