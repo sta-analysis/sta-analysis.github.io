@@ -10,12 +10,12 @@
     "abstract": "Exponential separation rules out a dimension drop for planar self-conformal sets and measures, by a recent theorem of Feng and Rapaport, but it is hard to verify for a concrete non-linear system. Bárány, Kolossváry, and Troscheit made it checkable on the real line through a dual iterated function system; the quantity their condition separates is the pre-Schwarzian derivative. I will explain how this carries the construction to the plane and one level higher, to the Schwarzian, and how the resulting conditions are C^2-open and dense, making the absence of a dimension drop C^2-generic in the plane."
   },
   "2026-10-06": {
-    "name": "Markus Myllyoja",
-    "title": "TBC",
-      "abstract": "TBC"
+    "name": "Jonathan Fraser",
+    "title": "Quantitative flatness and obstructions in Fourier analysis",
+      "abstract": "If a measure in Euclidean space has ‘flat parts’, for example, anisotropic cuboids which contain a lot of mass, then this is an ‘enemy’ of Fourier decay.  I will explore this idea by trying to derive explicit upper bounds for the Fourier dimension of a measure in terms of quantitative notions of flatness. I will also discuss several applications of these ideas."
     },
     "2026-10-13": {
-    "name": "Jonathan Fraser",
+    "name": "Markus Myllyoja",
     "title": "TBC",
     "abstract": "TBC"
     },
