@@ -16,8 +16,8 @@
     },
     "2026-10-13": {
     "name": "Markus Myllyoja",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "Visible parts and projections of the affine fractal percolation",
+    "abstract": "In this talk I will discuss the visible parts and orthogonal projections of the affine fractal percolation. For all directions apart from the y-axis, typical visible parts and orthogonal projections behave in a manner one might expect, and their dimension equals the minimum of one and dimension of the affine percolation. For the non-expectional case of the y-axis, the visible part exhibits more complicated behaviour and I will discuss its Hausdorff and box dimensions. During the talk, I may also mention that the projection contains an interval to all directions except the y-axis provided that the dimension of the percolation is larger than one. Based on joint work with Eeva Kuure and Aleksi Pyörälä."
     },
   "2026-10-20": {
     "name": "Firdavs Rahkmonov",
