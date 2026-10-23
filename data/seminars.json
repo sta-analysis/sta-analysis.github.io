@@ -24,8 +24,13 @@
     "title": "Majorization and additive tuples in Z_2^n",
     "abstract": "Majorization provides a way to compare how “spread out” the entries of two vectors are. It has important applications in additive combinatorics, with classical results by Hardy, Littlewood and Pólya for the integers and by Lev for cyclic groups of prime order. In this talk, I will establish a powerful majorization theorem for the hypercube Z_2^n and explain the compression method behind its proof. As an application, we determine the maximum number of solutions to a_1+...+a_k=0, where a_i are in A_i and A_1,...,A_k are subsets of the hypercube with prescribed sizes. We also establish the corresponding minimum and characterize all extremal sets when these sets are identical and k is odd. For k=3, this counts Schur triples, and we recover a theorem of Samotij and Sudakov. Finally, I will discuss a related convexity inequality and an analogue of Pollard’s theorem for the hypercube that strengthens and extends a result of Bollobás and Leader. Based on joint work with Sophie Huczynska and Chi Hoi Yip."
   },
-  "2026-10-27": {
+  "2026-10-27T15:00:00Z": {
     "name": "Saeed Shabaanian",
+    "title": "Almost sure behaviour of the longest common substring",
+    "abstract": "Suppose you toss a fair coin n times. How long is the longest run of heads? Erdős and Rényi studied its asymptotic growth in 1970. A natural extension in symbolic dynamics concerns the asymptotic behaviour of the longest common substring between and within sequences. In this talk, we take this question a step further. Given a sequence of thresholds (k_n), we ask whether the length of the longest common substring exceeds (k_n) for all sufficiently large n, or for infinitely many n, almost surely. More precisely, given a countable Markov shift and a positive integer-valued map κ(n). For each n, we consider the set of all pairs of distinct points whose longest common substring within the first n symbols in the first point and the first κ(n) symbols in the second point has length greater than k_n. We give conditions on the thresholds under which the liminf and limsup of these sets have measure zero or one."
+  },
+  "2026-10-27T15:30:00Z": {
+    "name": "Corey de Wit",
     "title": "TBC",
     "abstract": "TBC"
   },
