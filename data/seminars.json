@@ -33,8 +33,8 @@
   "2026-10-27T15:30:00Z": {
     "name": "Corey de Wit",
     "exception": "3:30pm",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "Friendly conditions for IFSs with overlaps",
+    "abstract": "The dynamical, ergodic and geometric properties of Iterated Function Systems (IFSs) depend particularly on how the images of its attractor under IFS maps overlap. When these overlaps are minimal, they behave in predictable ways and allow for fruitful analysis. When the overlaps are substantial however, they can proliferate under the self-referential process and lead to chaos!, and calculating fractal dimensions and analysing the underlying measures can become difficult. Two extensively studied conditions which call for ‘nice’ overlaps are weak separation and finite type. It is conjectured these two conditions are equivalent, however it has only been proven for certain classes of IFS’s, mainly on the line. We will briefly discuss these notions, and introduce a symbolic subshift addressing the ‘top’ of the attractor, which when sofic, sheds a different light on this problem."
   },
   "2026-11-03": {
     "name": "Alex Iosevich",
