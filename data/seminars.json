@@ -38,8 +38,8 @@
   },
   "2026-11-03": {
     "name": "Alex Iosevich",
-    "title": "TBC",
-    "abstract": "TBC"
+    "title": "Spectral synthesis in Euclidean, Riemannian and arithmetic settings",
+    "abstract": "Back in the 1970s, Agmon and Hormader observed that if one considers the partial differential equation P(D)u=0, then the support of û is contained in the zero variety of the symbol P. They asked for L^p integrability of u that guarantees that u is identically 0, which can be viewed as a version of the Fourier Uncertainty Principle. We are going to discuss some recent results on this problem in the Euclidean (joint work with Shantanu Deodhar), Riemannian (joint work with Azita Mayeli and Emmett Wyman), and arithmetic (joint work with Zhihe Li and Ella Yu) setting. The interplay of ideas between the various settings will be emphasized throughout."
     },
   "2026-11-10": {
     "name": "Riku Anttila",
