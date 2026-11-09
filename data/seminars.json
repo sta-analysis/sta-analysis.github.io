@@ -43,6 +43,7 @@
     },
   "2026-11-10": {
     "name": "Riku Anttila",
+    "exception": "Tutorial Room 3B",
     "title": "Cartesian products of Sierpinski carpets do not attain their conformal dimension",
     "abstract": "It is a long-standing open question to determine whether the Sierpinski carpet attains its conformal dimension or not. While this problem remains unresolved, we prove that Cartesian products of Sierpinski carpets do not attain. The talk is based on the joint work with S. Eriksson-Bique; preprint available available at arXiv:2604.19600"
     },
